@@ -1,0 +1,35 @@
+Número recebido: 5531982003160
+Erro na inserção: Table 'uniminasposead.numeros_clicados' doesn't exist
+Número recebido: 5531982003160
+Inserção bem-sucedida
+Número recebido: 5531983525126
+Inserção bem-sucedida
+Número recebido: 5531992825436
+Inserção bem-sucedida
+Número recebido: 5531982699852
+Inserção bem-sucedida
+Número recebido: 5531981106217
+Inserção bem-sucedida
+Número recebido: 5531992424473
+Inserção bem-sucedida
+Número recebido: 5531981083287
+Inserção bem-sucedida
+Número recebido: 5531982003160
+Inserção bem-sucedida
+Marcação bem-sucedida
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Marcação bem-sucedida
+Marcação bem-sucedida
+Marcação bem-sucedida
+Marcação bem-sucedida
+Marcação bem-sucedida
+Marcação bem-sucedida
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
+Tentativa de clicar em um número já marcado
