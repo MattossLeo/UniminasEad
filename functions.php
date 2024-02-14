@@ -1,4 +1,5 @@
 <?php
+require_once $_SERVER['DOCUMENT_ROOT'] . '/wp-content/themes/uniminasead/inc/template-functions.php';
 
 function home_script_enqueue() {
     /*CSS*/
@@ -30,6 +31,23 @@ function ppr($pre) {
        <?php echo $pre?>
    </pre>
     <?php
+}
+
+function course_area($area){
+    $area_name = [
+        'direito' => 'Direito',
+        'educacao' => 'Educação',
+        'saude' => 'Saúde',
+        'psicologia' => 'Psicologia',
+        'empresarial' => 'Empresarial',
+        'servico-social' => 'Serviço Social',
+    ];
+
+    if (array_key_exists($area, $area_name)) {
+        return $area_name[$area];
+    } else {
+        return 'Area não encontrado';
+    }
 }
 
 function course_name($key){
