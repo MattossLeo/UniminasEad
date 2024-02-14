@@ -77,13 +77,13 @@ $menu_footer_areas = array(
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="end__footer--logo">
-                    <img width="178" height="47" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/Logo-Uniminas-Preto.svg" alt="Logo">
+                    <img width="178" height="47" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/Logo-Uniminas-Branco.svg" alt="Logo">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="end__footer--content">
-                    <p class="end__footer--text">Rua Ouro Preto 290, Centro, Ipatinga/Mg - CEP: 35160-020</p>
-                    <p class="end__footer--text"><strong>Horário de atendimento:</strong> Das 9h às 21h30 de segunda à sexta, aos sábados das 8h às 16h Grupo Focus de Educação LTDA - CNPJ: 14.334.814/0001-77</p>
+                    <p class="end__footer--text color-white">Rua Ouro Preto 290, Centro, Ipatinga/Mg - CEP: 35160-020</p>
+                    <p class="end__footer--text color-white"><strong>Horário de atendimento:</strong> Das 9h às 21h30 de segunda à sexta, aos sábados das 8h às 16h Grupo Focus de Educação LTDA - CNPJ: 14.334.814/0001-77</p>
                 </div>
             </div>
         </div>

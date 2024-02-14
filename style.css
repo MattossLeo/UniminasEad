@@ -215,6 +215,7 @@ a.main__banner--btn {
 @media only screen and (max-width: 767px){
     .main-banner {
         background-position: center;
+        padding: 90px 0;
     }
     .btn-banner {
         padding: 45px 0 0;
@@ -351,8 +352,8 @@ a.main__banner--btn {
 /*ACCELERATE-YOUR-GROWTH*/
 
 .accelerate-your-growth{
-    padding: 40px 0;
-    background: #202020;
+    padding: 80px 0;
+    background: #F2F2F2;
 }
 .main__title--your--growth {
     margin: 30px 0;
@@ -372,7 +373,7 @@ a.main__banner--btn {
     margin-top: 40px;
 }
 .home__btn--course{
-    background-color: #10b100;
+    background-color: #02B13F;
     color: white;
     padding: 10px 35px;
     border-radius: 5px;
@@ -388,6 +389,7 @@ a.main__banner--btn {
 .title-feedbacks{
     font-size: 1.8rem;
     font-weight: 600;
+    color: #274829;
 }
 .main__slick--feedbacks{
     margin-top: 30px;
@@ -396,7 +398,8 @@ a.main__banner--btn {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #202020;
+    background: #F2F2F2;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.07);
     border-radius: 8px;
     padding: 65px 55px 25PX;
     min-height: 334px;
@@ -423,7 +426,7 @@ a.main__banner--btn {
     right: 10px;
 }
 .main-arrow > .fa-solid {
-    color: white;
+    color: #274829;
 }
 @media only screen and (max-width: 767px){
     .main__card--feedbacks {
@@ -435,8 +438,8 @@ a.main__banner--btn {
 
 /*------FOOTER-------*/
 
-.main-footer {
-    background: #10b100;
+.main-footer, .end-footer {
+    background: #02B13F;
     padding: 80px 0 50px;
 }
 .menu--title, .social--title{
@@ -491,7 +494,7 @@ a.main__banner--btn {
 
 .banner-areas{
     padding: 80px 0;
-    background: linear-gradient(125deg, rgba(32,32,32,1) 50%, rgba(16,177,0,1) 50%);
+    background: linear-gradient(125deg, rgba(32,32,32,1) 50%, rgb(2, 177, 63) 50%);
 }
 .main__banner--area {
     display: flex;
@@ -522,7 +525,7 @@ a.main__banner--btn {
     margin: 10px 0px;
 }
 .main__course--text {
-    color: #10b100;
+    color: #02B13F;
     font-size: 22px;
     font-weight: 500;
 }
@@ -540,7 +543,7 @@ a.main__banner--btn {
 }
 span.btn__description--course {
     color: white;
-    background: #10b100;
+    background: #02B13F;
     padding: 5px 35px;
     margin-top: 30px;
     border-radius: 40px;
@@ -553,7 +556,7 @@ span.btn__description--course {
 
 .banner-course{
     padding: 80px 0;
-    background: linear-gradient(125deg, rgba(32,32,32,1) 50%, rgba(16,177,0,1) 50%);
+    background: linear-gradient(125deg, rgba(32,32,32,1) 50%, rgb(2, 177, 63) 50%);
 }
 .banner__course--content {
     display: flex;
@@ -628,7 +631,7 @@ span.btn__description--course {
     flex-direction: column;
     align-items: center;
     background: #202020;
-    color: #10b100;
+    color: #02B13F;
     border-radius: 8px;
     padding: 35px 20px;
     margin-top: 15px;
@@ -638,7 +641,7 @@ span.btn__description--course {
     font-size: 2.2rem;
 }
 .main__btn--prices {
-    background: #10b100;
+    background: #02B13F;
     color: white;
     padding: 10px 35px;
     border-radius: 30px;
