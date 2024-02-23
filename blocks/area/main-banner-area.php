@@ -1,22 +1,21 @@
 <?php
 $url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-
 // Remove o protocolo e o host da URL
 $url_path = parse_url($url, PHP_URL_PATH);
-
 // Obtém apenas a última parte da URL (sem a barra final, se houver)
 $area_name = basename($url_path);
-
 $area = course_area($area_name);
 $banner = '';
 $banner_text = '';
+
 switch ($area_name) {
     case 'direito':
-        $banner = '/wp-content/themes/uniminasead/assets/img/banner-area-direito.webp';
-        $banner_text = 'Aprimore suas <b>habilidades e conquiste novas oportunidades</b> na área jurídica com nossa <b>Pós-graduação em Direito</b>. Conte com nossa expertise e compromisso com a <b>excelência para impulsionar sua carreira.</b>';
+        $banner = '/wp-content/themes/uniminasead/assets/img/banners/banner-area-direito.webp';
+        $banner_text = 'Aprimore suas <b>habilidades e conquiste novas oportunidades</b> na área jurídica com nossa <b>Pós-graduação em Direito.</b> Conte com nossa expertise e compromisso com a <b>excelência para impulsionar sua carreira.</b>';
         break;
     case 'educacao':
-        $banner = 'banner-educacao.jpg';
+        $banner = '/wp-content/themes/uniminasead/assets/img/banners/banner-area-educacao.webp';
+        $banner_text = 'Aprimore suas <b>habilidades e abra portas para novas oportunidades</b> na área educacional com nossa <b>Pós-graduação em Educação.</b> Conte com nossa experiência e dedicação à qualidade para <b>impulsionar sua carreira rumo ao sucesso.</b>';
         break;
     case 'saude':
         $banner = 'banner-saude.jpg';
@@ -34,8 +33,6 @@ switch ($area_name) {
         $banner = 'banner-generico.jpg';
         break;
 }
-
-
 ?>
 <section class="main-banner-area" style="background: url(<?php echo $banner;?>)no-repeat;background-size: cover;padding: 150px 0;">
     <div class="container">

@@ -110,7 +110,7 @@
                     </h2>
                     <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
-                            <p>Nossas formas de pagamento disponíveis no site ou por meio do atendimento junto ao consultor são: parcelamento no cartão em até 12 vezes sem juros, boleto ou PIX à vista.</p>
+                            <p>Nossas formas de pagamento disponíveis no site ou por meio do atendimento junto ao consultor são: parcelamento no cartão em até 12 vezes sem juros ou PIX à vista.</p>
                         </div>
                     </div>
                 </div>

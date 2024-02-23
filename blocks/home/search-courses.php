@@ -10,12 +10,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="main__content--search">
-                <div class="input__search">
-                    <input class="main__input--search" type="search" placeholder="Digite o curso que você procura">
-                </div>
-                <div class="main__icon--search">
-                    <i class="fa-solid fa-magnifying-glass"></i>
+            <div class="col-lg-6 offset-lg-3">
+                <div class="main__content--search">
+                    <div class="input__search">
+                        <input class="main__input--search" type="search" placeholder="Digite o curso que você procura">
+                        <div class="main__icon--search">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

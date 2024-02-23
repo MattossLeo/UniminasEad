@@ -81,3 +81,5 @@ function form_contact(){
 }
 add_action('wp_ajax_form_contact', 'form_contact');
 add_action('wp_ajax_nopriv_form_contact', 'form_contact');
+
+
