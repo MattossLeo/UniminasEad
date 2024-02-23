@@ -28,6 +28,8 @@ Any violation of the use and direct ownership of the property may result in pros
 /*--PAYMENT-METHODS--*/
 /*-COURSE-DESCRIPTION*/
 /*--------FAQ--------*/
+/*----AREA-SEARCH----*/
+
 
 /*-------INDICE------*/
 
@@ -237,6 +239,7 @@ a.main__banner--btn {
 
 .search-courses{
     padding: 40px 0;
+    background: #f2f2f2;
 }
 .main__title--search {
     display: flex;
@@ -253,53 +256,24 @@ a.main__banner--btn {
     padding-left: 10px;
     padding-bottom: 5px;
 }
-.main__content--search {
-    display: flex;
-    justify-content: center;
+.main__input--search {
+    width: 100%;
+    background: transparent;
+    padding: 6px 30px 6px 19px;
+    border: 0 solid black;
+    border-bottom: 1px solid #00000075;
+    border-radius: 0 0 8px 8px;
+}
+.main__input--search:focus {
+    outline: none;
+}
+.input__search{
     position: relative;
 }
-.main__input--search {
-    width: 500px;
-    padding: 5px 20px;
-    border-radius: 25px;
-    border: 3px solid black;
-}
-
 .main__icon--search {
     position: absolute;
-    right: 330px;
     top: 7px;
-}
-@media only screen and (max-width: 1920px) {
-    .main__icon--search {
-        right: 420px;
-    }
-}
-@media only screen and (max-width: 1199px){
-    .main__icon--search {
-        right: 240px;
-    }
-}
-@media only screen and (max-width: 991px){
-    .main__icon--search {
-        right: 120px;
-    }
-}
-@media only screen and (max-width: 767px){
-    .main__icon--search {
-        right: 30px;
-    }
-}
-@media only screen and (max-width: 575px){
-    .input__search {
-        width: 100%;
-    }
-    .main__input--search {
-        width: 100%;
-    }
-    .main__icon--search {
-        right: 20px;
-    }
+    right: 10px;
 }
 
 /*---SEARCH-COURSES--*/
@@ -308,6 +282,7 @@ a.main__banner--btn {
 
 .area-couse{
     padding: 50px 0;
+    background: #f2f2f2;
 }
 .main__title--areas{
     text-align: center;
@@ -697,23 +672,39 @@ span.btn__description--course {
 
 /*--------FAQ--------*/
 
-.dashboard-listagem {
-    padding: 80px 0 100px;
+/*----AREA-SEARCH----*/
+
+.area-search{
+    padding: 80px 0;
 }
-.main__title--table{
-    text-align: center;
+.search--course{
+    margin-bottom: 45px;
 }
-table {
-    border-collapse: collapse;
+.main__card--courses {
+    background: #02B13F;
+    padding: 25px;
+    border-radius: 15px;
+}
+.card__courses--content {
+    padding: 20px 0;
+}
+.courses-texts{
+    font-size: 18px;
+}
+.main-prices{
+    font-size: 30px;
+}
+.main__card--btn{
     width: 100%;
 }
-
-th, td {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+.btn-courses {
+    background: white;
+    padding: 13px 9px;
+    font-size: 16px;
+    color: #02B13F;
+    font-weight: 600;
+    border-radius: 5px;
 }
 
-th {
-    background-color: #f2f2f2;
-}
+
+/*----AREA-SEARCH----*/
