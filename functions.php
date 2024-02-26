@@ -1,5 +1,5 @@
 <?php
-require_once $_SERVER['DOCUMENT_ROOT'] . '/wp-content/themes/uniminasead/inc/template-functions.php';
+require_once get_template_directory() . '/area-conn.php';
 
 function home_script_enqueue() {
     /*CSS*/
@@ -62,24 +62,3 @@ function course_name($key){
         return 'Curso não encontrado';
     }
 }
-
-function form_contact(){
-    $name = $_POST['name'];
-    $mail = $_POST['mail'];
-    $phone = $_POST['phone'];
-    $checkyes = $_POST['checkyes'];
-    $checkno = $_POST['checkno'];
-    $data = array([
-        'nome' => $name,
-        'email' => $mail,
-        'phone' => $phone,
-        'checkbox' => $checkyes,
-        'checkno' => $checkno
-    ]);
-    wp_send_json($data);
-    return $data;
-}
-add_action('wp_ajax_form_contact', 'form_contact');
-add_action('wp_ajax_nopriv_form_contact', 'form_contact');
-
-
