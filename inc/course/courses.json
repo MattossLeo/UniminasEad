@@ -1,0 +1,23 @@
+{
+  "cursos": [
+    "artes-moda-e-musica.json",
+    "ciencias.json",
+    "comunicacao-social.json",
+    "concursos.json",
+    "direito.json",
+    "educacao.json",
+    "empresarial-e-mba.json",
+    "engenharia-e-arquitetura.json",
+    "esportes.json",
+    "gastronomia.json",
+    "gestao-e-logistica-e-economia.json",
+    "marketing-e-coaching.json",
+    "meio-ambiente.json",
+    "psicologia.json",
+    "saude-e-estetica-e-farmacia.json",
+    "seguranca-publica.json",
+    "servico-social.json",
+    "tecnologia-da-informacao.json"
+  ]
+}
+
