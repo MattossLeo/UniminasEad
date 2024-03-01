@@ -222,6 +222,9 @@ a.main__banner--btn {
     .btn-banner {
         padding: 45px 0 0;
     }
+    .btn-banner {
+        margin-top: 20px;
+    }
    .border-green {
         width: 100% !important;
         left: 0 !important;
@@ -300,6 +303,10 @@ a.main__banner--btn {
     border-radius: 10px;
     box-shadow: 0 0 12px 1px #00000026;
     transition: all 0.6s ease;
+    text-decoration: none;
+}
+.card__area--icon {
+    height: auto;
 }
 
 /*----AREA-COURSE----*/
@@ -681,6 +688,7 @@ span.btn__description--course {
     margin-bottom: 45px;
 }
 .main__card--courses {
+    margin: 25px 0;
     background: #02B13F;
     padding: 25px;
     border-radius: 15px;
@@ -697,7 +705,11 @@ span.btn__description--course {
 .main__card--btn{
     width: 100%;
 }
+.main__card--link{
+    text-decoration: none;
+}
 .btn-courses {
+    text-decoration: none;
     background: white;
     padding: 13px 9px;
     font-size: 16px;
