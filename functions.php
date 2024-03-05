@@ -16,6 +16,9 @@ function home_script_enqueue() {
     /*JavaScript*/
     wp_enqueue_script('customjs', get_template_directory_uri() . '/assets/js/script.js', array('jquery'), '1.0.0', true);
 
+    /*Slick*/
+    wp_enqueue_script('customslick', get_template_directory_uri() . '/assets/js/slick.js', array('jquery'), '1.0.0', true);
+
     /* Bootstrap CSS */
     wp_enqueue_style('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css', array(), '5.3.2', 'all' );
 
@@ -83,4 +86,34 @@ function course_name($key){
     }
 }
 
+function load_more_courses() {
+    $per_page = 5; // Número de cursos por página
+    $page = $_POST['page'];
+    $area_name = $_POST['area'];
+    $area_file = "{$area_name}";
+
+    $courses_json_area = file_get_contents($area_file);
+    $decode_courses = json_decode($courses_json_area);
+
+    $offset = ($page - 1) * $per_page;
+
+    // Prepara os cursos a serem enviados
+    $courses_to_send = array();
+    for ($i = $offset; $i < min($offset + $per_page, count($decode_courses)); $i++) {
+        $course_name = $decode_courses[$i]->titulo;
+        $course_url = $decode_courses[$i]->url;
+        $course_objective = $decode_courses[$i]->Objetivos;
+        $courses_to_send[] = array(
+            'title' => $course_name,
+            'url' => $url . $course_url,
+            'objective' => mb_strimwidth($course_objective, '0', '140', '...')
+        );
+    }
+
+    // Envia os cursos como resposta JSON
+    wp_send_json($courses_to_send);
+}
+
+add_action('wp_ajax_load_more_courses', 'load_more_courses');
+add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
 
