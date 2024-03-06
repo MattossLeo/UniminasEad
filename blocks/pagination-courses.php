@@ -21,7 +21,7 @@ if ($courses_json !== false) {
             $area_file = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area";
             $courses_json = file_get_contents($area_file);
             $decode_courses = json_decode($courses_json);
-
+            ppr($decode_courses);
             // Exibir cursos com base na página atual e offset
             for ($i = $offset; $i < min($offset + $per_page, count($decode_courses)); $i++) {
                 $course_name = $decode_courses[$i]->titulo;
