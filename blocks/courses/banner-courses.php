@@ -1,66 +1,64 @@
+<?php
+$url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$url_path = parse_url($url, PHP_URL_PATH);
+
+$url_separate = explode('/', $url_path);
+$course_name = $url_separate['3'];
+$area_name = $url_separate['2'] . '.json';
+
+$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area_name";
+$courses_json = file_get_contents($json_courses);
+$courses = json_decode($courses_json);
+$filtered_courses = array_filter($courses, function ($course) use ($course_name) {
+    return $course->url === $course_name;
+});
+
+?>
 <section class="banner-courses">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-
-
-<?php
-$url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-$url_path = parse_url($url, PHP_URL_PATH);
-$area_name = explode('/', $url_path);
-
-
-$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/courses.json";
-$courses_json = file_get_contents($json_courses);
-$area = $area_name . '.json';
-
-
-if ($courses_json !== false) {
-
-    $courses_data = json_decode($courses_json, true);
-    if ($courses_data !== null && isset($courses_data['cursos'])) {
-
-        if (in_array($area, $courses_data['cursos'])) {
-            $area_file = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area";
-            $courses_json = file_get_contents($area_file);
-            $decode_courses = json_decode($courses_json);
-
-            foreach ($decode_courses as $key => $courses) {
-                /*ppr($courses);*/
-                $course_name = $courses->titulo;
-                $course_url = $courses->url;
-                $course_objective = $courses->Objetivos;
-                ?>
-
-
-                <div class="main__card--courses">
-                    <div class="row align-items-end">
-                        <div class="col-lg-9">
-                            <div class="card__courses--title">
-                                <h2 class="tittle-courses color-white"><?php echo $course_name; ?></h2>
-                            </div>
-                            <div class="card__courses--content">
-                                <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '140', '...'); ?></p>
-                            </div>
-                            <div class="card__courses--price">
-                                <p class="main-prices color-white"><b>12x25,90</b>&nbsp;&nbsp;&nbsp;<s
-                                        class="fake-price">12x 39,90</s></p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="main__card--btn">
-                                <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
-                            </div>
-                        </div>
+                <?php
+                foreach ($filtered_courses as $course){
+                    /*ppr($course);*/
+                    $course_name = $course->titulo;
+                    $workload = $course->conteudo->carga_horaria->carga_horaria_total;
+                    ?>
+                    <div class="main__course--banner">
+                        <p class="course__sub-title">Pós Graduação Ead em</p>
+                        <h2 class="title-course"><?php echo $course_name?></h2>
+                        <p class="banner-description">Prepare-se para uma jornada de desenvolvimento de habilidades cruciais para o sucesso profissional com o nosso curso de <b><?php echo mb_convert_case($course_name,  MB_CASE_TITLE, 'utf8')?></b>, abrangendo comunicação, liderança, resolução de problemas e colaboração, impulsionando não apenas sua carreira, mas também seu crescimento pessoal e profissional.</p>
+                    </div>
+                    <?php  } ?>
+                <div class="main__info--card">
+                    <div class="main__infos--options color-white">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
+                             alt="green-check">
+                        <p>Instituição <b>Credenciada pelo MEC</b></p>
+                    </div>
+                    <div class="main__infos--options color-white">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
+                             alt="green-check">
+                        <p>Cursos com <b>conclusão em 3 meses</b></p>
+                    </div>
+                    <div class="main__infos--options color-white">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
+                             alt="green-check">
+                        <p>Certificado Digitalizado</p>
                     </div>
                 </div>
-                <?php
-            }
-        }
-    }
-}
-?>
-
+                <div class="course__banner--description">
+                    <div class="course-workload">
+                        <p class="text-workload">Carga Horaria:<br><b><?php echo $workload?></b></p>
+                    </div>
+                    <div class="course-modality">
+                        <p class="text-modality">Modalidade:<br><b>Online</b></p>
+                    </div>
+                </div>
+                <div class="btn__choose-your-course btn-banner">
+                    <span class="border-green">&nbsp;</span>
+                    <a class="main__banner--btn" href="#areaCourse">ESCOLHA SEU CURSO</a>
+                </div>
             </div>
         </div>
     </div>

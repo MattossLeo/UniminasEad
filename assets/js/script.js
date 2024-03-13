@@ -62,7 +62,7 @@ $("#form").on('submit',function(e){
 });
 let page = 1;
 
-$('.btn-courses').on('click', function () {
+$('.btn-pagination').on('click', function () {
     let btn = $(this);
     btn.text('Carregando...');
     let data = new FormData();

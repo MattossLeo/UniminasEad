@@ -38,6 +38,9 @@ body{
     zoom: 0.9;
     font-family: "Poppins";
 }
+a{
+    text-decoration: none;
+}
 p{
     margin: 0 !important;
 }

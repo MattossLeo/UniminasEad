@@ -38,7 +38,7 @@ $area_file = $area_name . '.json';
                     <!-- Aqui é onde os cursos serão exibidos -->
                     <?php include get_template_directory(). '/blocks/pagination-courses.php'; ?>
                 </div>
-                <button id="getCourses" data-area="<?php echo $area_file?>" class="btn-courses">Carregar Mais</button>
+                <button id="getCourses" data-area="<?php echo $area_file?>" class="btn-pagination">Carregar Mais</button>
             </div>
         </div>
     </div>
