@@ -1,3 +1,4 @@
+
 <?php
 $per_page = 5; // Número de cursos por página
 $page = isset($_POST['page']) ? $_POST['page'] : 1; // Página atual
@@ -21,12 +22,13 @@ if ($courses_json !== false) {
             $area_file = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area";
             $courses_json = file_get_contents($area_file);
             $decode_courses = json_decode($courses_json);
-            ppr($decode_courses);
+
             // Exibir cursos com base na página atual e offset
             for ($i = $offset; $i < min($offset + $per_page, count($decode_courses)); $i++) {
+
                 $course_name = $decode_courses[$i]->titulo;
                 $course_url = $decode_courses[$i]->url;
-                $course_objective = $decode_courses[$i]->Objetivos;
+                $course_objective = $decode_courses[$i]->conteudo->objetivos;
                 ?>
                 <div class="main__card--courses">
                     <div class="row align-items-end">
@@ -35,7 +37,7 @@ if ($courses_json !== false) {
                                 <h2 class="tittle-courses color-white"><?php echo $course_name; ?></h2>
                             </div>
                             <div class="card__courses--content">
-                                <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '140', '...'); ?></p>
+                                <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '190', '...'); ?></p>
                             </div>
                             <div class="card__courses--price">
                                 <p class="main-prices color-white"><b>12x25,90</b>&nbsp;&nbsp;&nbsp;<s

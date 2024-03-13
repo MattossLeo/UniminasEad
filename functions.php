@@ -1,5 +1,7 @@
 <?php
 
+define('SITE_URL', 'https://uniminasposead.com.br/');
+
 function ppr($pre) {
     ?>
     <pre>
@@ -8,7 +10,6 @@ function ppr($pre) {
     <?php
 }
 require_once get_template_directory() . '/area-conn.php';
-
 function home_script_enqueue() {
     /*CSS*/
     wp_enqueue_style('customstyle', get_template_directory_uri() . '/style.css', array(), '1.0.0', 'all');
@@ -28,7 +29,6 @@ function home_script_enqueue() {
 }
 
 add_action('wp_enqueue_scripts', 'home_script_enqueue');
-
 function register_my_menus() {
     register_nav_menus(
         array(
@@ -41,9 +41,6 @@ function register_my_menus() {
     );
 }
 add_action( 'init', 'register_my_menus' );
-
-
-
 function course_area($area){
     $area_name = [
         'direito' => 'Direito',
@@ -102,7 +99,7 @@ function load_more_courses() {
     for ($i = $offset; $i < min($offset + $per_page, count($decode_courses)); $i++) {
         $course_name = $decode_courses[$i]->titulo;
         $course_url = $decode_courses[$i]->url;
-        $course_objective = $decode_courses[$i]->Objetivos;
+        $course_objective = $decode_courses[$i]->conteudo->objetivos;
         $courses_to_send[] = array(
             'title' => $course_name,
             'url' => $url . $course_url,
