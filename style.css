@@ -29,6 +29,8 @@ Any violation of the use and direct ownership of the property may result in pros
 /*-COURSE-DESCRIPTION*/
 /*--------FAQ--------*/
 /*----AREA-SEARCH----*/
+/*---BANNER-COURSES--*/
+/*DESCRIPTION-COURSES*/
 
 
 /*-------INDICE------*/
@@ -39,7 +41,7 @@ body{
     font-family: "Poppins";
 }
 a{
-    text-decoration: none;
+    text-decoration: none !important;
 }
 p{
     margin: 0 !important;
@@ -215,6 +217,7 @@ a.main__banner--btn {
     border-radius: 55px;
     z-index: 9;
     text-align: center;
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 767px){
@@ -295,18 +298,34 @@ a.main__banner--btn {
     margin-bottom: 20px;
 }
 .main__card--area {
-    background: #02b13f;
-    color:#FFFFFF ;
+    color: #FFFFFF;
     display: flex;
     text-align: center;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     margin: 15px;
     padding: 35px 20px;
     border-radius: 10px;
     box-shadow: 0 0 12px 1px #00000026;
     transition: all 0.6s ease;
-    text-decoration: none;
+    min-height: 200px;
+    position: relative;
+}
+.main__card--area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #02b13f1c 100%;
+    pointer-events: none;
+    z-index: 0;
+    border-radius: 15px;
+}
+.cards_areas {
+    z-index: 1;
 }
 .card__area--icon {
     height: auto;
@@ -471,6 +490,23 @@ a.main__banner--btn {
         text-align: center;
     }
 
+}
+.main__copyright {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 18px;
+}
+.btn-pagination {
+    background: #02B13F;
+    color: white;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 5px;
+}
+.main__btn--pagination{
+    display: flex;
+    justify-content: center;
 }
 
 /*------FOOTER-------*/
@@ -678,6 +714,13 @@ span.btn__description--course {
 }
 .accordion-button:not(.collapsed){
     background: none !important;
+    color: #02B13F !important;
+}
+.accordion-button.faq__button--accordion {
+    font-size: 20px;
+}
+.accordion-body {
+    font-size: 18px;
 }
 
 /*--------FAQ--------*/
@@ -723,3 +766,129 @@ span.btn__description--course {
 
 
 /*----AREA-SEARCH----*/
+
+/*---BANNER-COURSES--*/
+
+.course__sub-title {
+    font-family: Lufga, sans-serif;
+    color: white;
+    font-size: 22px;
+}
+.title-course {
+    font-size: 3.4rem;
+    color: white;
+    font-weight: 700;
+}
+.banner-description {
+    color: white;
+    font-size: 18px;
+}
+.course__banner--description {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 0 0;
+    color: white;
+    font-size: 23px;
+}
+
+/*---BANNER-COURSES--*/
+
+/*DESCRIPTION-COURSES*/
+
+.description-course {
+    padding: 80px 0;
+}
+.main__course--objective, .main__course--target-audience {
+    margin: 0 0 50px;
+}
+.title-target-audience {
+    font-size: 2.4rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.main-text {
+    font-size: 18px;
+    color: black;
+}
+.main__diciplines--infos {
+    display: flex;
+    margin-bottom: 22px !important;
+    padding: 10px 7px;
+    border: 1px solid #02B13F;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.main__styck--options {
+    position: sticky;
+    top: 40px;
+}
+.countdown-title {
+    font-size: 27px;
+}
+.main__cout--down {
+    background: #02B13F;
+    color: white;
+    font-size: 33px;
+    padding: 25px;
+    border-radius: 20px 20px 0 0;
+    text-align: center;
+}
+.main__items--options {
+    background: #202020;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+.main__prices {
+    display: flex;
+    flex-direction: column;
+}
+.price-course {
+    font-size: 2.4rem;
+}
+.fake-price-course {
+    font-size: 1.6rem;
+}
+.items-options {
+    display: flex;
+    flex-direction: column;
+    text-align: initial;
+    padding-left: 20px;
+}
+.items-options {
+    display: flex;
+    flex-direction: column;
+    text-align: initial;
+    padding-left: 20px;
+    margin-top: 35px;
+}
+.main__items--content {
+    display: flex;
+    align-items: center;
+}
+.main-options {
+    padding-left: 15px;
+    font-size: 20px;
+}
+.item-bonus {
+    margin: 35px 0;
+}
+.title-bonus {
+    font-size: 24px;
+    font-weight: 700;
+}
+.bonus__text--option {
+    font-size: 20px;
+}
+.main__button--form {
+    background: white;
+    font-weight: 600;
+    color: #02B13F;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+/*DESCRIPTION-COURSES*/

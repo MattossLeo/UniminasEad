@@ -11,7 +11,7 @@ foreach ($json_areas as $areas_courses) {
     $area_name = course_area($area_url);
     ?>
     <div class="col-lg-4">
-        <a href="<?php echo esc_url(get_site_url())?>/pos-graduacao/<?php echo $area_url ?>" class="main__card--area">
+        <a style="background: url('<?php echo get_template_directory_uri()?>/assets/img/banners/<?php echo $area_url?>.webp')no-repeat;background-size: cover;" href="<?php echo esc_url(get_site_url())?>/pos-graduacao/<?php echo $area_url ?>" class="main__card--area">
             <div class="cards_areas">
                 <!--<img width="250" height="155" src="<?php /*echo get_template_directory_uri()*/?>/assets/img/artes-moda-musica.svg" loading="lazy" class="card__area--icon" alt="card-img">-->
                 <h3 class="main__title--h3"><?php echo esc_html($area_name)?></h3>

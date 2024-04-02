@@ -83,10 +83,13 @@ $menu_footer_areas = array(
             <div class="col-lg-6">
                 <div class="end__footer--content">
                     <p class="end__footer--text color-white">Rua Ouro Preto 290, Centro, Ipatinga/Mg - CEP: 35160-020</p>
-                    <p class="end__footer--text color-white"><strong>Horário de atendimento:</strong> Das 9h às 21h30 de segunda à sexta, aos sábados das 8h às 16h Grupo Focus de Educação LTDA - CNPJ: 14.334.814/0001-77</p>
+                    <p class="end__footer--text color-white"><strong>Horário de atendimento:</strong> Das 8h00 às 18h00, de segunda à sexta <br> Faculdade Uniminas LTDA - CNPJ: 43.283.797/0001-94</p>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="main__copyright">
+        <p>Copyright © 2024 – Desenvolvido por Faculdade Uniminas</p>
     </div>
 </section>
 </body>

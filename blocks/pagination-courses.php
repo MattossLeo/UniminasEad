@@ -40,8 +40,7 @@ if ($courses_json !== false) {
                                 <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '190', '...'); ?></p>
                             </div>
                             <div class="card__courses--price">
-                                <p class="main-prices color-white"><b>12x25,90</b>&nbsp;&nbsp;&nbsp;<s
-                                        class="fake-price">12x 39,90</s></p>
+                                <p class="main-prices color-white"><b>12x34,90</b>&nbsp;&nbsp;&nbsp;<s class="fake-price">12x 44,90</s></p>
                             </div>
                         </div>
                         <div class="col-lg-3">
