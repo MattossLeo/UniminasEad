@@ -1,3 +1,25 @@
+/*----Menu Mobile Click----*/
+$('.main__menu--svg').on('click', function(){
+    if ($('.main__menu--mob').css("display") === "none") {
+        $('.main__menu--mob').toggle();
+        $('.menu__mob--content').animate({
+            width: "100%"
+        }, 250);
+        $('body').css({
+            "overflow-y": 'hidden',
+        });
+    }else {
+        $('body').css({
+            "overflow-y": 'scroll',
+        });
+        $('.menu__mob--content').animate({
+            width: "0%"
+        }, 250, function () {
+            $('.main__menu--mob').toggle();
+        });
+    }
+});
+
 /*----jQuery Redirect Menu----*/
 
 $('.menu_header-mob li a').click(function(){
