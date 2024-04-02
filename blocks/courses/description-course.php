@@ -17,25 +17,96 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
 <section class="description-course">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-7">
                 <?php
                 foreach ($filtered_courses as $course){
-                    /*ppr($course);*/
+//                    ppr($course);
                     $course_objective = $course->conteudo->objetivos;
                     $course_public = $course->conteudo->publico_alvo;
                     $course_disciplines = $course->conteudo->carga_horaria->disciplinas;
+                    $full_workload = $course->conteudo->carga_horaria->carga_horaria_total;
                     ?>
                     <div class="main__course--description">
+                        <div class="main__course--objective">
+                            <h3 class="title-target-audience">Objetivos</h3>
+                            <p class="objective-text main-text"><?php echo $course_objective;?></p>
+                        </div>
+                        <div class="main__course--target-audience">
+                            <h3 class="title-target-audience">Publico Alvo</h3>
+                            <p class="objective-text main-text"><?php echo $course_public;?></p>
+                        </div>
+                        <div class="main__course--disciples">
+                            <h3 class="title-target-audience">Modulos</h3>
+                            <?php foreach ($course_disciplines as $disciplines){
+                                /*ppr($course);*/
+                                $disciplines_name = $disciplines->nome;
+                                $disciplines_ch = $disciplines->ch;
+                            ?>
+                                    <div class="main__diciplines--infos">
+                                        <p class="diciplines-text main-text"><?php echo $disciplines_name;?></p>
+                                        <p class="diciplines-text main-text">| <?php echo $disciplines_ch;?></p>
+                                    </div>
 
-                        
+                            <?php } ?>
+                            <div class="main__diciplines--infos">
+                                <p class="diciplines-text main-text">Carga Horária Total</p>
+                                <p class="diciplines-text main-text"><?php echo $full_workload;?></p>
+                            </div>
+                        </div>
+                        <?php } ?>
+
                     </div>
-                    <?php
-                    foreach ($course_disciplines as $disciplines){
-                        ppr($disciplines->nome);
-                    }
-
-                }
-                ?>
+            </div>
+            <div class="col-lg-5">
+                <div class="main__styck--options">
+                    <div class="main__cout--down">
+                        <p class="countdown-title">Essa promoção acaba em:</p>
+                        <h2 style="margin: 0;" id="countdown"></h2>
+                    </div>
+                    <div class="main__items--options">
+                        <div class="main__prices">
+                            <p class="price-course"><b>12x R$34,90</b></p>
+                            <p class="fake-price-course"><s>12x R$44,90 </s>No cartão</p>
+                        </div>
+                        <div class="items-options">
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">100% Online</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">Credenciado pelo MEC</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">Início imediato</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">TCC opcional</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">Sem taxa de matrícula</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">Conclusão em 6 meses</p>
+                            </div>
+                            <div class="main__items--content">
+                                <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                                <p class="main-options">Certificado Digitalizado</p>
+                            </div>
+                        </div>
+                        <div class="item-bonus">
+                            <h3 class="title-bonus">Bônus</h3>
+                            <p class="bonus__text--option">1 Pós Graduação Gratuita</p>
+                        </div>
+                        <div class="main__button--offer">
+                            <a href="#" class="main__button--form">FAZER MATRÍCULA</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

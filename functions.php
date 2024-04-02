@@ -55,10 +55,10 @@ function course_area($area){
         'engenharia-e-arquitetura' => 'Engenharia e Arquitetura',
         'esportes' => 'Esportes',
         'gastronomia' => 'Gastronomia',
-        'gestao-e-logistica-e-economia' => 'Gestão e Logística',
+        'gestao-e-logistica-e-economia' => 'Gestão, Logística e Economia',
         'marketing-e-coaching' => 'Marketing e Coaching',
         'meio-ambiente' => 'Meio Ambiente',
-        'saude-e-estetica-e-farmacia' => 'Saúde e Estética',
+        'saude-e-estetica-e-farmacia' => 'Saúde, Estética e Fármacia',
         'seguranca-publica' => 'Segurança Publica',
         'tecnologia-da-informacao' => 'Tecnologia da Informação',
     ];

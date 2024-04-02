@@ -4,9 +4,10 @@ $url_path = parse_url($url, PHP_URL_PATH);
 
 $url_separate = explode('/', $url_path);
 $course_name = $url_separate['3'];
-$area_name = $url_separate['2'] . '.json';
+$area_json = $url_separate['2'] . '.json';
+$area_name = $url_separate['2'];
 
-$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area_name";
+$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/$area_json";
 $courses_json = file_get_contents($json_courses);
 $courses = json_decode($courses_json);
 $filtered_courses = array_filter($courses, function ($course) use ($course_name) {
@@ -14,13 +15,12 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
 });
 
 ?>
-<section class="banner-courses">
+<section class="banner-courses" style="background: url('<?php echo get_template_directory_uri()?>/assets/img/banners/<?php echo $area_name?>.webp')no-repeat;background-size: cover;padding: 150px 0;">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <?php
                 foreach ($filtered_courses as $course){
-                    /*ppr($course);*/
                     $course_name = $course->titulo;
                     $workload = $course->conteudo->carga_horaria->carga_horaria_total;
                     ?>
@@ -39,7 +39,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                     <div class="main__infos--options color-white">
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
                              alt="green-check">
-                        <p>Cursos com <b>conclusão em 3 meses</b></p>
+                        <p>Conclusão minima<b> em 3 meses</b></p>
                     </div>
                     <div class="main__infos--options color-white">
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
@@ -47,12 +47,16 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                         <p>Certificado Digitalizado</p>
                     </div>
                 </div>
-                <div class="course__banner--description">
-                    <div class="course-workload">
-                        <p class="text-workload">Carga Horaria:<br><b><?php echo $workload?></b></p>
-                    </div>
-                    <div class="course-modality">
-                        <p class="text-modality">Modalidade:<br><b>Online</b></p>
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="course__banner--description">
+                            <div class="course-workload">
+                                <p class="text-workload">Carga Horaria:<br><b><?php echo $workload?></b></p>
+                            </div>
+                            <div class="course-modality">
+                                <p class="text-modality">Modalidade:<br><b>Online</b></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="btn__choose-your-course btn-banner">
