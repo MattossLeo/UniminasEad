@@ -72,7 +72,7 @@ function course_area($area){
 
 
 function load_more_courses() {
-    $per_page = 5; // Número de cursos por página
+    $per_page = 6; // Número de cursos por página
     $page = $_POST['page'];
     $area_name = $_POST['area'];
     $area_file = "{$area_name}";
@@ -133,3 +133,54 @@ function form_data_send() {
 }
 add_action('wp_ajax_form_data_send', 'form_data_send');
 add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');
+
+
+function normalizeString($str) {
+    $str = mb_convert_encoding($str, 'UTF-8', 'UTF-8');
+    $str = mb_strtolower($str, 'UTF-8');
+    return $str;
+}
+function search_courses(){
+    $json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/areas.json";
+    $courses_json_content = file_get_contents($json_courses);
+    $courses_list = json_decode($courses_json_content, true);
+    $jsonFiles = $courses_list['cursos'];
+
+    if (isset($_POST['searchData'])) {
+
+        $searchCourses = normalizeString($_POST['searchData']);
+        $response = [];
+
+        $basePath = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/";
+
+        foreach ($jsonFiles as $jsonFile) {
+            $filePath = $basePath . $jsonFile;
+
+            if (file_exists($filePath)) {
+                $course_content = file_get_contents($filePath);
+                $courses = json_decode($course_content, true);
+
+                foreach ($courses as $course) {
+                    $tituloLower = normalizeString($course['titulo']);
+                    $urlLower = normalizeString($course['url']);
+
+                    if (mb_stripos($tituloLower, $searchCourses) !== false || mb_stripos($urlLower, $searchCourses) !== false) {
+                        $response[] = [
+                            'titulo' => $course['titulo'],
+                            'url' => $course['url'],
+                            'area' => $course['area']
+                        ];
+                    }
+                }
+            }
+        }
+
+        header('Content-Type: application/json');
+        wp_send_json($response);
+        die();
+        return json_encode($response);
+    }
+}
+
+add_action('wp_ajax_search_courses', 'search_courses');
+add_action('wp_ajax_nopriv_search_courses', 'search_courses');

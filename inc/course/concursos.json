@@ -23,7 +23,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -38,7 +38,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-administrativo-e-gestao-publica",
@@ -64,7 +64,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -79,7 +79,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-publica",
@@ -110,7 +110,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -125,7 +125,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-publico",
@@ -149,7 +149,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -164,7 +164,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-aplicado-ao-exercicio-da-advocacia",
@@ -192,7 +192,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -207,7 +207,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-trabalho-e-processo-do-trabalho-tribunais-trabalhistas-area-judiciaria",
@@ -239,7 +239,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -254,7 +254,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-e-processo-eleitoral-tribunais-eleitorais-area-administrativa",
@@ -285,7 +285,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -300,7 +300,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-e-processo-eleitoral-tribunais-eleitorais-area-judiciaria",
@@ -331,7 +331,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -346,7 +346,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-legislativo",
@@ -377,7 +377,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -392,7 +392,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-societaria",
@@ -423,7 +423,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -438,7 +438,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-gerencial",
@@ -469,7 +469,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -484,7 +484,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-internacional",
@@ -515,7 +515,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -530,7 +530,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-tributaria-e-auditoria-no-setor-publico",
@@ -560,7 +560,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -575,7 +575,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "investigacao-criminal-e-legislacao-penal",
@@ -605,7 +605,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -620,7 +620,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-orcamentaria-e-financeira",
@@ -650,7 +650,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -665,7 +665,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "poder-judiciario",
@@ -695,7 +695,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -710,7 +710,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-trabalho-e-processo-do-trabalho-tribunais-trabalhistas-area-administrativa",
@@ -741,7 +741,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -756,7 +756,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "seguranca-publica",
@@ -785,7 +785,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "concursos",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -800,6 +800,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CONCURSOS PÚBLICOS"
+    "categoria": "pos-graduacao"
   }
 ]

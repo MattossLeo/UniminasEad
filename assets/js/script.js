@@ -65,28 +65,39 @@ $('.btn-pagination').on('click', function () {
         processData: false,
         contentType: false,
         success: function (response) {
-            console.log(response);
             if (response.length > 0) {
                 $.each(response, function (index, course) {
-                    let div = $('<div>').addClass('main__card--courses');
-                    let row = $('<div>').addClass('row align-items-end');
-                    let col1 = $('<div>').addClass('col-lg-9');
-                    let col2 = $('<div>').addClass('col-lg-3');
-                    col1.append($('<div>').addClass('card__courses--title').append($('<h2>').addClass('tittle-courses color-white').text(course.title)));
-                    col1.append($('<div>').addClass('card__courses--content').append($('<p>').addClass('courses-texts color-white').text(course.objective)));
-                    col1.append($('<div>').addClass('card__courses--price').append($('<p>').addClass('main-prices color-white').html('<b>12x34,90</b>&nbsp;&nbsp;&nbsp;<s class="fake-price">12x 44,90</s>')));
-                    col2.append($('<div>').addClass('main__card--btn').append($('<a>').addClass('btn-courses').attr('href', course.url).text('CONHEÇER O CURSO')));
-                    row.append(col1).append(col2);
-                    div.append(row);
-                    $('#cursos-container').append(div);
+                    let htmlContent = `
+<div class="col-lg-4">
+    <div class="main__card--courses">
+        <div class="row align-items-end">
+            <div class="col-lg-9">
+                <div class="course--main__card">
+                    <div class="card__courses--title"><h2 class="tittle-courses color-white">${course.title}</h2></div>
+                    <div class="card__courses--content"><p class="courses-texts color-white">${course.objective}</p></div>
+                    <div class="card__courses--price">
+                        <p class="main-prices color-white"><b>12x34,90</b>&nbsp;&nbsp;&nbsp;<s class="fake-price">12x 44,90</s></p>
+                    </div>
+                    <div class="main__card--btn"><a class="btn-courses" href="${course.url}" target="_blank">CONHEÇER O CURSO</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>`;
+
+                    document.querySelector('#cursos-container .row').insertAdjacentHTML('beforeend', htmlContent);
                 });
-                page++; // Atualizar a variável page
-                console.log(page);
+                page++;
                 btn.text('Carregar Mais');
             } else {
-                btn.text('Todos os Cursos carregados');
+                btn.text('Todos os Cursos Carregados');
+                btn.prop('disabled', true);
             }
         },
+        error: function(xhr, status, error) {
+            console.error("Erro na requisição: ", error);
+            btn.text('Erro ao Carregar');
+        }
     });
 });
 
@@ -140,11 +151,49 @@ $('document').ready(function() {
 /*---- Popup ----*/
 
 /*----Search Courses----*/
-
-    $('#searchCourses').on('input', function () {
-        let words = $(this).val().split(' ').filter(function (el) {return el.length != 0;});
-        console.log(words);
+$(document).ready(function() {
+    $('.search-courses').on('input', function () {
+        let words = $(this).val();
+        let data = {
+            "action": 'search_courses',
+            "searchData": words
+        };
+        if (words.length >= 3) {
+            $.ajax({
+                url: 'https://uniminasposead.com.br/wp-admin/admin-ajax.php',
+                type: 'POST',
+                dataType: 'json',
+                data: data,
+                success: function(data) {
+                    $('.results-search').css('display', 'block');
+                    $(".results-search").empty();
+                    if (data.length > 0) {
+                        $(".results-search").show();
+                        if (data.length > 5) {
+                            $(".results-search").css('overflow-y', 'scroll');
+                        } else {
+                            $(".results-search").css('overflow-y', 'hidden');
+                        }
+                        data.forEach(function(course) {
+                            $(".results-search").append(
+                                `<div class="course-result">
+                                     <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
+                                        <p class="main__options--courses">${course.titulo}</p>
+                                     </a>
+                                 </div>`
+                            );
+                        });
+                    } else {
+                        $(".results-search").hide();
+                    }
+                }
+            });
+        } else {
+            $(".results-search").empty();
+            $(".results-search").hide();
+        }
     });
+});
 
 /*----Search Courses----*/
 
@@ -236,9 +285,6 @@ $(document).ready(function() {
                 console.log(response)
                 //window.location.href = 'https://uniminasposead.com.br/obrigado';
             },
-            error: function() {
-                alert('Erro na solicitação AJAX.');
-            }
         });
     });
 });

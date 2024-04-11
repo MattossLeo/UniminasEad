@@ -8,8 +8,8 @@ $course_name = $url_separate['3'];
 ?>
 <section class="main__form--content">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 offset-3">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
                 <div class="popup-content">
                     <span id="closeBtn" class="closeBtn">&times;</span>
                     <div class="main__title--form">

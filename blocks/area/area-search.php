@@ -23,25 +23,22 @@ $area_file = $area_name . '.json';
             <div class="col-lg-6 offset-lg-3">
                 <div class="search--course">
                     <div class="input__search">
-                        <input class="main__input--search" id="searchCourse" type="search"
-                               placeholder="Digite o curso que você procura">
+                        <input class="main__input--search search-courses" id="searchCourse" type="search" placeholder="Digite o curso que você procura">
                         <div class="main__icon--search">
                             <i class="fa-solid fa-magnifying-glass"></i>
                         </div>
+                        <div class="results-search" id="results"></div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div id="cursos-container">
-                    <!-- Aqui é onde os cursos serão exibidos -->
-                    <?php include get_template_directory(). '/blocks/pagination-courses.php'; ?>
-                </div>
-                <div class="main__btn--pagination">
-                    <button id="getCourses" data-area="<?php echo $area_file?>" class="btn-pagination">Carregar Mais</button>
-                </div>
+        <div id="cursos-container">
+            <div class="row">
+                <?php include get_template_directory(). '/blocks/pagination-courses.php'; ?>
             </div>
+        </div>
+        <div class="main__btn--pagination">
+            <button id="getCourses" data-area="<?php echo $area_file?>" class="btn-pagination">Carregar Mais</button>
         </div>
     </div>
 </section>

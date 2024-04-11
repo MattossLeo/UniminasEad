@@ -88,7 +88,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -103,7 +103,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-de-seguranca-do-trabalho",
@@ -184,7 +184,7 @@
         "carga_horaria_total": "660 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "600.00",
     "opcao1": "8000.00",
@@ -199,7 +199,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-patrimonio",
@@ -280,7 +280,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -295,7 +295,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-em-seguranca-do-trabalho-com-enfase-em-auditoria",
@@ -386,7 +386,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -401,7 +401,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-para-engenheiros",
@@ -492,7 +492,7 @@
         "carga_horaria_total": "760 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -507,7 +507,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-comercial",
@@ -598,7 +598,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -613,7 +613,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-da-paisagem",
@@ -704,7 +704,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -719,7 +719,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-de-software",
@@ -810,7 +810,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -825,7 +825,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-cidade",
@@ -916,7 +916,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -931,7 +931,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-design-de-interiores",
@@ -1017,7 +1017,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1032,7 +1032,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-projetos-na-era-digital",
@@ -1123,7 +1123,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1138,7 +1138,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-escolar",
@@ -1229,7 +1229,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1244,7 +1244,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-construcao-e-gestao-de-edificacoes-sustentaveis",
@@ -1335,7 +1335,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1350,7 +1350,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "calculo-estrutural-e-fundacoes",
@@ -1441,7 +1441,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1456,7 +1456,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "cidades-inteligentes-smart-cities",
@@ -1547,7 +1547,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1562,7 +1562,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencia-e-engenharia-de-materiais",
@@ -1638,7 +1638,7 @@
         "carga_horaria_total": "720h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1653,7 +1653,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenho-ambiental",
@@ -1744,7 +1744,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1759,7 +1759,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-e-gerenciamento-de-projetos-em-bim-bim-manager",
@@ -1850,7 +1850,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1865,7 +1865,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "design-para-mobilidade-urbana",
@@ -1956,7 +1956,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1971,7 +1971,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "design-sustentavel",
@@ -2062,7 +2062,7 @@
         "carga_horaria_total": "720h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2077,7 +2077,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "construcao-civil-residenciais-industriais-e-especiais",
@@ -2168,7 +2168,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2183,7 +2183,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "construcoes-sustentaveis-e-ecourbanismo",
@@ -2274,7 +2274,7 @@
         "carga_horaria_total": 720
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2289,7 +2289,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "controle-da-qualidade-na-industria-quimica",
@@ -2380,7 +2380,7 @@
         "carga_horaria_total": "660 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2395,7 +2395,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "geoprocessamento",
@@ -2486,7 +2486,7 @@
         "carga_horaria_total": "760 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2501,7 +2501,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-de-obras-e-tecnologia-da-construcao",
@@ -2592,7 +2592,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2607,7 +2607,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "implantacao-de-sistema-bim",
@@ -2693,7 +2693,7 @@
         "carga_horaria_total": 700
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2708,7 +2708,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "manufatura-mecanica-industrial",
@@ -2794,7 +2794,7 @@
         "carga_horaria_total": 720
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2809,7 +2809,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "master-bim-specialist",
@@ -2900,7 +2900,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2915,7 +2915,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pavimentacao-e-restauracao-rodoviaria",
@@ -3011,7 +3011,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3026,7 +3026,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-de-cidades",
@@ -3111,7 +3111,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3126,7 +3126,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "projetos-de-arquitetura-e-urbanismo-em-areas-de-interesse-cultural",
@@ -3202,7 +3202,7 @@
         "carga_horaria_total": 620
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3217,7 +3217,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "projetos-de-fundacoes-e-contencoes",
@@ -3308,7 +3308,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3323,7 +3323,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "projetos-urbanos-para-loteamentos-e-condominios-urbanisticos",
@@ -3414,7 +3414,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3429,7 +3429,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "quimica-geral-e-industrial",
@@ -3520,7 +3520,7 @@
         "carga_horaria_total": "840 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3535,7 +3535,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "restauracao-de-arquitetura",
@@ -3626,7 +3626,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3641,7 +3641,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "sistemas-de-gestao-integrada-de-qualidade-seguranca-meio-ambiente-e-sustentabilidade",
@@ -3732,7 +3732,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3747,7 +3747,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tecnicas-construtivas",
@@ -3823,7 +3823,7 @@
         "carga_horaria_total": 680
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3838,7 +3838,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "vants-e-drones-legislacao-planejamento-e-aplicacoes",
@@ -3919,7 +3919,7 @@
         "carga_horaria_total": "640h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3934,7 +3934,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "automacao-industrial",
@@ -4025,7 +4025,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4040,7 +4040,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-de-projetos",
@@ -4141,7 +4141,7 @@
         "carga_horaria_total": "720h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4156,7 +4156,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-de-projetos-pmi",
@@ -4232,7 +4232,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4247,7 +4247,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-implantacao-desenvolvimento-de-projetos-em-bim",
@@ -4343,7 +4343,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4358,7 +4358,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "modernizacao-infraestrutura-e-gestao-portuaria",
@@ -4444,7 +4444,7 @@
         "carga_horaria_total": "700h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4459,7 +4459,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-em-seguranca-do-trabalho-com-enfase-em-pericia-trabalhista",
@@ -4550,7 +4550,7 @@
         "carga_horaria_total": 720
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4565,7 +4565,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "implantacao-desenvolvimento-de-projetos-e-bim",
@@ -4651,7 +4651,7 @@
         "carga_horaria_total": "710 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4666,7 +4666,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-em-seguranca-do-trabalho-com-enfase-em-pericia-trabalhista",
@@ -4757,7 +4757,7 @@
         "carga_horaria_total": "720h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4772,7 +4772,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-civil-sistemas-construtivos-de-edificacoes",
@@ -4833,7 +4833,7 @@
         "carga_horaria_total": "340 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4848,7 +4848,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "bim-em-gerenciamento-de-projetos-e-qualidade-de-obras",
@@ -4934,7 +4934,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4949,7 +4949,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "engenharia-sanitaria-e-ambiental",
@@ -5040,7 +5040,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "engenharia-e-arquitetura",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5055,6 +5055,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ENGENHARIA E ARQUITETURA"
+    "categoria": "pos-graduacao"
   }
 ]
