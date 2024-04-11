@@ -59,10 +59,6 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                         </div>
                     </div>
                 </div>
-                <div class="btn__choose-your-course btn-banner">
-                    <span class="border-green">&nbsp;</span>
-                    <a class="main__banner--btn" href="#areaCourse">ESCOLHA SEU CURSO</a>
-                </div>
             </div>
         </div>
     </div>

@@ -70,18 +70,6 @@ function course_area($area){
     }
 }
 
-function course_name($key){
-    $courses = [
-        'direito-eleitoral' => 'Direito Eleitoral',
-        'direito-ambiental' => 'Direito Ambiental'
-    ];
-
-    if (array_key_exists($key, $courses)) {
-        return $courses[$key];
-    } else {
-        return 'Curso não encontrado';
-    }
-}
 
 function load_more_courses() {
     $per_page = 5; // Número de cursos por página
@@ -114,3 +102,34 @@ function load_more_courses() {
 add_action('wp_ajax_load_more_courses', 'load_more_courses');
 add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
 
+function form_data_send() {
+
+    $bodyData = json_decode(stripslashes($_POST['formData']), true);
+
+    $apiKey = "21778ce4-5c3d-4f2b-91e6-c6db024dd9c1";
+    $url = 'https://api.moskitcrm.com/v2/deals';
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($bodyData));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+        'Content-Type: application/json',
+        'X-Moskit-Origin: ',
+        'apikey: ' . $apiKey
+    ));
+
+    $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    if ($httpCode == 200) {
+        echo json_encode(array('success' => true));
+    } else {
+        echo json_encode(array('success' => false));
+    }
+    curl_close($ch);
+    return $response;
+
+}
+add_action('wp_ajax_form_data_send', 'form_data_send');
+add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');

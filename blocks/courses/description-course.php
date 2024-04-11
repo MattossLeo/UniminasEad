@@ -103,7 +103,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                             <p class="bonus__text--option">1 Pós Graduação Gratuita</p>
                         </div>
                         <div class="main__button--offer">
-                            <a href="#" class="main__button--form">FAZER MATRÍCULA</a>
+                            <button id="openPopupBtn" class="main__button--form">FAZER MATRÍCULA</button>
                         </div>
                     </div>
                 </div>

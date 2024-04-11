@@ -91,6 +91,14 @@ $menu_footer_areas = array(
     <div class="main__copyright">
         <p>Copyright © 2024 – Desenvolvido por Faculdade Uniminas</p>
     </div>
+
+    <!-- Pop-up Formulário (inicialmente oculto) -->
+    <div id="popupForm" class="popup">
+        <div class="container">
+                <?php echo get_template_part('template-parts/form', null, null, null)?>
+        </div>
+
+    </div>
 </section>
 </body>
 </html>

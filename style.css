@@ -201,7 +201,7 @@ p{
 span.border-green {
     border: 2px solid #02b13f;
     width: 50%;
-    height: 100px;
+    height: 85px;
     position: absolute;
     border-radius: 55px;
     left: 55px;
@@ -210,9 +210,9 @@ span.border-green {
 a.main__banner--btn {
     background: rgba(2, 177, 63, 0.91);
     width: 55%;
-    padding: 30px;
+    padding: 25px;
     color: white;
-    font-size: 27px;
+    font-size: 23px;
     font-weight: 700;
     border-radius: 55px;
     z-index: 9;
@@ -508,6 +508,56 @@ a.main__banner--btn {
     display: flex;
     justify-content: center;
 }
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+.popup-content {
+    background-color: #202020;
+    margin: 35% auto;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    padding: 65px 55px 35px;
+    color: white;
+    position: relative;
+}
+.closeBtn {
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    right: 15px;
+    top: 5px;
+}
+.closeBtn:hover,
+.closeBtn:focus {
+    text-decoration: none;
+    cursor: pointer;
+}
+.main__fields {
+    display: flex;
+    flex-direction: column;
+}
+.title-form {
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: 600;
+}
+.form__inputs--main {
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+.form__inputs--main:focus{
+    outline: none;
+}
 
 /*------FOOTER-------*/
 
@@ -588,18 +638,6 @@ span.btn__description--course {
     margin-top: 20px;
     padding-top: 20px;
     border-top: 3px solid white;
-}
-.main--form {
-    background: #ffffff;
-    padding: 35px 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 5px 0 #00000094;
-}
-.title-form {
-    font-size: 1.8rem;
-    text-align: center;
-    font-weight: 600;
-    color: #202020;
 }
 .course-title {
     font-size: 3.4rem;

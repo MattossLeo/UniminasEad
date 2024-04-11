@@ -1,3 +1,10 @@
+/*--------Mascara Phone-------*/
+$('document').ready(function() {
+    $('#phone').mask('(99) 99999-9999');
+});
+
+/*--------Mascara Phone-------*/
+
 /*----Menu Mobile Click----*/
 $('.main__menu--svg').on('click', function(){
     if ($('.main__menu--mob').css("display") === "none") {
@@ -20,7 +27,9 @@ $('.main__menu--svg').on('click', function(){
     }
 });
 
-/*----jQuery Redirect Menu----*/
+/*----Menu Mobile Click----*/
+
+/*----Menu Stop Page----*/
 
 $('.menu_header-mob li a').click(function(){
     $('body').css({
@@ -34,30 +43,10 @@ $('.menu_header-mob li a').click(function(){
 
 });
 
-/*--------Mascara Phone-------*/
+/*----Menu Stop Page----*/
 
-$('#formPhone').mask('(99) 99999-9999');
+/*----Ajax Pagination Courses----*/
 
-$("#form").on('submit',function(e){
-
-    $.ajax({
-        datatype: "json",
-        type: "POST",
-        url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
-        data:{
-            'action': 'form_contact',
-            'name': $('#formName').val(),
-            'mail': $('#formMail').val(),
-            'phone': $('#formPhone').val(),
-            'checkyes': $('#formCheckBoxYes').val(),
-            'checkno': $('#formRadioNo').val()
-        },
-        success: function (data){
-            console.log(data);
-            window.location.href = 'https://uniminasposead.com.br/obrigado';
-        }
-    });
-});
 let page = 1;
 
 $('.btn-pagination').on('click', function () {
@@ -101,6 +90,10 @@ $('.btn-pagination').on('click', function () {
     });
 });
 
+/*----Ajax Pagination Courses----*/
+
+/*----Courses Countdown----*/
+
 let countdown = $('#countdown');
 
 let endDate = new Date(localStorage.getItem('endDate')) || new Date();
@@ -123,23 +116,133 @@ function update() {
 
 // Função para iniciar o contador
 function initiateCountdown() {
-    setInterval(update, 1000); // Atualiza a cada segundo (1000 milissegundos)
+    setInterval(update, 1000);
 }
-
-// Função para resetar o contador
 function reset() {
     const timeNow = new Date();
-    // Defina a nova data de término (por exemplo, 7 dias a partir de agora)
     endDate.setTime(timeNow.getTime() + 7 * 24 * 60 * 60 * 1000);
-    // Salvar a nova data de término no Armazenamento Local
     localStorage.setItem('endDate', endDate.toISOString());
 }
 
-// Inicialização
 initiateCountdown();
 
-console.log(endDate);
+/*----Courses Countdown----*/
+
+/*---- Popup ----*/
+$('document').ready(function() {
+    $('#closeBtn').on('click', function () {
+        $('#popupForm').css('display', 'none');
+    });
+    $('#openPopupBtn').on('click', function () {
+        $('#popupForm').css('display', 'block');
+    });
+});
+/*---- Popup ----*/
+
+/*----Search Courses----*/
+
+    $('#searchCourses').on('input', function () {
+        let words = $(this).val().split(' ').filter(function (el) {return el.length != 0;});
+        console.log(words);
+    });
+
+/*----Search Courses----*/
+
+/*----Course Form----*/
+
+$(document).ready(function() {
+    $('#courseForm').on('submit', function(e) {
+        e.preventDefault();
+        var formDataArray = $(this).serializeArray();
+        var formData = {};
+        $.each(formDataArray, function() {
+            formData[this.name] = this.value;
+        });
+
+        function getCurrentDateTime() {
+            var currentDate = new Date();
+            var formattedDateTime = currentDate.toISOString();
+            return formattedDateTime;
+        }
+        var currentDateTime = getCurrentDateTime();
+        var price = parseFloat(formData.price);
+        var bodyData = {
+            "action": 'form_data_send',
+            "formData": JSON.stringify({
+                "id": 74221,
+                "createdBy": { "id": 98411 },
+                "responsible": { "id": 98411 },
+                "dateCreated": currentDateTime,
+                "name": formData.name,
+                "price": price,
+                "source": "MOSKIT_API_V2",
+                "origin": "SITE PRINCIPAL",
+                "status": "OPEN",
+                "closeDate": "string",
+                "entityCustomFields": [
+                    {
+                        "id": "CF_nrLDXoiVCaAgPmOa",
+                        "textValue": formData.email,
+                        "options": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": "CF_rpGmBPioCn6QEqeR",
+                        "textValue": formData.whatsapp,
+                        "options": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": "CF_dVKmQ5i1CwY1PmWR",
+                        "textValue": formData.graduation,
+                        "options": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": "CF_oJZmP1iKCV0JzDgv",
+                        "textValue": "SITE PRINCIPAL",
+                        "options": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": "CF_G21qV7ilCe68YMAX",
+                        "textValue": formData.area,
+                        "options": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": "CF_eZYm9BiyCo0gZD47",
+                        "textValue": formData.course,
+                        "options": [
+                            0
+                        ]
+                    }
+                ],
+                "stage": { "id": 347501 }
+            })
+        };
 
 
+        $.ajax({
+            url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
+            type: 'POST',
+            data: bodyData,
+            success: function(response) {
+                console.log(response)
+                //window.location.href = 'https://uniminasposead.com.br/obrigado';
+            },
+            error: function() {
+                alert('Erro na solicitação AJAX.');
+            }
+        });
+    });
+});
+
+/*----Course Form----*/
 
 
