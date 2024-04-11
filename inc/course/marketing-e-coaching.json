@@ -78,7 +78,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -93,7 +93,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-estrategica-de-marketing",
@@ -174,7 +174,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -189,7 +189,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "marketing-e-redes-sociais",
@@ -275,7 +275,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -290,7 +290,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "influencia-digital-conteudo-e-estrategia",
@@ -391,7 +391,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -406,7 +406,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "marketing-digital",
@@ -487,7 +487,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -502,7 +502,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "marketing-e-meio-ambiente",
@@ -568,7 +568,7 @@
         "carga_horaria_total": "710 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -583,7 +583,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "publicidade-e-propaganda",
@@ -674,7 +674,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -689,7 +689,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "trade-marketing",
@@ -780,7 +780,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -795,7 +795,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "geomarketing-e-inteligencia-de-mercado",
@@ -881,7 +881,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -896,7 +896,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "marketing-e-gestao-estrategica",
@@ -992,7 +992,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1007,7 +1007,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "marketing-e-comunicacao-empresarial",
@@ -1098,7 +1098,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1113,7 +1113,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MARKETING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
@@ -1199,7 +1199,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1214,7 +1214,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "coaching",
@@ -1275,7 +1275,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1290,7 +1290,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COACHING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "coaching-educacional",
@@ -1381,7 +1381,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1396,7 +1396,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COACHING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "coaching-em-enfermagem",
@@ -1487,7 +1487,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1502,7 +1502,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COACHING"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "coaching-juridico",
@@ -1593,7 +1593,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "marketing-e-coaching",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1608,6 +1608,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COACHING"
+    "categoria": "pos-graduacao"
   }
 ]

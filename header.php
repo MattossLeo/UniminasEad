@@ -45,9 +45,18 @@ $menu_mobile = array(
                         <img width="178" height="47" src="<?php echo get_template_directory_uri()?>/assets/img/Logo-Uniminas-Branco.svg" alt="Logo">
                     </a>
                 </div>
-                <div class="main__header--menu">
-                    <?php wp_nav_menu($menu_principal);?>
+                <div class="main__header--search">
+                    <div class="input__search">
+                        <input class="main__input--search search-courses" id="searchCourse" type="search" placeholder="Digite o curso que você procura">
+                        <div class="main__icon--search">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </div>
+                        <div class="results-search" id="results"></div>
+                    </div>
                 </div>
+                <!--<div class="main__header--menu">
+                    <?php /*wp_nav_menu($menu_principal);*/?>
+                </div>-->
                 <div class="main__header--btn">
                     <a class="header__btn--student-area" target="_blank" href="https://ava.uniminasead.com.br">Área do Aluno</a>
                 </div>

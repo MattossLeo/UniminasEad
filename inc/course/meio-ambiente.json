@@ -58,7 +58,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -73,7 +73,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-ambientais-e-analise-ambiental",
@@ -134,7 +134,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -149,7 +149,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "projetos-e-licenciamento-ambiental",
@@ -210,7 +210,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -225,7 +225,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "saneamento",
@@ -306,7 +306,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -321,7 +321,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "certificacao-ambiental-e-consultoria",
@@ -412,7 +412,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -427,7 +427,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-e-pericia-ambiental",
@@ -518,7 +518,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -533,7 +533,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ecologia-e-desenvolvimento-sustentavel",
@@ -594,7 +594,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -609,7 +609,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ecologia-e-gestao-ambiental",
@@ -700,7 +700,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -715,7 +715,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ecoturismo",
@@ -801,7 +801,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -816,7 +816,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "metrologia-e-qualidade",
@@ -907,7 +907,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -922,7 +922,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "sustentabilidade-e-politicas-publicas",
@@ -1003,7 +1003,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1018,7 +1018,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "turismologia",
@@ -1094,7 +1094,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1109,7 +1109,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "energia-eolica",
@@ -1195,7 +1195,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1210,7 +1210,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "energia-solar-fotovoltaica",
@@ -1296,7 +1296,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1311,7 +1311,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "energias-renovaveis",
@@ -1397,7 +1397,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1412,7 +1412,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "botanica",
@@ -1503,7 +1503,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1518,7 +1518,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fertilidade-manejo-de-solos-e-nutricao-de-plantas",
@@ -1604,7 +1604,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1619,7 +1619,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "licenciamento-ambiental",
@@ -1685,7 +1685,7 @@
         "carga_horaria_total": "710 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1700,7 +1700,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "paisagem-e-iluminacao",
@@ -1786,7 +1786,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1801,7 +1801,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "qsms-gestao-em-qualidade-saude-meio-ambiente-e-seguranca-do-trabalho-na-industria-do-petroleo",
@@ -1887,7 +1887,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1902,7 +1902,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "recuperacao-ambiental-de-areas-degradadas-e-contaminadas",
@@ -1988,7 +1988,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2003,7 +2003,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "saneamento-ambiental",
@@ -2099,7 +2099,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2114,7 +2114,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "vigilancia-sanitaria",
@@ -2210,7 +2210,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2225,7 +2225,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "meio-ambiente-desenvolvimento-e-sustentabilidade",
@@ -2311,7 +2311,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2326,7 +2326,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ecologia-e-biodiversidade",
@@ -2417,7 +2417,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2432,7 +2432,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-urbano-sustentavel",
@@ -2533,7 +2533,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2548,7 +2548,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "quimica-ambiental",
@@ -2649,7 +2649,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2664,7 +2664,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tecnologia-de-celulose-e-papel",
@@ -2750,7 +2750,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2765,7 +2765,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mineracao-e-meio-ambiente",
@@ -2851,7 +2851,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2866,7 +2866,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "consultoria-e-licenciamento-ambiental",
@@ -2957,7 +2957,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "meio-ambiente",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2972,6 +2972,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MEIO AMBIENTE"
+    "categoria": "pos-graduacao"
   }
 ]

@@ -78,7 +78,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -93,7 +93,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "governanca-em-ti",
@@ -174,7 +174,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -189,7 +189,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "informatica-na-educacao",
@@ -250,7 +250,7 @@
         "carga_horaria_total": "510 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -265,7 +265,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analises-de-sistemas-com-enfase-em-governanca",
@@ -346,7 +346,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -361,7 +361,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "sistema-de-informacao",
@@ -442,7 +442,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -457,7 +457,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-infraestrutura-de-t-i",
@@ -538,7 +538,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -553,7 +553,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-alternativa-e-tecnologia-assistiva",
@@ -629,7 +629,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -644,7 +644,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analise-de-projeto-de-sistemas",
@@ -735,7 +735,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -750,7 +750,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "banco-de-dados",
@@ -836,7 +836,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -851,7 +851,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquitetura-e-gestao-de-infraestrutura-em-ti",
@@ -942,7 +942,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -957,7 +957,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "big-data-ciencia-de-dados",
@@ -1058,7 +1058,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1073,7 +1073,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-aplicacoes-net",
@@ -1164,7 +1164,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1179,7 +1179,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-jogos-digitais",
@@ -1265,7 +1265,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1280,7 +1280,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-sistemas-com-java",
@@ -1371,7 +1371,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1386,7 +1386,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "design-de-produto",
@@ -1477,7 +1477,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1492,7 +1492,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "computacao-em-nuvem-cloud-computing",
@@ -1573,7 +1573,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1588,7 +1588,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jurimetria-ciencia-de-dados-aplicada-ao-direito",
@@ -1674,7 +1674,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1689,7 +1689,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-forense-aplicada-a-informatica",
@@ -1775,7 +1775,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1790,7 +1790,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "politica-e-tratamento-de-arquivos",
@@ -1876,7 +1876,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1891,7 +1891,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "seguranca-da-informacao",
@@ -1977,7 +1977,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1992,7 +1992,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tecnologias-digitais-para-sala-de-aula",
@@ -2083,7 +2083,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2098,7 +2098,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "user-experience-ux-e-user-interface-ui",
@@ -2184,7 +2184,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2199,7 +2199,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-de-projetos-ti",
@@ -2280,7 +2280,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2295,7 +2295,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tecnologias-digitais-e-inovacao-na-educacao",
@@ -2381,7 +2381,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2396,7 +2396,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "seguranca-de-redes-de-computadores",
@@ -2482,7 +2482,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2497,7 +2497,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-em-aplicacoes-web",
@@ -2598,7 +2598,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2613,7 +2613,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-sistemas-com-c",
@@ -2699,7 +2699,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2714,7 +2714,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analise-de-sistemas",
@@ -2790,7 +2790,7 @@
         "carga_horaria_total": "610 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2805,7 +2805,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-aplicacoes-para-dispositivos-moveis-app-s",
@@ -2881,7 +2881,7 @@
         "carga_horaria_total": "620 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2896,7 +2896,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "desenvolvimento-de-sistemas-com-java-e-php",
@@ -2972,7 +2972,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2987,7 +2987,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "era-digital-e-seus-impactos-na-saude-educacao-e-comportamento-social",
@@ -3068,7 +3068,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3083,7 +3083,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "informatica-na-educacao-e-docencia-do-ensino-superior",
@@ -3169,7 +3169,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3184,7 +3184,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tecnologias-digitais-para-sala-de-aula-user-experience-ux-e-user-interface-ui",
@@ -3275,7 +3275,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3290,7 +3290,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-forense-computacional",
@@ -3371,7 +3371,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3386,7 +3386,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-cibernetica",
@@ -3472,7 +3472,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3486,7 +3486,7 @@
     "mat2": "250.00",
     "mat3": "166.00",
     "mat4": "125.00",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "redes-de-comunicacao",
@@ -3572,7 +3572,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "tecnologia-da-informacao",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3587,6 +3587,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "TECNOLOGIA DA INFORMAÇÃO - TI"
+    "categoria": "pos-graduacao"
   }
 ]

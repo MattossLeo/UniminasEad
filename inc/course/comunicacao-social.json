@@ -77,7 +77,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -92,7 +92,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tradutores-e-interpretes-da-lingua-brasileira-de-sinais",
@@ -121,7 +121,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -136,7 +136,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-e-oratoria",
@@ -226,7 +226,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -241,7 +241,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-empresarial",
@@ -353,7 +353,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -368,7 +368,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-cultura-organizacional-e-tecnologia",
@@ -393,7 +393,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -408,7 +408,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jornalismo",
@@ -472,7 +472,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -487,7 +487,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "educomunicacao",
@@ -555,7 +555,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -570,7 +570,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analise-do-discurso-midiatico",
@@ -646,7 +646,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -661,7 +661,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-em-crises-internacionais",
@@ -737,7 +737,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -752,7 +752,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-em-crises-nas-organizacoes-publicas-e-privadas",
@@ -843,7 +843,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -858,7 +858,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-institucional-e-redacao-oficial",
@@ -949,7 +949,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -964,7 +964,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "crise-de-imagem",
@@ -995,7 +995,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1010,7 +1010,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jornalismo-digital",
@@ -1101,7 +1101,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1116,7 +1116,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jornalismo-esportivo",
@@ -1202,7 +1202,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1217,7 +1217,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jornalismo-investigativo",
@@ -1303,7 +1303,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1318,7 +1318,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "jornalismo-politico",
@@ -1399,7 +1399,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1414,7 +1414,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "id": "1390",
@@ -1505,7 +1505,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1520,7 +1520,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "retoria-e-oratoria-em-lingua-portuguesa",
@@ -1566,7 +1566,7 @@
           "carga_horaria_total": "240 h"
         }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1581,7 +1581,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "revisao-pratica-de-texto",
@@ -1603,7 +1603,7 @@
         "carga_horaria_total": "240 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1618,7 +1618,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "traducao-e-revisao-de-textos-em-lingua-inglesa",
@@ -1709,7 +1709,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1724,7 +1724,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-publica",
@@ -1815,7 +1815,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1830,7 +1830,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "assessoria-e-gestao-da-comunicacao",
@@ -1921,7 +1921,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1936,7 +1936,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-e-informacao-educacional-e-empresarial",
@@ -2017,7 +2017,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2032,7 +2032,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-social-e-oratoria",
@@ -2078,7 +2078,7 @@
         "carga_horaria_total": "240 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2093,7 +2093,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "COMUNICAÇÃO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-politica",
@@ -2194,7 +2194,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2295,7 +2295,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2396,7 +2396,7 @@
         "carga_horaria_total": "560 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "comunicacao-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",

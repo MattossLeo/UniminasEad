@@ -63,7 +63,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -78,7 +78,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-e-previdencia",
@@ -164,7 +164,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -179,7 +179,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-organizacional",
@@ -235,7 +235,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -250,7 +250,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "capacitacao-profissional-para-o-servico-social",
@@ -331,7 +331,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -346,7 +346,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "seguridade-em-servico-social",
@@ -437,7 +437,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -452,7 +452,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-e-politicas-publicas",
@@ -533,7 +533,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -548,7 +548,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-no-campo",
@@ -619,7 +619,7 @@
         "carga_horaria_total": "520 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -634,7 +634,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-de-projetos-no-setor-publico",
@@ -725,7 +725,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -740,7 +740,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-de-saude-coletiva",
@@ -821,7 +821,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -836,7 +836,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-na-saude",
@@ -907,7 +907,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -922,7 +922,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "formacao-de-gestores-de-contratos",
@@ -1008,7 +1008,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1023,7 +1023,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-em-saude-coletiva",
@@ -1114,7 +1114,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1129,7 +1129,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-em-oncologia",
@@ -1215,7 +1215,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1230,7 +1230,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-em-situacoes-de-desastres",
@@ -1316,7 +1316,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1331,7 +1331,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-etica-e-direitos-humanos",
@@ -1417,7 +1417,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1432,7 +1432,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "violencia-domestica",
@@ -1518,7 +1518,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1533,7 +1533,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "trabalho-social-com-familias-e-sociedades",
@@ -1614,7 +1614,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1629,7 +1629,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-militar",
@@ -1710,7 +1710,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1725,7 +1725,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "registros-publicos",
@@ -1806,7 +1806,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1821,7 +1821,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-politicas-com-enfase-em-servico-social",
@@ -1907,7 +1907,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1922,7 +1922,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "elaboracao-e-planejamento-de-projetos-sociais",
@@ -2008,7 +2008,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2023,7 +2023,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "identidade-cultura-politicas-sociais-e-servico-social",
@@ -2109,7 +2109,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2124,7 +2124,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "politica-e-sociedade",
@@ -2205,7 +2205,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2220,7 +2220,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "politicas-sociais-e-gestao-de-servicos-sociais",
@@ -2311,7 +2311,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2326,7 +2326,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-e-dependencia-quimica",
@@ -2407,7 +2407,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2422,7 +2422,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-e-saude-mental",
@@ -2498,7 +2498,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2513,7 +2513,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "elaboracao-e-gestao-de-projetos-sociais",
@@ -2599,7 +2599,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2614,7 +2614,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pregao-eletronico",
@@ -2700,7 +2700,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "servico-social",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2715,6 +2715,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "SERVIÇO SOCIAL"
+    "categoria": "pos-graduacao"
   }
 ]

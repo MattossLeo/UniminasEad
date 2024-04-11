@@ -73,7 +73,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -88,7 +88,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-criminais",
@@ -179,7 +179,7 @@
         "carga_horaria_total": "760 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -194,7 +194,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-ambiental",
@@ -260,7 +260,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -275,7 +275,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-familia",
@@ -351,7 +351,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -366,7 +366,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-consumidor-e-novas-tecnologias",
@@ -427,7 +427,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -442,7 +442,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-eleitoral",
@@ -528,7 +528,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -543,7 +543,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-medico",
@@ -624,7 +624,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -639,7 +639,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-criminal-gestao-e-avaliacao",
@@ -740,7 +740,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -755,7 +755,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-penal-e-processo-penal",
@@ -836,7 +836,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -851,7 +851,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-processual-civil",
@@ -937,7 +937,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -952,7 +952,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "praticas-trabalhistas-tributarias-e-previdenciarias",
@@ -1018,7 +1018,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1033,7 +1033,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-previdenciario",
@@ -1104,7 +1104,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1119,7 +1119,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-economica-e-financeira",
@@ -1200,7 +1200,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1215,7 +1215,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "criminologia",
@@ -1271,7 +1271,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1286,7 +1286,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-administrativo",
@@ -1342,7 +1342,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1357,7 +1357,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-civil",
@@ -1438,7 +1438,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1453,7 +1453,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-constitucional",
@@ -1534,7 +1534,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1549,7 +1549,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-mulher",
@@ -1650,7 +1650,7 @@
         "carga_horaria_total": "780 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1665,7 +1665,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-educacional",
@@ -1751,7 +1751,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1766,7 +1766,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-empresarial",
@@ -1862,7 +1862,7 @@
         "carga_horaria_total": "660 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1877,7 +1877,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-imobiliario",
@@ -1938,7 +1938,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1953,7 +1953,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-militar",
@@ -2019,7 +2019,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2034,7 +2034,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-penal-com-enfase-em-gestao-de-crises",
@@ -2120,7 +2120,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2135,7 +2135,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-processual-penal",
@@ -2191,7 +2191,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2206,7 +2206,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-publico-e-gestao-financeira",
@@ -2267,7 +2267,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2282,7 +2282,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-trabalhista-penal",
@@ -2348,7 +2348,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2363,7 +2363,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-tributario",
@@ -2439,7 +2439,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2454,7 +2454,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-penal",
@@ -2535,7 +2535,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2550,7 +2550,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-trabalho",
@@ -2651,7 +2651,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2666,7 +2666,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-e-processo-do-trabalho",
@@ -2747,7 +2747,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2762,7 +2762,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-eletronico",
@@ -2843,7 +2843,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2858,7 +2858,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-minerario-e-ambiental",
@@ -2959,7 +2959,7 @@
         "carga_horaria_total": "660 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2974,7 +2974,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arbitragem-conciliacao-e-mediacao",
@@ -3065,7 +3065,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3080,7 +3080,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-consumidor",
@@ -3141,7 +3141,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3156,7 +3156,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-crianca-juventude-e-idosos",
@@ -3247,7 +3247,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3262,7 +3262,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-previdencia-social",
@@ -3343,7 +3343,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3358,7 +3358,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-desportivo",
@@ -3444,7 +3444,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3459,7 +3459,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-notarial-e-registral",
@@ -3550,7 +3550,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3565,7 +3565,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direitos-humanos-e-questoes-etnicos-sociais",
@@ -3646,7 +3646,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3661,7 +3661,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direitos-sociais-e-competencias-profissionais-do-assistente-social",
@@ -3742,7 +3742,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3757,7 +3757,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-e-pericia-contabil",
@@ -3843,7 +3843,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3858,7 +3858,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "justica-e-politicas-publicas",
@@ -3949,7 +3949,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3964,7 +3964,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-contabil",
@@ -4055,7 +4055,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4070,7 +4070,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "resolucao-de-conflitos-praticas-restaurativas",
@@ -4171,7 +4171,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4186,7 +4186,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-sindical",
@@ -4272,7 +4272,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4287,7 +4287,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-minerario",
@@ -4378,7 +4378,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4393,7 +4393,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-penal-militar-e-processo-penal-militar",
@@ -4479,7 +4479,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4494,7 +4494,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-homoafetivo-e-de-genero",
@@ -4585,7 +4585,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4600,7 +4600,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-processual",
@@ -4696,7 +4696,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4711,7 +4711,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-maritimo",
@@ -4807,7 +4807,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4822,7 +4822,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-comercial",
@@ -4908,7 +4908,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4923,7 +4923,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "aspectos-legais-da-propriedade-intelectual",
@@ -5014,7 +5014,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5029,7 +5029,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "defesa-civil",
@@ -5120,7 +5120,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5135,7 +5135,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencia-forense-e-pericia-criminal",
@@ -5226,7 +5226,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5241,7 +5241,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-aeronautico",
@@ -5332,7 +5332,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5347,7 +5347,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-civil-e-direito-processual-civil-de-acordo-com-o-novo-cpc",
@@ -5438,7 +5438,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5453,7 +5453,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-do-consumidor-e-responsabilidade-civil",
@@ -5544,7 +5544,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5559,7 +5559,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-medico-e-hospitalar",
@@ -5650,7 +5650,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5665,7 +5665,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-sanitario",
@@ -5756,7 +5756,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5771,7 +5771,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-sistemico-pratica-da-constelacao-familiar",
@@ -5862,7 +5862,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5877,7 +5877,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-seguranca-e-organismo-policial",
@@ -5968,7 +5968,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5983,7 +5983,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-seguranca-publica-e-organismo-policial",
@@ -6074,7 +6074,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6089,7 +6089,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direitos-difusos-e-coletivos",
@@ -6180,7 +6180,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6195,7 +6195,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direitos-humanos-internacionais",
@@ -6286,7 +6286,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6301,7 +6301,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "controle-de-constitucionalidade-brasileiro",
@@ -6392,7 +6392,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6407,7 +6407,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "justica-restaurativa-e-mediacao-de-conflitos",
@@ -6493,7 +6493,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6508,7 +6508,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ll-m-de-direito-de-contratos",
@@ -6599,7 +6599,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6614,7 +6614,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-de-avaliacao-patrimonial-de-bens-e-direitos",
@@ -6720,7 +6720,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6735,7 +6735,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-e-auditoria",
@@ -6821,7 +6821,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6836,7 +6836,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-judicial-e-extrajudicial",
@@ -6922,7 +6922,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6937,7 +6937,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "poder-judiciario-e-atividade-meio",
@@ -7023,7 +7023,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7038,7 +7038,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pratica-forense",
@@ -7124,7 +7124,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7139,7 +7139,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pratica-juridica-na-previdencia-complemantar",
@@ -7230,7 +7230,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7245,7 +7245,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "protecao-integral-a-crianca-e-o-adolescente",
@@ -7331,7 +7331,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7346,7 +7346,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "quimica-forense",
@@ -7427,7 +7427,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7442,7 +7442,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "seguranca-publica-e-direito-penitenciario",
@@ -7533,7 +7533,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7548,7 +7548,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "servico-social-no-campo-sociojuridico",
@@ -7634,7 +7634,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7649,7 +7649,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mediacao-em-conflitos-e-arbitragem",
@@ -7735,7 +7735,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7750,7 +7750,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-agrario",
@@ -7831,7 +7831,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7846,7 +7846,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-crianca-e-do-adolescente",
@@ -7927,7 +7927,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7942,7 +7942,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-crianca-e-do-adolescente-e-politicas-publicas",
@@ -8018,7 +8018,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8033,7 +8033,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-hospitalar",
@@ -8119,7 +8119,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8134,7 +8134,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-tributario-em-contabilidade",
@@ -8220,7 +8220,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8235,7 +8235,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "registros-de-imoveis",
@@ -8311,7 +8311,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8326,7 +8326,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "inventario-extrajudicial",
@@ -8402,7 +8402,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8417,7 +8417,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "inventario-judicial-e-extrajudicial",
@@ -8513,7 +8513,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8528,7 +8528,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "processo-civil",
@@ -8624,7 +8624,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8639,7 +8639,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-criminal",
@@ -8735,7 +8735,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8750,7 +8750,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-previdenciario-e-processo-previdenciario",
@@ -8841,7 +8841,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8856,7 +8856,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-internacional",
@@ -8952,7 +8952,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8967,7 +8967,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-imobiliario-e-condominial",
@@ -9058,7 +9058,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9073,7 +9073,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-economico-e-financeiro",
@@ -9164,7 +9164,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9179,7 +9179,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-e-politicas-publicas",
@@ -9260,7 +9260,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9275,7 +9275,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-digital",
@@ -9366,7 +9366,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9381,7 +9381,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-de-familia-e-sucessoes",
@@ -9472,7 +9472,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9487,7 +9487,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-da-crianca-do-adolescente-e-do-idoso",
@@ -9578,7 +9578,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9593,7 +9593,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-administrativo-e-licitacoes",
@@ -9684,7 +9684,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9699,7 +9699,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-publica-e-legislacao-urbana",
@@ -9785,7 +9785,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9800,7 +9800,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-penal-e-processual-penal",
@@ -9906,7 +9906,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9921,7 +9921,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-grafotecnica",
@@ -10007,7 +10007,7 @@
         "carga_horaria_total": "560 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -10022,7 +10022,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "direito-bancario",
@@ -10118,7 +10118,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -10133,7 +10133,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "filosofia-do-direito",
@@ -10209,7 +10209,7 @@
         "carga_horaria_total": "480 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "direito",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -10224,6 +10224,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "JURÍDICA"
+    "categoria": "pos-graduacao"
   }
 ]

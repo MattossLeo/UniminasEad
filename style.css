@@ -246,8 +246,8 @@ a.main__banner--btn {
 
 /*---SEARCH-COURSES--*/
 
-.search-courses{
-    padding: 40px 0;
+.search-courses {
+    padding: 80px 0 20px;
     background: #f2f2f2;
 }
 .main__title--search {
@@ -284,6 +284,29 @@ a.main__banner--btn {
     top: 7px;
     right: 10px;
 }
+.results-search {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    background: #ffffff;
+    padding: 15px 25px;
+    top: 50px;
+    border-radius: 12px;
+    max-height: 300px;
+}
+.course-result {
+    padding: 10px 0;
+    border-bottom: 1px solid #adadad;
+}
+/*.course-result:last-child {
+    border-bottom: none;
+}*/
+.main__options--courses {
+    color: black;
+    font-size: 14px;
+}
+
+
 
 /*---SEARCH-COURSES--*/
 
@@ -515,18 +538,17 @@ a.main__banner--btn {
     left: 0;
     top: 0;
     width: 100%;
-    height: auto;
+    height: 100%;
     overflow: auto;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 .popup-content {
     background-color: #202020;
     margin: 35% auto;
-    width: 80%;
+    width: 100%;
     border: none;
     border-radius: 10px;
-    padding: 65px 55px 35px;
+    padding: 65px 20px 35px;
     color: white;
     position: relative;
 }
@@ -776,12 +798,18 @@ span.btn__description--course {
     background: #02B13F;
     padding: 25px;
     border-radius: 15px;
+    min-height: 378px;
+}
+.main__card--btn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 .card__courses--content {
     padding: 20px 0;
 }
 .courses-texts{
-    font-size: 18px;
+    font-size: 16px;
 }
 .main-prices{
     font-size: 30px;

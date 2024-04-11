@@ -68,7 +68,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -83,7 +83,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MúsICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "especializacao-em-regencia-coral",
@@ -195,7 +195,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -210,7 +210,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "artes-pos-graduacao",
@@ -286,7 +286,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -301,7 +301,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "artes-visuais",
@@ -392,7 +392,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -407,7 +407,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "musica",
@@ -483,7 +483,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -498,7 +498,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "musica-e-artes",
@@ -544,7 +544,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -559,7 +559,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arranjo-musical",
@@ -650,7 +650,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -665,7 +665,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arte-e-tecnologia",
@@ -756,7 +756,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -771,7 +771,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comunicacao-e-producao-de-moda",
@@ -872,7 +872,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -887,7 +887,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
@@ -923,7 +923,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -938,7 +938,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-cultural-arte-e-entretenimento",
@@ -1024,7 +1024,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1039,7 +1039,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-fonografica",
@@ -1130,7 +1130,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1145,7 +1145,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "musica-com-enfase-em-educacao-musical",
@@ -1231,7 +1231,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1246,7 +1246,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "regencia-de-coral",
@@ -1358,7 +1358,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1373,7 +1373,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fotografia",
@@ -1479,7 +1479,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "artes-moda-e-musica",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1494,6 +1494,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ARTES, MODA E MÚSICA"
+    "categoria": "pos-graduacao"
   }
 ]

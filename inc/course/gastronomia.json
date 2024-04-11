@@ -78,7 +78,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -93,7 +93,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gastronomia-em-panificacoes-e-confeitaria",
@@ -184,7 +184,7 @@
         "carga_horaria_total": "1400 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -199,7 +199,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gastronomia-hospitalar",
@@ -290,7 +290,7 @@
         "carga_horaria_total": "1400 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -305,7 +305,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "nutricao-aplicada-a-gastronomia",
@@ -391,7 +391,7 @@
         "carga_horaria_total": "1400 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -406,7 +406,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gastronomia-contemporanea",
@@ -492,7 +492,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -507,7 +507,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gastronomia-funcional-e-natural",
@@ -588,7 +588,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -603,7 +603,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gastronomia-vegetariana",
@@ -684,7 +684,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -699,7 +699,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "viticultura-e-enologia",
@@ -790,7 +790,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -805,7 +805,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "docencia-do-ensino-superior-em-gastronomia",
@@ -891,7 +891,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "gastronomia",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -906,6 +906,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "GASTRONOMIA"
+    "categoria": "pos-graduacao"
   }
 ]

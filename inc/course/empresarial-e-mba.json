@@ -25,7 +25,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -40,7 +40,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-planejamento-e-gestao-em-saude",
@@ -67,7 +67,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -82,7 +82,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-publica-e-gestao-urbana",
@@ -110,7 +110,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -125,7 +125,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "comercio-exterior",
@@ -161,7 +161,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -176,7 +176,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "logistica",
@@ -207,7 +207,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -222,7 +222,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-em-elaboracao-de-projetos-sociais",
@@ -250,7 +250,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -265,7 +265,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamento-em-rh-com-enfase-em-comportamento-organizacional",
@@ -295,7 +295,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -310,7 +310,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-hospitalar-e-recourses-humanos",
@@ -338,7 +338,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -353,7 +353,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-e-auditoria-em-servicos-de-saude",
@@ -379,7 +379,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -394,7 +394,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "georreferenciamento-de-imoveis-rurais",
@@ -426,7 +426,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -441,7 +441,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "negocios-internacionais",
@@ -474,7 +474,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -489,7 +489,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-aplicada-e-gestao-empresarial",
@@ -520,7 +520,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -535,7 +535,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-de-casas-legislativas",
@@ -566,7 +566,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -581,7 +581,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-de-condominios",
@@ -612,7 +612,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -627,7 +627,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-de-conflitos-e-gestao-empresarial",
@@ -658,7 +658,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -673,7 +673,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-de-projetos",
@@ -704,7 +704,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -719,7 +719,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-de-recourses-humanos-no-setor-publico",
@@ -750,7 +750,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -765,7 +765,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-do-setor-publico",
@@ -796,7 +796,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -811,7 +811,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-do-suas-sistema-unico-de-assistencia-social",
@@ -841,7 +841,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -856,7 +856,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-em-marketing-de-servicos-e-social",
@@ -887,7 +887,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -902,7 +902,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-estrategica-de-marketing",
@@ -933,7 +933,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -948,7 +948,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-estrategica",
@@ -979,7 +979,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -994,7 +994,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-hospitalar",
@@ -1025,7 +1025,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1040,7 +1040,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-hospitalar-e-gestao-da-producao",
@@ -1071,7 +1071,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1086,7 +1086,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-hospitalar-e-marketing",
@@ -1117,7 +1117,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1132,7 +1132,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-patrimonial-em-organizacoes-publicas",
@@ -1163,7 +1163,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1178,7 +1178,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-publica-e-gestao-de-pessoas",
@@ -1209,7 +1209,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1224,7 +1224,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-publica-e-gestao-estrategica",
@@ -1255,7 +1255,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1270,7 +1270,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-publica-e-marketing",
@@ -1301,7 +1301,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1316,7 +1316,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-publica-e-recursos-humanos",
@@ -1347,7 +1347,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1362,7 +1362,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-educacao-e-seguranca-no-transito",
@@ -1393,7 +1393,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1408,7 +1408,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-em-organizacoes-do-setor-publico",
@@ -1439,7 +1439,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1454,7 +1454,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-empresarial",
@@ -1485,7 +1485,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1500,7 +1500,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gerenciamentos-de-concessionarias-de-veiculos",
@@ -1534,7 +1534,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1549,7 +1549,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "gestao-de-projetos-sociais-do-terceiro-setor",
@@ -1578,7 +1578,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1593,7 +1593,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "logistica-empresarial-e-gestao-da-producao",
@@ -1625,7 +1625,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1640,7 +1640,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-financas",
@@ -1666,7 +1666,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1681,7 +1681,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-gestao-ambiental",
@@ -1712,7 +1712,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1727,7 +1727,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-gestao-da-producao",
@@ -1758,7 +1758,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1773,7 +1773,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-gestao-de-equipes",
@@ -1804,7 +1804,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1819,7 +1819,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-gestao-hospitalar",
@@ -1850,7 +1850,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1865,7 +1865,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-logistica",
@@ -1896,7 +1896,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1911,7 +1911,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-empresarial-e-marketing",
@@ -1942,7 +1942,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1957,7 +1957,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "turismo-e-hotelaria",
@@ -1987,7 +1987,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2002,7 +2002,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-no-setor-publico",
@@ -2033,7 +2033,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2048,7 +2048,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "compliance",
@@ -2077,7 +2077,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2092,7 +2092,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "controladoria-empresarial",
@@ -2123,7 +2123,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2138,7 +2138,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "inteligencia-artificial",
@@ -2167,7 +2167,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2182,7 +2182,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "leanproduction",
@@ -2212,7 +2212,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2227,7 +2227,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "licitacoes-e-compras-sustentaveis",
@@ -2257,7 +2257,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2272,7 +2272,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ll-m-em-direito-empresarial",
@@ -2303,7 +2303,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2318,7 +2318,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "patrimonio-arquitetonico-e-urbano",
@@ -2348,7 +2348,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2363,7 +2363,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "pericia-aduaneira-em-comercio-exterior",
@@ -2393,7 +2393,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2408,7 +2408,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "relacoes-internacionais",
@@ -2434,7 +2434,7 @@
         "carga_horaria_total": "710 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2449,7 +2449,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "sistema-de-gestao-empresarial-erp",
@@ -2479,7 +2479,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2494,7 +2494,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-estrategico",
@@ -2524,7 +2524,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2539,7 +2539,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "processo-administrativo-disciplinar-e-sindicancia",
@@ -2567,7 +2567,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2582,7 +2582,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "geografia-fisica-e-das-populacoes",
@@ -2613,7 +2613,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2628,7 +2628,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-e-comercio-exterior",
@@ -2658,7 +2658,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2673,7 +2673,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-e-gestao-de-politicas-sociais",
@@ -2703,7 +2703,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2718,7 +2718,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao",
@@ -2749,7 +2749,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2764,7 +2764,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-politicas-e-gestao-publica",
@@ -2794,7 +2794,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2809,7 +2809,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-financeira-orcamentaria-afo",
@@ -2840,7 +2840,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2855,7 +2855,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "EMPRESARIAL"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-gestao-publica",
@@ -2885,7 +2885,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2900,7 +2900,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-gestao-e-tecnologia-de-residuos",
@@ -2931,7 +2931,7 @@
         "carga_horaria_total": "600 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2946,7 +2946,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-gestao-de-negocios-imobiliarios",
@@ -2977,7 +2977,7 @@
         "carga_horaria_total": "760 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2992,7 +2992,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-comunicacao-eleitoral-e-marketing-politico",
@@ -3021,7 +3021,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3036,7 +3036,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-comunicacao-institucional-e-gestao-de-marcas",
@@ -3065,7 +3065,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3080,7 +3080,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-gestao-bancaria-e-financas-corporativas",
@@ -3109,7 +3109,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3124,7 +3124,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-gestao-da-qualidade",
@@ -3155,7 +3155,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3170,7 +3170,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-gestao-tributaria-contabil",
@@ -3199,7 +3199,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3214,7 +3214,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-planejamento-empresarial",
@@ -3243,7 +3243,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3258,7 +3258,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-tecnologia-para-negocios-data-science-e-big-data",
@@ -3287,7 +3287,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3302,7 +3302,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-gestao-de-projetos-em-ti",
@@ -3331,7 +3331,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3346,7 +3346,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-direcao-de-arte-para-propaganda-tv-e-video",
@@ -3371,7 +3371,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3386,7 +3386,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-administracao-hospitalar",
@@ -3411,7 +3411,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3426,7 +3426,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-comunicacao-e-semiotica",
@@ -3457,7 +3457,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3472,7 +3472,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "mba-em-controladoria-empresarial",
@@ -3495,7 +3495,7 @@
       ],
       "carga_horaria_total": "630 h"
     },
-    "area": "pos-graduacao",
+    "area": "empresarial-e-mba",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3510,7 +3510,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "MBA"
+    "categoria": "pos-graduacao"
   },
   {
       "url": "mba-em-gerenciamento-de-processos-de-negocio-bpm",
@@ -3596,7 +3596,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -3611,7 +3611,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gerenciamento-de-projetos-de-ti",
@@ -3712,7 +3712,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -3727,7 +3727,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-drogaria-e-farmacia",
@@ -3818,7 +3818,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -3833,7 +3833,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-pessoas-e-recourses-humanos",
@@ -3894,7 +3894,7 @@
           "carga_horaria_total": "630 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -3909,7 +3909,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-do-conhecimento",
@@ -4000,7 +4000,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4015,7 +4015,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-cooperativas",
@@ -4096,7 +4096,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4111,7 +4111,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-projetos-integrados-de-edificacoes",
@@ -4187,7 +4187,7 @@
           "carga_horaria_total": "580 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4202,7 +4202,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-logistica-farmaceutica",
@@ -4293,7 +4293,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4308,7 +4308,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-logistica-operacional",
@@ -4384,7 +4384,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4399,7 +4399,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing-esportivo",
@@ -4485,7 +4485,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4500,7 +4500,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-meio-ambiente-e-desenvolvimento-sustentavel",
@@ -4591,7 +4591,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4606,7 +4606,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-seguranca-do-trabalho-e-gestao-ambiental",
@@ -4667,7 +4667,7 @@
           "carga_horaria_total": "630 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4682,7 +4682,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-clinicas-e-consultorios-veterinarios",
@@ -4763,7 +4763,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4778,7 +4778,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-gerenciamento-de-projetos",
@@ -4864,7 +4864,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4879,7 +4879,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-gestao-empresarial-e-inovacao",
@@ -4970,7 +4970,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -4985,7 +4985,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-handes-on-learnig-em-gestao-de-negocios",
@@ -5076,7 +5076,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5091,7 +5091,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-gestao-publica",
@@ -5177,7 +5177,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5192,7 +5192,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-coaching",
@@ -5283,7 +5283,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5298,7 +5298,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-de-comercio-exterior",
@@ -5379,7 +5379,7 @@
           "carga_horaria_total": "660 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5394,7 +5394,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-de-empreendedorismo-marketing-e-financas",
@@ -5480,7 +5480,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5495,7 +5495,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-empreendedorismo-contabil",
@@ -5581,7 +5581,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5596,7 +5596,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-telecomunicacoes-com-enfase-em-redes-sistemas-de-informacao-e-internet-das-coisas-iot",
@@ -5682,7 +5682,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5697,7 +5697,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-academia-fitness-e-wellness",
@@ -5783,7 +5783,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5798,7 +5798,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-auditoria-e-faturamento-em-farmacia-hospitalar-e-medicamentos",
@@ -5884,7 +5884,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -5899,7 +5899,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-auditoria-em-gestao-da-qualidade-industrial-e-farmaceutica",
@@ -5990,7 +5990,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6005,7 +6005,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-business-intelligence",
@@ -6096,7 +6096,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6111,7 +6111,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-calculos-judiciais-e-calculos-atuariais",
@@ -6197,7 +6197,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6212,7 +6212,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-bancaria",
@@ -6298,7 +6298,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6313,7 +6313,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-controladoria-e-financas-corporativas",
@@ -6399,7 +6399,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6414,7 +6414,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-controles-internos-e-auditoria-bancaria",
@@ -6500,7 +6500,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6515,7 +6515,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-data-warehouse-e-business-intelligence",
@@ -6601,7 +6601,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6616,7 +6616,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-desenvolvimento-profissional",
@@ -6662,7 +6662,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6677,7 +6677,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-design-thinking",
@@ -6763,7 +6763,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6778,7 +6778,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-empreendedorismo-e-criacao-de-startup",
@@ -6864,7 +6864,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6879,7 +6879,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-energia",
@@ -6965,7 +6965,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -6980,7 +6980,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-comercial-de-produtos-e-servicos-de-instituicoes-financeiras",
@@ -7066,7 +7066,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7081,7 +7081,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-condominal-gestao-gastronomicas-e-negocios-em-alimentacao",
@@ -7167,7 +7167,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7182,7 +7182,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-contabil-para-micro-e-pequenas-empresas",
@@ -7268,7 +7268,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7283,7 +7283,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-ead",
@@ -7369,7 +7369,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7384,7 +7384,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-inovacao-corporativa",
@@ -7470,7 +7470,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7485,7 +7485,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-eventos",
@@ -7576,7 +7576,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7591,7 +7591,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-obras-na-construcao-civil",
@@ -7682,7 +7682,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7697,7 +7697,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-qualidade-de-software",
@@ -7783,7 +7783,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7798,7 +7798,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-do-esporte",
@@ -7884,7 +7884,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -7899,7 +7899,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-pessoas-no-setor-publico",
@@ -7990,7 +7990,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8005,7 +8005,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-governanca-corporativa",
@@ -8091,7 +8091,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8106,7 +8106,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-lideranca-sustentavel-e-coaching-executivo",
@@ -8197,7 +8197,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8212,7 +8212,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing-farmaceutico",
@@ -8298,7 +8298,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8313,7 +8313,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-orcamento-planejamento-e-controle-na-construcao-civil",
@@ -8399,7 +8399,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8414,7 +8414,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-planejamento-e-consultoria-tributaria",
@@ -8500,7 +8500,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8515,7 +8515,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-projetos-aplicados-a-construcao-civil",
@@ -8601,7 +8601,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8616,7 +8616,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-regulacao",
@@ -8707,7 +8707,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8722,7 +8722,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-shipping",
@@ -8808,7 +8808,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8823,7 +8823,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-sustentabilidade",
@@ -8909,7 +8909,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -8924,7 +8924,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-economia-e-gestao-do-agronegocio",
@@ -9010,7 +9010,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9025,7 +9025,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-agronegocios",
@@ -9111,7 +9111,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9126,7 +9126,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-ecoturismo",
@@ -9212,7 +9212,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9227,7 +9227,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-irrigacao-e-gestao-de-recourses-hidricos",
@@ -9313,7 +9313,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9328,7 +9328,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-desenvolvimento-profissional",
@@ -9414,7 +9414,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9429,7 +9429,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-ambiental-e-manejo-florestal",
@@ -9515,7 +9515,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9530,7 +9530,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-hotelaria-hospitalar",
@@ -9616,7 +9616,7 @@
           "carga_horaria_total": "1300 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9631,7 +9631,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-e-gestao-de-metros-e-transporte-ferroviario",
@@ -9717,7 +9717,7 @@
           "carga_horaria_total": "1300 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9732,7 +9732,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-administracao-da-producao",
@@ -9818,7 +9818,7 @@
           "carga_horaria_total": "1320 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9833,7 +9833,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-administracao-de-materiais-e-logistica",
@@ -9919,7 +9919,7 @@
           "carga_horaria_total": "1360 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -9934,7 +9934,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-administracao-financeira",
@@ -10020,7 +10020,7 @@
           "carga_horaria_total": "660 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10035,7 +10035,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-financas-corporativas",
@@ -10121,7 +10121,7 @@
           "carga_horaria_total": "660 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10136,7 +10136,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gerenciamento-de-crises",
@@ -10222,7 +10222,7 @@
           "carga_horaria_total": "660 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10237,7 +10237,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-hospitalar",
@@ -10323,7 +10323,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10338,7 +10338,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-aeroportuaria",
@@ -10424,7 +10424,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10439,7 +10439,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-cooperativas",
@@ -10525,7 +10525,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10540,7 +10540,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-da-qualidade-em-saude-e-acreditacao-hospitalar",
@@ -10631,7 +10631,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10646,7 +10646,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-clinicas-e-consultorios",
@@ -10732,7 +10732,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10747,7 +10747,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-franquias",
@@ -10833,7 +10833,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10848,7 +10848,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-investimentos",
@@ -10934,7 +10934,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -10949,7 +10949,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-em-alimentacao",
@@ -11035,7 +11035,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11050,7 +11050,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-internacionais",
@@ -11136,7 +11136,7 @@
           "carga_horaria_total": "600 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11151,7 +11151,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-pessoas",
@@ -11237,7 +11237,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11252,7 +11252,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-portos",
@@ -11338,7 +11338,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11353,7 +11353,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-processos-bpm-cbok",
@@ -11439,7 +11439,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11454,7 +11454,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-projetos-pmi-pmbok",
@@ -11540,7 +11540,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11555,7 +11555,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-restaurantes",
@@ -11646,7 +11646,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11661,7 +11661,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-servicos-de-emergencias",
@@ -11747,7 +11747,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11762,7 +11762,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-empresarial",
@@ -11848,7 +11848,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11863,7 +11863,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-de-midia-digital",
@@ -11949,7 +11949,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -11964,7 +11964,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-de-publicidade-e-propaganda",
@@ -12055,7 +12055,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12070,7 +12070,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-de-inovacao-tecnologica-e-propriedade-intelectual-marcas-e-patentes",
@@ -12156,7 +12156,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12171,7 +12171,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-hotelaria",
@@ -12257,7 +12257,7 @@
           "carga_horaria_total": "600 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12272,7 +12272,7 @@
       "mat3": null,
       "mat4": null,
       "mat5": null,
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-marketing-e-redes-sociais",
@@ -12358,7 +12358,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12373,7 +12373,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-marketing-politico",
@@ -12459,7 +12459,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12474,7 +12474,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-mercado-financeiro-e-de-capitais-modelo-cnpi",
@@ -12555,7 +12555,7 @@
           "carga_horaria_total": "1280 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12570,7 +12570,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-negocios-imobiliarios",
@@ -12656,7 +12656,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12671,7 +12671,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-neuromarketing",
@@ -12762,7 +12762,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12777,7 +12777,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-petroleo-e-gas",
@@ -12823,7 +12823,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12838,7 +12838,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-saude",
@@ -12934,7 +12934,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -12949,7 +12949,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-seguranca-cibernetica",
@@ -13035,7 +13035,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13050,7 +13050,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-marketing-de-moda",
@@ -13136,7 +13136,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13151,7 +13151,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-portfolio-de-projetos-ppm",
@@ -13237,7 +13237,7 @@
           "carga_horaria_total": "660 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13252,7 +13252,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-ativos-financeiros-dos-regimes-de-previdencia-social-modelo-cgrpps",
@@ -13338,7 +13338,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13353,7 +13353,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-da-mudanca-organizacional",
@@ -13439,7 +13439,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13454,7 +13454,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-bancaria-cpa-20",
@@ -13545,7 +13545,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13560,7 +13560,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-comportamento-empreendedor-nas-organizacoes",
@@ -13646,7 +13646,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13661,7 +13661,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-empresariais",
@@ -13707,7 +13707,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13722,7 +13722,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-do-capital-intelectual-e-retencao-de-talentos",
@@ -13808,7 +13808,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13823,7 +13823,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-varejo-bancario",
@@ -13909,7 +13909,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -13924,7 +13924,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-municipal",
@@ -14010,7 +14010,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14025,7 +14025,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-servicos-sociais-e-politicas-publicas",
@@ -14106,7 +14106,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14121,7 +14121,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-seguranca-privada-safety-e-security",
@@ -14207,7 +14207,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14222,7 +14222,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-seguranca-no-trabalho-e-meio-ambiente",
@@ -14308,7 +14308,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14323,7 +14323,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-marketing-e-gestao-de-equipes",
@@ -14389,7 +14389,7 @@
           "carga_horaria_total": "710 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14404,7 +14404,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-investimentos-modelo-cea",
@@ -14490,7 +14490,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14505,7 +14505,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-inteligencia-comercial-e-de-mercado",
@@ -14591,7 +14591,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14606,7 +14606,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-tributaria",
@@ -14692,7 +14692,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14707,7 +14707,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-financeira-e-controladoria",
@@ -14788,7 +14788,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14803,7 +14803,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-financeira",
@@ -14869,7 +14869,7 @@
           "carga_horaria_total": "710 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14884,7 +14884,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-do-comportamento-do-consumidor",
@@ -14965,7 +14965,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -14980,7 +14980,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-empresarial-e-planejamento-tributario",
@@ -15061,7 +15061,7 @@
           "carga_horaria_total": "1280 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15076,7 +15076,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-saude-suplementar",
@@ -15162,7 +15162,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15177,7 +15177,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-producao-e-qualidade",
@@ -15263,7 +15263,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15278,7 +15278,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-pessoas-e-recourses-humanos",
@@ -15364,7 +15364,7 @@
           "carga_horaria_total": "710 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15379,7 +15379,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-imobiliarios-e-turismo",
@@ -15460,7 +15460,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15475,7 +15475,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-e-marketing",
@@ -15566,7 +15566,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15581,7 +15581,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-farmacias-e-drogaria",
@@ -15667,7 +15667,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15682,7 +15682,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-cidades-e-agronegocios",
@@ -15768,7 +15768,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15783,7 +15783,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-da-remuneracao-e-carreira",
@@ -15874,7 +15874,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15889,7 +15889,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-competitiva-e-business-intelligence-bi",
@@ -15970,7 +15970,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -15985,7 +15985,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-ambiental",
@@ -16076,7 +16076,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16091,7 +16091,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gerenciamento-de-projetos",
@@ -16182,7 +16182,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16197,7 +16197,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-consultoria-e-planejamento-empresarial",
@@ -16278,7 +16278,7 @@
           "carga_horaria_total": "1280 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16293,7 +16293,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-seguros-previdencia-e-capitalizacao",
@@ -16379,7 +16379,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16394,7 +16394,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-de-empresas",
@@ -16480,7 +16480,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16495,7 +16495,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-de-recourses-humanos",
@@ -16576,7 +16576,7 @@
           "carga_horaria_total": "1320 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16591,7 +16591,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-e-contabilidade-tributaria",
@@ -16677,7 +16677,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16692,7 +16692,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-financeira-e-orcamentaria",
@@ -16778,7 +16778,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16793,7 +16793,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-contabilidade-e-economia",
@@ -16879,7 +16879,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16894,7 +16894,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-contabilidade-e-financas",
@@ -16980,7 +16980,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -16995,7 +16995,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-auditoria-e-financas",
@@ -17081,7 +17081,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17096,7 +17096,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-auditoria-e-pericia-contabil",
@@ -17182,7 +17182,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17197,7 +17197,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-big-data",
@@ -17283,7 +17283,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17298,7 +17298,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-comportamento-do-consumidor",
@@ -17384,7 +17384,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17399,7 +17399,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-e-financas-empresariais",
@@ -17485,7 +17485,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17500,7 +17500,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-empresarial-e-societaria",
@@ -17581,7 +17581,7 @@
           "carga_horaria_total": "1380 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17596,7 +17596,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-gerencial-e-internacional",
@@ -17682,7 +17682,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17697,7 +17697,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-publica-e-do-terceiro-setor",
@@ -17783,7 +17783,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17798,7 +17798,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-contabilidade-tributaria-e-financeira",
@@ -17874,7 +17874,7 @@
           "carga_horaria_total": "1360 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -17889,7 +17889,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-desenvolvimento-de-pessoas",
@@ -17990,7 +17990,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18005,7 +18005,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-empreendedorismo-e-financas",
@@ -18051,7 +18051,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18066,7 +18066,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-empreendedorismo-e-marketing",
@@ -18112,7 +18112,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18127,7 +18127,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-financas-corporativas",
@@ -18173,7 +18173,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18188,7 +18188,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-financas-de-mercado",
@@ -18289,7 +18289,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18304,7 +18304,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-financas-e-banking",
@@ -18405,7 +18405,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18420,7 +18420,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gerenciamento-de-recourses-humanos",
@@ -18466,7 +18466,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18481,7 +18481,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-contabil",
@@ -18572,7 +18572,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18587,7 +18587,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-cadeia-de-suprimentos",
@@ -18683,7 +18683,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18698,7 +18698,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-informacao",
@@ -18784,7 +18784,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18799,7 +18799,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-producao-em-logistica",
@@ -18885,7 +18885,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -18900,7 +18900,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-qualidade-e-produtividade-logistica",
@@ -18986,7 +18986,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19001,7 +19001,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-da-tecnologia-em-logistica",
@@ -19087,7 +19087,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19102,7 +19102,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-academias-fitness-e-wellness",
@@ -19148,7 +19148,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19163,7 +19163,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-centros-de-educacao-infantil",
@@ -19249,7 +19249,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19264,7 +19264,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-centros-de-educacao-superior",
@@ -19350,7 +19350,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19365,7 +19365,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-contabilidade-e-financas-empresariais",
@@ -19451,7 +19451,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19466,7 +19466,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-escolas-publicas",
@@ -19552,7 +19552,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19567,7 +19567,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-estrategia-empresarial",
@@ -19653,7 +19653,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19668,7 +19668,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-logistica-e-mercados",
@@ -19754,7 +19754,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19769,7 +19769,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-logistica-e-operacoes",
@@ -19855,7 +19855,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19870,7 +19870,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-marcas-e-produtos",
@@ -19956,7 +19956,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -19971,7 +19971,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-marketing",
@@ -20017,7 +20017,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20032,7 +20032,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-negocios-imobiliarios",
@@ -20078,7 +20078,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20093,7 +20093,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-pessoas",
@@ -20139,7 +20139,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20154,7 +20154,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-pessoas-e-desenvolvimento-gerencial",
@@ -20240,7 +20240,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20255,7 +20255,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-pessoas-e-lideranca",
@@ -20341,7 +20341,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20356,7 +20356,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-projetos-em-ti",
@@ -20432,7 +20432,7 @@
           "carga_horaria_total": "980 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20447,7 +20447,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-recourses-humanos",
@@ -20493,7 +20493,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20508,7 +20508,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-turismo",
@@ -20554,7 +20554,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20569,7 +20569,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-turismo-e-hospitalidade",
@@ -20650,7 +20650,7 @@
           "carga_horaria_total": "1280 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20665,7 +20665,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-do-atacado-e-varejo",
@@ -20751,7 +20751,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20766,7 +20766,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-e-retencao-de-talentos",
@@ -20847,7 +20847,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20862,7 +20862,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-eclesiastica",
@@ -20948,7 +20948,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -20963,7 +20963,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-em-vendas",
@@ -21049,7 +21049,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21064,7 +21064,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-empresarial",
@@ -21150,7 +21150,7 @@
           "carga_horaria_total": "1340 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21165,7 +21165,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-empresarial-e-logistica",
@@ -21256,7 +21256,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21271,7 +21271,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-compras",
@@ -21352,7 +21352,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21367,7 +21367,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-marketing",
@@ -21448,7 +21448,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21463,7 +21463,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-pessoas",
@@ -21549,7 +21549,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21564,7 +21564,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-pessoas-e-talentos",
@@ -21650,7 +21650,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21665,7 +21665,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-estrategica-de-projetos",
@@ -21751,7 +21751,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21766,7 +21766,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-farmaceutica",
@@ -21812,7 +21812,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21827,7 +21827,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-financeira",
@@ -21913,7 +21913,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -21928,7 +21928,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-em-logistica",
@@ -22014,7 +22014,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22029,7 +22029,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-tributaria",
@@ -22115,7 +22115,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22130,7 +22130,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-logistica-e-modais-de-transporte",
@@ -22216,7 +22216,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22231,7 +22231,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-logistica-empresarial",
@@ -22277,7 +22277,7 @@
           "carga_horaria_total": "240 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22292,7 +22292,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing",
@@ -22378,7 +22378,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22393,7 +22393,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing-de-servicos-e-relacionamento",
@@ -22479,7 +22479,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22494,7 +22494,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing-digital-global-e-de-relacionamento",
@@ -22580,7 +22580,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22595,7 +22595,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-marketing-e-varejo",
@@ -22681,7 +22681,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22696,7 +22696,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-secretariado-executivo",
@@ -22782,7 +22782,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22797,7 +22797,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-engenharia-de-producao",
@@ -22883,7 +22883,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22898,7 +22898,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-ambiental-e-sustentabilidade-empresarial",
@@ -22984,7 +22984,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -22999,7 +22999,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-bancaria-financeira-e-controladoria",
@@ -23085,7 +23085,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23100,7 +23100,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-comercial-marketing-e-vendas",
@@ -23186,7 +23186,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23201,7 +23201,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-comercial-varejo-e-servicos",
@@ -23287,7 +23287,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23302,7 +23302,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-metros-e-transporte-ferroviario",
@@ -23388,7 +23388,7 @@
           "carga_horaria_total": "600 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23403,7 +23403,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-negocios-em-gastronomia",
@@ -23489,7 +23489,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23504,7 +23504,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-pessoas-desenvolvimento-gerencial-e-coaching",
@@ -23590,7 +23590,7 @@
           "carga_horaria_total": "1440 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23605,7 +23605,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-de-projetos",
@@ -23701,7 +23701,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23716,7 +23716,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-do-esporte",
@@ -23802,7 +23802,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23817,7 +23817,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-em-processos",
@@ -23903,7 +23903,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -23918,7 +23918,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-empresarial-logistica-e-qualidade",
@@ -24004,7 +24004,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24019,7 +24019,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-portuaria",
@@ -24120,7 +24120,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24135,7 +24135,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-financeira-controladoria-e-auditoria",
@@ -24236,7 +24236,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24251,7 +24251,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-publica",
@@ -24347,7 +24347,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24362,7 +24362,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-de-marketing-planejamento-e-inteligencia-competitiva",
@@ -24443,7 +24443,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24458,7 +24458,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-estrategica-em-comercio-exterior",
@@ -24544,7 +24544,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24559,7 +24559,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-gestao-industrial-logistica-e-qualidade",
@@ -24645,7 +24645,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24660,7 +24660,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-planejamento-e-controle-de-obras-publicas",
@@ -24746,7 +24746,7 @@
           "carga_horaria_total": "1400 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "0",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24761,7 +24761,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-orcamento-e-projetos-aplicados-a-construcao-civil",
@@ -24852,7 +24852,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24867,7 +24867,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gerenciamento-de-recourses-financeiros",
@@ -24953,7 +24953,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -24968,7 +24968,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gastronomia",
@@ -25049,7 +25049,7 @@
           "carga_horaria_total": "1280 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25064,7 +25064,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-energias-renovaveis",
@@ -25160,7 +25160,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25175,7 +25175,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-comunicacao-corporativa",
@@ -25266,7 +25266,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25281,7 +25281,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-auditoria-e-gestao-da-qualidade-industrial-farmaceutica",
@@ -25372,7 +25372,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25387,7 +25387,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-agronegocios",
@@ -25473,7 +25473,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25488,7 +25488,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-assessoria-executiva",
@@ -25584,7 +25584,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25599,7 +25599,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-administracao-publica",
@@ -25685,7 +25685,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25700,7 +25700,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-publica-em-saude",
@@ -25786,7 +25786,7 @@
           "carga_horaria_total": "710 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25801,7 +25801,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-gestao-de-pessoas-e-departamento-pessoal",
@@ -25887,7 +25887,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -25902,7 +25902,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-gestao-de-seguranca-e-meio-ambiente",
@@ -25993,7 +25993,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26008,7 +26008,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-projetos",
@@ -26094,7 +26094,7 @@
           "carga_horaria_total": "700 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26109,7 +26109,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-praticas-trabalhistas-tributarias-e-previdenciarias",
@@ -26190,7 +26190,7 @@
           "carga_horaria_total": "720 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26205,7 +26205,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-facilities",
@@ -26301,7 +26301,7 @@
           "carga_horaria_total": "640 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26316,7 +26316,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-executivo-em-processos-gerenciais",
@@ -26417,7 +26417,7 @@
           "carga_horaria_total": "680 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26432,7 +26432,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     },
     {
       "url": "mba-em-gestao-de-credito-e-cobranca",
@@ -26528,7 +26528,7 @@
           "carga_horaria_total": "740 h"
         }
       },
-      "area": "pos-graduacao",
+      "area": "empresarial-e-mba",
       "status": "1",
       "matricula": "300.00",
       "opcao1": "4000.00",
@@ -26543,7 +26543,7 @@
       "mat3": "166.00",
       "mat4": "125.00",
       "mat5": "GRATUITO",
-      "categoria": "MBA"
+      "categoria": "pos-graduacao"
     }
 
 ]

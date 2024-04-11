@@ -83,7 +83,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -98,7 +98,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "personal-trainning-metodologia-da-preparacao-fisica-personalizada",
@@ -179,7 +179,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -194,7 +194,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-desportivo",
@@ -275,7 +275,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -290,7 +290,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fisiologia-do-esporte",
@@ -366,7 +366,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -381,7 +381,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-desportivo-e-educacao-fisica-escolar",
@@ -472,7 +472,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -487,7 +487,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "atletismo",
@@ -518,7 +518,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -533,7 +533,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "basquetebol",
@@ -624,7 +624,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -639,7 +639,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "esportes-aquaticos",
@@ -725,7 +725,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -740,7 +740,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "futebol-e-futsal",
@@ -826,7 +826,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -841,7 +841,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "handebol",
@@ -872,7 +872,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -887,7 +887,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "preparacao-fisica-de-alto-desempenho",
@@ -973,7 +973,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -988,7 +988,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-funcional-para-a-saude-e-condicionamento",
@@ -1019,7 +1019,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1034,7 +1034,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-em-artes-marciais-mistas",
@@ -1080,7 +1080,7 @@
         "carga_horaria_total": "240 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1095,7 +1095,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-especializado-e-funcional-para-corrida",
@@ -1186,7 +1186,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1201,7 +1201,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-fisico-para-a-terceira-idade",
@@ -1287,7 +1287,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1302,7 +1302,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "voleibol",
@@ -1333,7 +1333,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1348,7 +1348,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "yoga",
@@ -1444,7 +1444,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1459,7 +1459,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "medicina-do-esporte",
@@ -1550,7 +1550,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1565,7 +1565,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "atividade-fisica-a-saude-na-terceira-idade",
@@ -1596,7 +1596,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1611,7 +1611,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "avaliacao-da-aptidao-fisica",
@@ -1642,7 +1642,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1657,7 +1657,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "avaliacao-fisica-e-prescricao-de-exercicio-com-enfase-em-academias",
@@ -1688,7 +1688,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1703,7 +1703,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "educacao-fisica-motricidade-e-saude",
@@ -1734,7 +1734,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1749,7 +1749,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-medicina-e-saude-esportiva",
@@ -1780,7 +1780,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1795,7 +1795,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-odontologia-esportiva",
@@ -1826,7 +1826,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1841,7 +1841,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-psiquiatria-do-esporte",
@@ -1872,7 +1872,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1887,7 +1887,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "exercicio-fisico-nos-disturbios-da-coluna-vertebral",
@@ -1973,7 +1973,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1988,7 +1988,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "educacao-fisica-com-enfase-em-handebol",
@@ -2019,7 +2019,7 @@
         "carga_horaria_total": "."
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2034,7 +2034,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ginastica-e-esportes-coletivos",
@@ -2115,7 +2115,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2130,7 +2130,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "musculacao-condicionamento-fisico-prevencao-e-reabilitacao-de-lesoes",
@@ -2216,7 +2216,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2231,7 +2231,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "personal-training-metodologia-do-treinamento-personalizado",
@@ -2317,7 +2317,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2332,7 +2332,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-desportivo-e-supervisao-escolar",
@@ -2363,7 +2363,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2378,7 +2378,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "treinamento-desportivo-jogos-testes-e-provas",
@@ -2409,7 +2409,7 @@
         "carga_horaria_total": " "
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2424,7 +2424,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "bioquimica-do-exercicio",
@@ -2510,7 +2510,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "esportes",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2525,6 +2525,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "ESPORTES"
+    "categoria": "pos-graduacao"
   }
 ]
