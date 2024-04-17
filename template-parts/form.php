@@ -4,6 +4,7 @@ $url_path = parse_url($url, PHP_URL_PATH);
 $url_separate = explode('/', $url_path);
 $area_name = $url_separate['2'];
 $course_name = $url_separate['3'];
+$name_course = mb_convert_case($course_name, MB_CASE_TITLE, "UTF-8");
 
 ?>
 <section class="main__form--content">
@@ -38,9 +39,11 @@ $course_name = $url_separate['3'];
                         <div class="hidden__camps">
                             <input type="hidden" name="area" value="<?php echo course_area($area_name)?>">
                             <input type="hidden" name="price" value="3490">
-                            <input type="hidden" name="course" value="<?php echo mb_convert_case($course_name, MB_CASE_TITLE, "UTF-8")?>">
+                            <input type="hidden" name="course" value="<?php echo str_replace('-', ' ', $name_course)?>">
                         </div>
-                        <input type="submit" value="Enviar">
+                        <div class="main__input--content">
+                            <input class="form__btn--submit" type="submit" value="FAZER MATRÍCULA">
+                        </div>
                     </form>
                 </div>
             </div>

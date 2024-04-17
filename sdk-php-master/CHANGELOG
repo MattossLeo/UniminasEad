@@ -1,0 +1,10 @@
+13-DEC-2013
+
+* Added logging (via KLogger)
+* Updated API specs: Soft descriptor, query per OrderID
+
+27-AUG-2013
+
+* PSR-0 refactoring
+* Added this CHANGELOG
+* Added getResponseMessage() method

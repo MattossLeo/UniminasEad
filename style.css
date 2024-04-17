@@ -31,14 +31,15 @@ Any violation of the use and direct ownership of the property may result in pros
 /*----AREA-SEARCH----*/
 /*---BANNER-COURSES--*/
 /*DESCRIPTION-COURSES*/
+/*------CHECKOUT-----*/
+/*-----THANK-YOU-----*/
 
 
 /*-------INDICE------*/
 
 /*-------GERAL-------*/
 body{
-    zoom: 0.9;
-    font-family: "Poppins";
+    zoom: 0.8;
 }
 a{
     text-decoration: none !important;
@@ -192,7 +193,7 @@ p{
     font-size: 18px;
 }
 .btn-banner {
-    margin-top: 115px;
+    margin-top: 55px;
     padding: 45px 0 0 10px;
     display: flex;
     flex-direction: column;
@@ -293,6 +294,7 @@ a.main__banner--btn {
     top: 50px;
     border-radius: 12px;
     max-height: 300px;
+    width: 100%;
 }
 .course-result {
     padding: 10px 0;
@@ -580,6 +582,19 @@ a.main__banner--btn {
 .form__inputs--main:focus{
     outline: none;
 }
+.main__input--content {
+    display: flex;
+    justify-content: center;
+}
+.form__btn--submit {
+    background: #02B13F;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 20px;
+}
 
 /*------FOOTER-------*/
 
@@ -612,10 +627,10 @@ a.main__banner--btn {
     flex-direction: column;
     align-items: center;
     background: white;
-    box-shadow: 0 0 0px 1px #0000006b;
+    box-shadow: 0 0 0 1px #0000006b;
     border-radius: 5px;
     padding: 15px 5px;
-    margin: 10px 0px;
+    margin: 10px 0;
 }
 .main__course--text {
     color: #02B13F;
@@ -641,6 +656,7 @@ span.btn__description--course {
     margin-top: 30px;
     border-radius: 40px;
 }
+
 
 
 /*----MAIN-COURSE----*/
@@ -681,7 +697,7 @@ span.btn__description--course {
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 5px;
-    padding: 10px 0px 5px;
+    padding: 10px 0 5px;
 }
 .form-inputs {
     border-radius: 30px;
@@ -798,7 +814,24 @@ span.btn__description--course {
     background: #02B13F;
     padding: 25px;
     border-radius: 15px;
-    min-height: 378px;
+    min-height: 340px;
+}
+.course--main__card {
+    min-height: 195px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.tittle-courses {
+    font-size: 1.6rem;
+}
+.card__courses--price {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    flex-direction: column;
+    align-items: center;
 }
 .main__card--btn {
     width: 100%;
@@ -813,6 +846,10 @@ span.btn__description--course {
 }
 .main-prices{
     font-size: 30px;
+}
+.main__fake--price {
+    font-size: 25px;
+    color: #f2f2f2;
 }
 .main__card--btn{
     width: 100%;
@@ -948,13 +985,64 @@ span.btn__description--course {
     font-size: 20px;
 }
 .main__button--form {
-    background: white;
+    background: #fff;
     font-weight: 600;
     color: #02B13F;
     font-size: 18px;
     padding: 10px;
     border-radius: 5px;
+    border: none;
+    width: 100%;
 }
 
-
 /*DESCRIPTION-COURSES*/
+
+/*------CHECKOUT-----*/
+
+.checkout {
+    padding: 80px 0;
+    background: white;
+}
+.main__checkout--header {
+    background: #02B13F;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+.title-checkout {
+    font-size: 20px;
+    margin-bottom: 0 !important;
+}
+
+/*------CHECKOUT-----*/
+
+/*-----THANK-YOU-----*/
+
+.page__thank-you--content {
+    margin-top: 250px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text__p-thanks{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+}
+@media only screen and (max-width: 767px){
+    .thank-you__img {
+        text-align: center;
+    }
+    .img-thanks {
+        width: 80%;
+        margin-bottom: 25px;
+    }
+    .text__p-thanks{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+/*-----THANK-YOU-----*/
