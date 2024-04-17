@@ -1,7 +1,11 @@
 <?php
-
+/*Garantir que a URL do site seja  uniminasposead.com.br*/
 define('SITE_URL', 'https://uniminasposead.com.br/');
 
+/*Inclusão do arquivos de rotas*/
+require_once get_template_directory() . '/routes.php';
+
+/*Função para imprimir resultados variados em array de visualização*/
 function ppr($pre) {
     ?>
     <pre>
@@ -9,7 +13,8 @@ function ppr($pre) {
    </pre>
     <?php
 }
-require_once get_template_directory() . '/area-conn.php';
+
+/* Função que inclui os arquivos de JS CSS e BOOTSTRAP*/
 function home_script_enqueue() {
     /*CSS*/
     wp_enqueue_style('customstyle', get_template_directory_uri() . '/style.css', array(), '1.0.0', 'all');
@@ -28,6 +33,7 @@ function home_script_enqueue() {
 
 }
 
+/*Função para adicionar Menus*/
 add_action('wp_enqueue_scripts', 'home_script_enqueue');
 function register_my_menus() {
     register_nav_menus(
@@ -41,6 +47,8 @@ function register_my_menus() {
     );
 }
 add_action( 'init', 'register_my_menus' );
+
+/*Função para conversão de areas*/
 function course_area($area){
     $area_name = [
         'direito' => 'Direito',
@@ -70,7 +78,7 @@ function course_area($area){
     }
 }
 
-
+/*Paginação*/
 function load_more_courses() {
     $per_page = 6; // Número de cursos por página
     $page = $_POST['page'];
@@ -102,8 +110,9 @@ function load_more_courses() {
 add_action('wp_ajax_load_more_courses', 'load_more_courses');
 add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
 
-function form_data_send() {
-
+/*Ajax Formularios*/
+function form_data_send()
+{
     $bodyData = json_decode(stripslashes($_POST['formData']), true);
 
     $apiKey = "21778ce4-5c3d-4f2b-91e6-c6db024dd9c1";
@@ -129,10 +138,17 @@ function form_data_send() {
     }
     curl_close($ch);
     return $response;
-
 }
 add_action('wp_ajax_form_data_send', 'form_data_send');
-add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');
+add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');;
+/* if (isset($_POST['formData'])) {
+        $formData = json_decode(stripslashes($_POST['formData']), true);
+        wp_send_json_success($formData);
+    } else {
+        wp_send_json_error(array('message' => 'Dados do formulário não fornecidos'));
+    }
+    wp_die();
+}*/
 
 
 function normalizeString($str) {
@@ -140,6 +156,8 @@ function normalizeString($str) {
     $str = mb_strtolower($str, 'UTF-8');
     return $str;
 }
+
+/*Função de busca*/
 function search_courses(){
     $json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/areas.json";
     $courses_json_content = file_get_contents($json_courses);
@@ -184,3 +202,10 @@ function search_courses(){
 
 add_action('wp_ajax_search_courses', 'search_courses');
 add_action('wp_ajax_nopriv_search_courses', 'search_courses');
+
+/*Função para o checkout*/
+function getQueryValues($url) {
+    $query = parse_url($url, PHP_URL_QUERY);
+    parse_str($query, $params);
+    return array_values($params);
+}

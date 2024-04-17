@@ -39,12 +39,13 @@ if ($courses_json_content !== false) {
                                         <div class="card__courses--content">
                                             <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '120', '...'); ?></p>
                                         </div>
-                                        <div class="card__courses--price">
-                                            <p class="main-prices color-white"><b>12x34,90</b>&nbsp;&nbsp;&nbsp;<s class="fake-price">12x 44,90</s></p>
-                                        </div>
-                                        <div class="main__card--btn">
-                                            <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
-                                        </div>
+                                    </div>
+                                    <div class="card__courses--price">
+                                        <p class="main__fake--price">De: <s class="fake-price">12x 44,90</s></p>
+                                        <p class="main-prices color-white">Por: <b>12x34,90</b></p>
+                                    </div>
+                                    <div class="main__card--btn">
+                                        <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
                                     </div>
                                 </div>
                             </div>

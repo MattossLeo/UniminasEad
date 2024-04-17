@@ -70,15 +70,22 @@ $('.btn-pagination').on('click', function () {
                     let htmlContent = `
 <div class="col-lg-4">
     <div class="main__card--courses">
-        <div class="row align-items-end">
-            <div class="col-lg-9">
+        <div class="row align-items-center">
+            <div class="col-lg-12"> 
                 <div class="course--main__card">
-                    <div class="card__courses--title"><h2 class="tittle-courses color-white">${course.title}</h2></div>
-                    <div class="card__courses--content"><p class="courses-texts color-white">${course.objective}</p></div>
-                    <div class="card__courses--price">
-                        <p class="main-prices color-white"><b>12x34,90</b>&nbsp;&nbsp;&nbsp;<s class="fake-price">12x 44,90</s></p>
+                    <div class="card__courses--title">
+                        <h2 class="tittle-courses color-white">${course.title}</h2>
                     </div>
-                    <div class="main__card--btn"><a class="btn-courses" href="${course.url}" target="_blank">CONHEÇER O CURSO</a></div>
+                    <div class="card__courses--content">
+                        <p class="courses-texts color-white">${course.objective}</p>
+                    </div>
+                </div>
+                <div class="card__courses--price">
+                    <p class="main__fake--price">De: <s class="fake-price">12x 44,90</s></p>
+                    <p class="main-prices color-white">Por: <b>12x34,90</b></p>
+                </div>
+                <div class="main__card--btn">
+                    <a class="btn-courses" href="${course.url}">CONHEÇER O CURSO</a>
                 </div>
             </div>
         </div>
@@ -283,12 +290,50 @@ $(document).ready(function() {
             data: bodyData,
             success: function(response) {
                 console.log(response)
-                //window.location.href = 'https://uniminasposead.com.br/obrigado';
+                window.location.href = 'https://uniminasposead.com.br/obrigado';
             },
         });
     });
 });
 
+/*$(document).ready(function() {
+    $('#courseForm').on('submit', function(e) {
+        e.preventDefault();
+        let formDataArray = $(this).serializeArray();
+        let formData = {};
+        $.each(formDataArray, function() {
+            formData[this.name] = this.value;
+        });
+
+        let bodyData = {
+            action: 'form_data_send',
+            formData: JSON.stringify({
+                name: formData.name,
+                phone: formData.whatsapp,
+                email: formData.email,
+                course: formData.course
+            })
+        };
+
+        $.ajax({
+            url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
+            type: 'GET',
+            data: bodyData,
+            success: function(response) {
+                console.log(response);
+                let checkoutUrl = 'https://uniminasposead.com.br/checkout?';
+                checkoutUrlName = 'nome=' + encodeURIComponent(formData.name);
+                checkoutUrlPhone = '&numero=' + encodeURIComponent(formData.whatsapp);
+                checkoutUrlMail = '&email=' + encodeURIComponent(formData.email);
+                checkoutUrlCourse = '&curso=' + encodeURIComponent(formData.course);
+                window.location.href = 'https://uniminasposead.com.br/checkout?'+checkoutUrlName + checkoutUrlPhone + checkoutUrlMail + checkoutUrlCourse;
+            },
+            error: function(response) {
+                console.error('Erro:', response);
+            }
+        });
+    });
+});*/
 /*----Course Form----*/
 
 

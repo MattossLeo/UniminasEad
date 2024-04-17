@@ -1,0 +1,885 @@
+2024-04-15 14:05:46 - INFO --> Starting transaction log
+2024-04-15 14:06:52 - INFO --> Starting transaction log
+2024-04-15 14:06:52 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:08:50 - INFO --> Starting transaction log
+2024-04-15 14:08:50 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:13:18 - INFO --> Starting transaction log
+2024-04-15 14:13:18 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:13:22 - INFO --> Starting transaction log
+2024-04-15 14:13:22 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:19:45 - INFO --> Starting transaction log
+2024-04-15 14:19:45 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:19:45 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:19:45 - INFO --> XML has been generated
+2024-04-15 14:19:45 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:19:45 - INFO --> XML Response received
+2024-04-15 14:19:45 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE220D286:EAF1:0A240C66',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364527',
+  'transactionTimestamp' => '1713190785',
+  'responseCode' => '0',
+  'responseMessage' => 'AUTHORIZED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '507169',
+  'processorReferenceNumber' => '536427',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:23:45 - INFO --> Starting transaction log
+2024-04-15 14:23:45 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:23:45 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:23:45 - INFO --> XML has been generated
+2024-04-15 14:23:46 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:23:46 - INFO --> XML Response received
+2024-04-15 14:23:46 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2247D49:87C4:772661FD',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364532',
+  'transactionTimestamp' => '1713191025',
+  'responseCode' => '0',
+  'responseMessage' => 'AUTHORIZED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '233921',
+  'processorReferenceNumber' => '605931',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:24:14 - INFO --> Starting transaction log
+2024-04-15 14:24:39 - INFO --> Starting transaction log
+2024-04-15 14:24:39 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:24:39 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:24:39 - INFO --> XML has been generated
+2024-04-15 14:24:40 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:24:40 - INFO --> XML Response received
+2024-04-15 14:24:40 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE22550FE:7703:428EF6A2',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364533',
+  'transactionTimestamp' => '1713191080',
+  'responseCode' => '0',
+  'responseMessage' => 'AUTHORIZED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '542681',
+  'processorReferenceNumber' => '128085',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:26:34 - INFO --> Starting transaction log
+2024-04-15 14:26:34 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:26:34 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:26:34 - INFO --> XML has been generated
+2024-04-15 14:26:34 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:26:34 - INFO --> XML Response received
+2024-04-15 14:26:34 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE22710CD:AB8F:13EA3931',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364535',
+  'transactionTimestamp' => '1713191194',
+  'responseCode' => '0',
+  'responseMessage' => 'AUTHORIZED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '193342',
+  'processorReferenceNumber' => '308049',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:26:58 - INFO --> Starting transaction log
+2024-04-15 14:26:58 - NOTICE --> Calling method maxiPago::creditCardAuth
+2024-04-15 14:26:58 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:26:58 - INFO --> XML has been generated
+2024-04-15 14:26:59 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:26:59 - INFO --> XML Response received
+2024-04-15 14:26:59 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE227705A:05B9:6EEE9E3D',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364536',
+  'transactionTimestamp' => '1713191219',
+  'responseCode' => '0',
+  'responseMessage' => 'AUTHORIZED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '1053643',
+  'processorReferenceNumber' => '263909',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:28:30 - INFO --> Starting transaction log
+2024-04-15 14:28:30 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 14:28:30 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:28:30 - INFO --> XML has been generated
+2024-04-15 14:28:31 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:28:31 - INFO --> XML Response received
+2024-04-15 14:28:31 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE228D796:8A85:746B305C',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364538',
+  'transactionTimestamp' => '1713191311',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '841340',
+  'processorReferenceNumber' => '1096234',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:28:35 - INFO --> Starting transaction log
+2024-04-15 14:28:35 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 14:28:35 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:28:35 - INFO --> XML has been generated
+2024-04-15 14:28:36 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:28:36 - INFO --> XML Response received
+2024-04-15 14:28:36 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE228EB6A:887D:6851DF47',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364539',
+  'transactionTimestamp' => '1713191316',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '468239',
+  'processorReferenceNumber' => '418681',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 14:30:50 - INFO --> Starting transaction log
+2024-04-15 14:30:50 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 14:30:50 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 14:30:50 - INFO --> XML has been generated
+2024-04-15 14:30:50 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 14:30:50 - INFO --> XML Response received
+2024-04-15 14:30:50 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE22AF899:3D0E:4C1C84DE',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364543',
+  'transactionTimestamp' => '1713191450',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '104630',
+  'processorReferenceNumber' => '875940',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 16:59:23 - INFO --> Starting transaction log
+2024-04-15 16:59:23 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 16:59:23 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 16:59:23 - INFO --> XML has been generated
+2024-04-15 16:59:23 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 16:59:23 - INFO --> XML Response received
+2024-04-15 16:59:23 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2B2F8E8:089C:5730906C',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364632',
+  'transactionTimestamp' => '1713200363',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '885743',
+  'processorReferenceNumber' => '484802',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:07:20 - INFO --> Starting transaction log
+2024-04-15 17:07:20 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:07:20 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:07:20 - INFO --> XML has been generated
+2024-04-15 17:07:21 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:07:21 - INFO --> XML Response received
+2024-04-15 17:07:21 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BA43B9:24E3:0758D10C',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364640',
+  'transactionTimestamp' => '1713200841',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '1057989',
+  'processorReferenceNumber' => '189559',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:07:28 - INFO --> Starting transaction log
+2024-04-15 17:07:28 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:07:28 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:07:28 - INFO --> XML has been generated
+2024-04-15 17:07:29 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:07:29 - INFO --> XML Response received
+2024-04-15 17:07:29 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BA61A5:468B:187067AB',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364643',
+  'transactionTimestamp' => '1713200849',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '445366',
+  'processorReferenceNumber' => '595643',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:07:49 - INFO --> Starting transaction log
+2024-04-15 17:07:49 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:07:49 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:07:49 - INFO --> XML has been generated
+2024-04-15 17:07:49 - INFO --> Starting transaction log
+2024-04-15 17:07:49 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:07:49 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:07:49 - INFO --> XML has been generated
+2024-04-15 17:07:50 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:07:50 - INFO --> XML Response received
+2024-04-15 17:07:50 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BAB2DE:2D0F:50EFC99F',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364645',
+  'transactionTimestamp' => '1713200870',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '320951',
+  'processorReferenceNumber' => '383284',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:07:50 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:07:50 - INFO --> XML Response received
+2024-04-15 17:07:50 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BAB392:BD7C:41538137',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364646',
+  'transactionTimestamp' => '1713200870',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '473660',
+  'processorReferenceNumber' => '121098',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:08:21 - INFO --> Starting transaction log
+2024-04-15 17:08:21 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:08:21 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:08:21 - INFO --> XML has been generated
+2024-04-15 17:08:22 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:08:22 - INFO --> XML Response received
+2024-04-15 17:08:22 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BB2F4A:44C5:5566C875',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364650',
+  'transactionTimestamp' => '1713200901',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '835256',
+  'processorReferenceNumber' => '617191',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:09:03 - INFO --> Starting transaction log
+2024-04-15 17:09:03 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:09:03 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:09:03 - INFO --> XML has been generated
+2024-04-15 17:09:03 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:09:03 - INFO --> XML Response received
+2024-04-15 17:09:03 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BBD294:EA05:3E090933',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364659',
+  'transactionTimestamp' => '1713200943',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '637352',
+  'processorReferenceNumber' => '700235',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:09:07 - INFO --> Starting transaction log
+2024-04-15 17:09:07 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:09:07 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:09:07 - INFO --> XML has been generated
+2024-04-15 17:09:08 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:09:08 - INFO --> XML Response received
+2024-04-15 17:09:08 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BBE4EF:01DE:4B03D09D',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364660',
+  'transactionTimestamp' => '1713200948',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '625175',
+  'processorReferenceNumber' => '604711',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:11:59 - INFO --> Starting transaction log
+2024-04-15 17:11:59 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:11:59 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:11:59 - INFO --> XML has been generated
+2024-04-15 17:11:59 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:11:59 - INFO --> XML Response received
+2024-04-15 17:11:59 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BE8122:E506:386463A2',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364689',
+  'transactionTimestamp' => '1713201119',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '651070',
+  'processorReferenceNumber' => '870128',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:12:48 - INFO --> Starting transaction log
+2024-04-15 17:12:48 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:12:48 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:12:48 - INFO --> XML has been generated
+2024-04-15 17:12:48 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:12:48 - INFO --> XML Response received
+2024-04-15 17:12:48 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2BF4080:0EC5:6318911E',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364690',
+  'transactionTimestamp' => '1713201168',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '579255',
+  'processorReferenceNumber' => '1002714',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:14:32 - INFO --> Starting transaction log
+2024-04-15 17:14:32 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:14:32 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:14:32 - INFO --> XML has been generated
+2024-04-15 17:14:33 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:14:33 - INFO --> XML Response received
+2024-04-15 17:14:33 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2C0D9E9:E905:5AEECA69',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364693',
+  'transactionTimestamp' => '1713201273',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '1057028',
+  'processorReferenceNumber' => '990250',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:18:06 - INFO --> Starting transaction log
+2024-04-15 17:18:06 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:18:06 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:18:06 - INFO --> XML has been generated
+2024-04-15 17:18:07 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:18:07 - INFO --> XML Response received
+2024-04-15 17:18:07 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2C41EA5:D507:70C83DB6',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364696',
+  'transactionTimestamp' => '1713201487',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '110713',
+  'processorReferenceNumber' => '114502',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:18:31 - INFO --> Starting transaction log
+2024-04-15 17:18:31 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:18:31 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:18:31 - INFO --> XML has been generated
+2024-04-15 17:18:32 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:18:32 - INFO --> XML Response received
+2024-04-15 17:18:32 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2C47E9D:DD91:5F5A0606',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364697',
+  'transactionTimestamp' => '1713201512',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '623583',
+  'processorReferenceNumber' => '583350',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:22:20 - INFO --> Starting transaction log
+2024-04-15 17:22:20 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:22:20 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:22:20 - INFO --> XML has been generated
+2024-04-15 17:22:20 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:22:20 - INFO --> XML Response received
+2024-04-15 17:22:20 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2C7FBA5:BC8C:7367635F',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364701',
+  'transactionTimestamp' => '1713201740',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '847721',
+  'processorReferenceNumber' => '982954',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:24:38 - INFO --> Starting transaction log
+2024-04-15 17:24:38 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:24:38 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:24:38 - INFO --> XML has been generated
+2024-04-15 17:24:38 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:24:38 - INFO --> XML Response received
+2024-04-15 17:24:38 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2CA16FB:DF5D:4C2AAE69',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364703',
+  'transactionTimestamp' => '1713201878',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '216824',
+  'processorReferenceNumber' => '326974',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:24:43 - INFO --> Starting transaction log
+2024-04-15 17:24:43 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:24:43 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:24:43 - INFO --> XML has been generated
+2024-04-15 17:24:44 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:24:44 - INFO --> XML Response received
+2024-04-15 17:24:44 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2CA2C7A:B973:6A4B593A',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364704',
+  'transactionTimestamp' => '1713201884',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '483557',
+  'processorReferenceNumber' => '469734',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)
+2024-04-15 17:24:52 - INFO --> Starting transaction log
+2024-04-15 17:24:52 - NOTICE --> Calling method maxiPago::creditCardSale
+2024-04-15 17:24:52 - NOTICE --> Parameters sent; array (
+  'processorID' => '1',
+  'referenceNum' => 'ORDER2937283',
+  'chargeTotal' => '10.00',
+  'number' => '4111************',
+  'expMonth' => '07',
+  'expYear' => '2026',
+  'cvvNumber' => '***',
+)
+2024-04-15 17:24:52 - INFO --> XML has been generated
+2024-04-15 17:24:52 - INFO --> Sending XML to https://testapi.maxipago.net/UniversalAPI/postXML
+2024-04-15 17:24:52 - INFO --> XML Response received
+2024-04-15 17:24:52 - NOTICE --> Parsed parameters received; array (
+  'authCode' => '123456',
+  'orderID' => '0A0104AB:018EE2CA4D64:EC86:288BB3EC',
+  'referenceNum' => 'ORDER2937283',
+  'transactionID' => '18364705',
+  'transactionTimestamp' => '1713201892',
+  'responseCode' => '0',
+  'responseMessage' => 'CAPTURED',
+  'avsResponseCode' => 'YYY',
+  'cvvResponseCode' => 'M',
+  'processorCode' => 'A',
+  'processorMessage' => 'APPROVED',
+  'processorName' => 'SIMULATOR',
+  'creditCardBin' => '411111',
+  'creditCardLast4' => '1111',
+  'errorMessage' => '',
+  'processorTransactionID' => '676838',
+  'processorReferenceNumber' => '462159',
+  'creditCardCountry' => 'US',
+  'creditCardScheme' => 'Visa',
+)

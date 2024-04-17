@@ -79,7 +79,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -94,7 +94,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "antropologia",
@@ -175,7 +175,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -190,7 +190,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "antropologia-e-fundamentos-da-educacao-social",
@@ -271,7 +271,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -286,7 +286,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquivologia",
@@ -372,7 +372,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -387,7 +387,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "assistencia-social-e-saude-publica",
@@ -453,7 +453,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -468,7 +468,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "arquivo-patrimonio-historico-artistico-e-cultural",
@@ -559,7 +559,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -574,7 +574,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-sociais",
@@ -665,7 +665,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -680,7 +680,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "antropologia-brasileira",
@@ -771,7 +771,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -786,7 +786,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "ciencias-politicas",
@@ -877,7 +877,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -892,7 +892,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "filosofia-sociologia-e-ciencias-sociais",
@@ -973,7 +973,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -988,7 +988,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "geopolitica-e-as-relacoes-internacionais",
@@ -1064,7 +1064,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1079,7 +1079,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS SOCIAIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-de-custos",
@@ -1161,7 +1161,7 @@
         "carga_horaria_total": "500 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1176,7 +1176,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-publica-e-auditoria",
@@ -1273,7 +1273,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1284,7 +1284,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "controladoria-e-financas-empresariais",
@@ -1370,7 +1370,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1385,7 +1385,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-financas-e-orcamento-publico",
@@ -1471,7 +1471,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1486,7 +1486,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-estrategica-em-financas",
@@ -1577,7 +1577,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1592,7 +1592,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-financeira",
@@ -1678,7 +1678,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1693,7 +1693,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-das-organizacoes-do-terceiro-setor",
@@ -1784,7 +1784,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1799,7 +1799,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "controladoria-e-financas",
@@ -1890,7 +1890,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1905,7 +1905,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "custos",
@@ -1950,7 +1950,7 @@
         ]
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -1965,7 +1965,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "custos-no-setor-publico",
@@ -2051,7 +2051,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2066,7 +2066,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-e-controladoria",
@@ -2132,7 +2132,7 @@
         "carga_horaria_total": "630 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2147,7 +2147,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas",
@@ -2233,7 +2233,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2248,7 +2248,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas-aplicadas-a-gestao-em-rh",
@@ -2334,7 +2334,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2349,7 +2349,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas-corporativas",
@@ -2435,7 +2435,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2450,7 +2450,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas-corporativas-e-estatistica",
@@ -2541,7 +2541,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2556,7 +2556,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
   "url": "financas-corporativas-e-matematica",
@@ -2647,7 +2647,7 @@
       "carga_horaria_total": "720 h"
     }
   },
-  "area": "pos-graduacao",
+  "area": "ciencias",
   "status": "1",
   "matricula": "300.00",
   "opcao1": "4000.00",
@@ -2662,7 +2662,7 @@
   "mat3": "166.00",
   "mat4": "125.00",
   "mat5": "GRATUITO",
-  "categoria": "CIÊNCIAS CONTÁBEIS"
+  "categoria": "pos-graduacao"
 },
   {
     "url": "financas-e-gestao-hospitalar",
@@ -2753,7 +2753,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2768,7 +2768,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-financeiro-e-financas-comportamentais",
@@ -2859,7 +2859,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2874,7 +2874,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "recursos-humanos-e-financas",
@@ -2965,7 +2965,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -2980,7 +2980,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analise-de-dados-e-matematica-aplicada",
@@ -3071,7 +3071,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3086,7 +3086,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-governamental",
@@ -3177,7 +3177,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3192,7 +3192,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-previdenciaria",
@@ -3283,7 +3283,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3298,7 +3298,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-forense-e-investigacoes-de-fraudes",
@@ -3389,7 +3389,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3404,7 +3404,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "planejamento-tributario",
@@ -3490,7 +3490,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3505,7 +3505,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-direito-e-economia-com-enfase-na-gestao-publica",
@@ -3591,7 +3591,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3606,7 +3606,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas-e-estatisticas",
@@ -3692,7 +3692,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3707,7 +3707,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "financas-e-matematica",
@@ -3793,7 +3793,7 @@
         "carga_horaria_total": "640h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3808,7 +3808,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "auditoria-e-controladoria-financeira",
@@ -3899,7 +3899,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -3914,7 +3914,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-e-contabilidade-escolar",
@@ -3995,7 +3995,7 @@
         "carga_horaria_total": "680h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4010,7 +4010,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-e-financas-educacionais",
@@ -4086,7 +4086,7 @@
         "carga_horaria_total": "720h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4101,7 +4101,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "administracao-contabilidade-e-financas",
@@ -4192,7 +4192,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4207,7 +4207,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-consultiva",
@@ -4288,7 +4288,7 @@
         "carga_horaria_total": "680 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4303,7 +4303,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade",
@@ -4394,7 +4394,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4409,7 +4409,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-publica-e-lei-de-responsabilidade-fiscal",
@@ -4495,7 +4495,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4510,7 +4510,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "matematica-financeira-para-concurso",
@@ -4581,7 +4581,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4596,7 +4596,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "contabilidade-publica-e-auditoria-controladoria-e-financas",
@@ -4682,7 +4682,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4697,7 +4697,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "calculos-trabalhistas",
@@ -4793,7 +4793,7 @@
         "carga_horaria_total": "760 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4808,7 +4808,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS CONTÁBEIS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "processamento-e-controle-de-qualidade-de-ovos-leite-e-carne",
@@ -4894,7 +4894,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -4909,7 +4909,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "especializacao-em-medicina-veterinaria",
@@ -5011,7 +5011,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5026,7 +5026,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "saude-publica-aplicada-a-medicina-veterinaria",
@@ -5117,7 +5117,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5132,7 +5132,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "agricultura-de-precisao",
@@ -5208,7 +5208,7 @@
         "carga_horaria_total": "580 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5223,7 +5223,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "agricultura-organica",
@@ -5314,7 +5314,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5329,7 +5329,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "agronegocio",
@@ -5410,7 +5410,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5425,7 +5425,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "agronomia",
@@ -5536,7 +5536,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5551,7 +5551,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-e-desenvolvimento-rural",
@@ -5642,7 +5642,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5657,7 +5657,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "doencas-parasitarias-e-infectologia-em-caes-e-gatos",
@@ -5738,7 +5738,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5753,7 +5753,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "analises-clinicas-veterinarias",
@@ -5844,7 +5844,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5859,7 +5859,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "anestesia-veterinaria-dor-e-cuidados-paliativos",
@@ -5965,7 +5965,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -5980,7 +5980,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "avicultura-de-corte-e-postura",
@@ -6071,7 +6071,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6086,7 +6086,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "defesa-sanitaria-animal",
@@ -6177,7 +6177,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6192,7 +6192,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "dermatologia-em-caes-e-gatos",
@@ -6283,7 +6283,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6298,7 +6298,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "citopatologia-veterinaria",
@@ -6389,7 +6389,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6404,7 +6404,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "citricultura",
@@ -6495,7 +6495,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6510,7 +6510,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "clinica-medica-de-gatos",
@@ -6601,7 +6601,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6616,7 +6616,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "clinica-medica-de-pequenos-animais",
@@ -6707,7 +6707,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6722,7 +6722,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "clinica-medica-e-reproducao-de-bovinos",
@@ -6813,7 +6813,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6828,7 +6828,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "clinica-e-odontologia-de-equinos",
@@ -6919,7 +6919,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -6934,7 +6934,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "fitotecnia",
@@ -7030,7 +7030,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7045,7 +7045,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "geriatria-e-neonatologia-em-caes-e-gatos",
@@ -7131,7 +7131,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7146,7 +7146,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "nefrologia-e-urologia-veterinaria",
@@ -7232,7 +7232,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7247,7 +7247,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "neurologia-em-pequenos-animais",
@@ -7338,7 +7338,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7353,7 +7353,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "nutricao-animal",
@@ -7439,7 +7439,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7454,7 +7454,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "manejo-de-pragas-em-culturas-agricolas",
@@ -7540,7 +7540,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7555,7 +7555,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "manipulacao-de-produtos-veterinarios",
@@ -7641,7 +7641,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7656,7 +7656,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "oftalmologia-clinica-veterinaria",
@@ -7742,7 +7742,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7757,7 +7757,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "oncologia-veterinaria-de-pequenos-animais",
@@ -7838,7 +7838,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7853,7 +7853,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "patologia-clinica-veterinaria",
@@ -7939,7 +7939,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -7954,7 +7954,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "processamento-industrial-de-graos",
@@ -8035,7 +8035,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8050,7 +8050,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-aquicola",
@@ -8131,7 +8131,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8146,7 +8146,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-de-ruminantes",
@@ -8237,7 +8237,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8252,7 +8252,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "producao-de-suinos",
@@ -8338,7 +8338,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8353,7 +8353,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "recursos-psiquiatricos-e-piscicultura",
@@ -8439,7 +8439,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8454,7 +8454,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "reproducao-de-equinos",
@@ -8535,7 +8535,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8550,7 +8550,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "zoologia",
@@ -8641,7 +8641,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "R$ 300.00",
     "opcao1": "R$ 4000.00",
@@ -8656,7 +8656,7 @@
     "matricula3": "R$ 166.00",
     "matricula4": "R$ 125.00",
     "matricula5": "Gratuito",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "medicina-veterinaria-de-animais-silvestres",
@@ -8685,7 +8685,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8700,7 +8700,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "medicina-veterinaria-do-coletivo",
@@ -8731,7 +8731,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8746,7 +8746,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "manejo-e-controle-de-especies-bioinvasoras",
@@ -8775,7 +8775,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8790,7 +8790,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "agricultura-e-agronegocio",
@@ -8819,7 +8819,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8834,7 +8834,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "clinica-veterinaria-animais-selvagens",
@@ -8861,7 +8861,7 @@
       ],
       "carga_horaria_total": "700 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8876,7 +8876,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "dermatologia-veterinaria",
@@ -8906,7 +8906,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8921,7 +8921,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-anestesiologia-e-analgesia-veterinaria",
@@ -8949,7 +8949,7 @@
       ],
       "carga_horaria_total": "700 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -8964,7 +8964,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-farmacologia-veterinaria",
@@ -8993,7 +8993,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9008,7 +9008,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-hematologia-e-bioquimica-veterinaria",
@@ -9036,7 +9036,7 @@
       ],
       "carga_horaria_total": "700 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9051,7 +9051,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-microbiologia-veterinaria",
@@ -9080,7 +9080,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9095,7 +9095,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "estudos-em-obstetricia-veterinaria",
@@ -9122,7 +9122,7 @@
       ],
       "carga_horaria_total": "700 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9137,7 +9137,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "inspecao-veterinaria",
@@ -9168,7 +9168,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9183,7 +9183,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "tratamento-cirurgico-e-de-feridas-em-caes-e-gatos",
@@ -9212,7 +9212,7 @@
       ],
       "carga_horaria_total": "720 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9227,7 +9227,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "medicina-veterinaria-legal",
@@ -9256,7 +9256,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9271,7 +9271,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "nutricao-em-caes-e-gatos",
@@ -9301,7 +9301,7 @@
       ],
       "carga_horaria_total": "720 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9316,7 +9316,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "patologia-e-parasitologia-veterinaria",
@@ -9346,7 +9346,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9361,7 +9361,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "topografia-e-sensoriamento-remoto",
@@ -9388,7 +9388,7 @@
       ],
       "carga_horaria_total": "640 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9403,7 +9403,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "reproducao-de-suinos",
@@ -9433,7 +9433,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9448,7 +9448,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "etologia-clinica-veterinaria",
@@ -9477,7 +9477,7 @@
       ],
       "carga_horaria_total": "720 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9492,7 +9492,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "zootecnia",
@@ -9521,7 +9521,7 @@
         "carga_horaria_total": "640 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9536,7 +9536,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS AGRÁRIAS E VETERINÁRIA"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "teologia-e-historia-das-religioes",
@@ -9568,7 +9568,7 @@
       ],
       "carga_horaria_total": "500 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9583,7 +9583,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "aconselhamento-e-psicologia-pastoral",
@@ -9614,7 +9614,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9629,7 +9629,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "teologia-e-cidadania",
@@ -9658,7 +9658,7 @@
       ],
       "carga_horaria_total": "640 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9673,7 +9673,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "teologia",
@@ -9703,7 +9703,7 @@
         "carga_horaria_total": "720 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9718,7 +9718,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "teologia-e-cultura",
@@ -9748,7 +9748,7 @@
       ],
       "carga_horaria_total": "700 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9763,7 +9763,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "missiologia",
@@ -9793,7 +9793,7 @@
         "carga_horaria_total": "700 h"
       }
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "0",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9808,7 +9808,7 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   },
   {
     "url": "turismo-religioso",
@@ -9839,7 +9839,7 @@
       ],
       "carga_horaria_total": "580 h"
     },
-    "area": "pos-graduacao",
+    "area": "ciencias",
     "status": "1",
     "matricula": "300.00",
     "opcao1": "4000.00",
@@ -9854,6 +9854,6 @@
     "mat3": "166.00",
     "mat4": "125.00",
     "mat5": "GRATUITO",
-    "categoria": "CIÊNCIAS RELIGIOSAS"
+    "categoria": "pos-graduacao"
   }
 ]

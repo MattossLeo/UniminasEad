@@ -3,7 +3,7 @@
 <head>
     <title>Uniminas EaD</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Pós Graduação EaD">
+    <meta name="description" content="Obrigado">
     <meta name="keywords" content="Uniminas EAD, Pós-graduação a distância, Cursos de pós-graduação, Especialização EAD, Uniminas Pós-graduação, Modalidade EAD, Cursos online, Diploma de pós-graduação, Educação a distância, Uniminas Cursos EAD, Pós-graduação em EAD, Uniminas Especialização, Ensino a distância, Uniminas Pós-graduação EaD">
     <meta name="author" content="Uniminas EaD">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,47 +22,24 @@
     <script src="https://kit.fontawesome.com/101e17e4b2.js" crossorigin="anonymous"></script>
     <?php wp_head(); ?>
 </head>
-<body>
-<?php
-$menu_principal = array(
-    'theme_location' => 'Menu Principal',
-    'menu_class' => 'menu_header',
-    'menu_id' => 'menuHeader',
-);
-$menu_mobile = array(
-    'theme_location' => 'Menu Mobile',
-    'menu_class' => 'menu_header-mob',
-    'menu_id' => 'menuMob',
-    'container_class' => 'menu-mob',
-);
-?>
-<section class="main__header">
+<body style="background: #1e1e1e">
+<section style="height: auto" class="main__page--thank-you">
     <div class="container">
         <div class="row">
-            <div class="main__content-header">
-                <div class="main__header--logo">
-                    <a href="<?php echo esc_url(get_site_url())?>">
-                        <img width="178" height="47" src="<?php echo get_template_directory_uri()?>/assets/img/Logo-Uniminas-Branco.svg" alt="Logo">
-                    </a>
-                </div>
-                <?php if(!is_page('checkout')){?>
-                <div class="main__header--menu">
-                    <?php wp_nav_menu($menu_principal);?>
-                </div>
-                <?php }?>
-                <div class="main__header--btn">
-                    <a class="header__btn--student-area" target="_blank" href="https://ava.uniminasead.com.br">Área do Aluno</a>
-                </div>
-                <div class="header__menu--mobile">
-                    <img class="main__menu--svg" width="40" height="28" src="<?php echo get_template_directory_uri()?>/assets/img/menu.svg" alt="mob-menu-img">
-                    <div class="menu__mob--content">
-                        <div class="main__menu--mob">
-                            <?php wp_nav_menu($menu_mobile);?>
-                        </div>
+            <div class="col-lg-12">
+                <div class="page__thank-you--content">
+                    <div class="thank-you__img">
+                        <a href="<?php echo esc_url(get_site_url())?>">
+                            <img width="537" height="auto" class="img-thanks" src="<?php echo get_template_directory_uri()?>/assets/img/logo-bigger.svg" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="thank-you__text">
+                        <p class="text__p-thanks">Muito obrigado!<br>Um de nossos Consultores Educacionais<br>entrará em contato através do WhatsApp informado.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
+</body>
+</html>
