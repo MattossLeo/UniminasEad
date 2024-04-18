@@ -38,7 +38,7 @@ $name_course = mb_convert_case($course_name, MB_CASE_TITLE, "UTF-8");
                         </div>
                         <div class="hidden__camps">
                             <input type="hidden" name="area" value="<?php echo course_area($area_name)?>">
-                            <input type="hidden" name="price" value="3490">
+                            <input type="hidden" name="price" value="41880">
                             <input type="hidden" name="course" value="<?php echo str_replace('-', ' ', $name_course)?>">
                         </div>
                         <div class="main__input--content">

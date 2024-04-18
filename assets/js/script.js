@@ -201,6 +201,50 @@ $(document).ready(function() {
         }
     });
 });
+/*---------------------------------FIX-HEADER_SEARCH-------------------------------*/
+$(document).ready(function() {
+    $('.fix-search-courses').on('input', function () {
+        let words = $(this).val();
+        let data = {
+            "action": 'search_courses',
+            "searchData": words
+        };
+        if (words.length >= 3) {
+            $.ajax({
+                url: 'https://uniminasposead.com.br/wp-admin/admin-ajax.php',
+                type: 'POST',
+                dataType: 'json',
+                data: data,
+                success: function(data) {
+                    $('#fixResults').css('display', 'block');
+                    $("#fixResults").empty();
+                    if (data.length > 0) {
+                        $("#fixResults").show();
+                        if (data.length > 5) {
+                            $("#fixResults").css('overflow-y', 'scroll');
+                        } else {
+                            $("#fixResults").css('overflow-y', 'hidden');
+                        }
+                        data.forEach(function(course) {
+                            $("#fixResults").append(
+                                `<div class="course-result">
+                                     <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
+                                        <p class="main__options--courses">${course.titulo}</p>
+                                     </a>
+                                 </div>`
+                            );
+                        });
+                    } else {
+                        $("#fixResults").hide();
+                    }
+                }
+            });
+        } else {
+            $("#fixResults").empty();
+            $("#fixResults").hide();
+        }
+    });
+});
 
 /*----Search Courses----*/
 
@@ -224,65 +268,18 @@ $(document).ready(function() {
         var price = parseFloat(formData.price);
         var bodyData = {
             "action": 'form_data_send',
-            "formData": JSON.stringify({
-                "id": 74221,
-                "createdBy": { "id": 98411 },
-                "responsible": { "id": 98411 },
-                "dateCreated": currentDateTime,
-                "name": formData.name,
+            "formData": {
+                "name":formData.name,
                 "price": price,
-                "source": "MOSKIT_API_V2",
-                "origin": "SITE PRINCIPAL",
-                "status": "OPEN",
-                "closeDate": "string",
-                "entityCustomFields": [
-                    {
-                        "id": "CF_nrLDXoiVCaAgPmOa",
-                        "textValue": formData.email,
-                        "options": [
-                            0
-                        ]
-                    },
-                    {
-                        "id": "CF_rpGmBPioCn6QEqeR",
-                        "textValue": formData.whatsapp,
-                        "options": [
-                            0
-                        ]
-                    },
-                    {
-                        "id": "CF_dVKmQ5i1CwY1PmWR",
-                        "textValue": formData.graduation,
-                        "options": [
-                            0
-                        ]
-                    },
-                    {
-                        "id": "CF_oJZmP1iKCV0JzDgv",
-                        "textValue": "SITE PRINCIPAL",
-                        "options": [
-                            0
-                        ]
-                    },
-                    {
-                        "id": "CF_G21qV7ilCe68YMAX",
-                        "textValue": formData.area,
-                        "options": [
-                            0
-                        ]
-                    },
-                    {
-                        "id": "CF_eZYm9BiyCo0gZD47",
-                        "textValue": formData.course,
-                        "options": [
-                            0
-                        ]
-                    }
-                ],
-                "stage": { "id": 347501 }
-            })
+                "dateCreate": currentDateTime,
+                "email": formData.email,
+                "whatsapp": formData.whatsapp,
+                "area": formData.area,
+                "course": formData.course,
+                "graduation": formData.graduation
+            }
         };
-
+        /*console.log(bodyData);*/
 
         $.ajax({
             url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
@@ -296,44 +293,22 @@ $(document).ready(function() {
     });
 });
 
-/*$(document).ready(function() {
-    $('#courseForm').on('submit', function(e) {
-        e.preventDefault();
-        let formDataArray = $(this).serializeArray();
-        let formData = {};
-        $.each(formDataArray, function() {
-            formData[this.name] = this.value;
-        });
-
-        let bodyData = {
-            action: 'form_data_send',
-            formData: JSON.stringify({
-                name: formData.name,
-                phone: formData.whatsapp,
-                email: formData.email,
-                course: formData.course
-            })
-        };
-
-        $.ajax({
-            url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
-            type: 'GET',
-            data: bodyData,
-            success: function(response) {
-                console.log(response);
-                let checkoutUrl = 'https://uniminasposead.com.br/checkout?';
-                checkoutUrlName = 'nome=' + encodeURIComponent(formData.name);
-                checkoutUrlPhone = '&numero=' + encodeURIComponent(formData.whatsapp);
-                checkoutUrlMail = '&email=' + encodeURIComponent(formData.email);
-                checkoutUrlCourse = '&curso=' + encodeURIComponent(formData.course);
-                window.location.href = 'https://uniminasposead.com.br/checkout?'+checkoutUrlName + checkoutUrlPhone + checkoutUrlMail + checkoutUrlCourse;
-            },
-            error: function(response) {
-                console.error('Erro:', response);
-            }
-        });
-    });
-});*/
 /*----Course Form----*/
+
+$(document).ready(function() {
+    $(window).scroll(function() {
+        var scrollTop = $(this).scrollTop();
+        var scrollThreshold = 200;
+        if (scrollTop >= scrollThreshold) {
+            $('.fix-header').fadeIn();
+        } else {
+            $('.fix-header').css('display', 'none');
+        }
+    });
+});
+
+
+
+
 
 

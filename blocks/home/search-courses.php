@@ -13,7 +13,7 @@
             <div class="col-lg-6 offset-lg-3">
                 <div class="main__content--search">
                     <div class="input__search">
-                        <input class="main__input--search search-courses" id="searchCourses" type="search" placeholder="Digite o curso que você procura">
+                        <input class="main__input--search search-courses" id="searchCourses" type="search" placeholder="Escolha seu curso:">
                         <div class="main__icon--search">
                             <i class="fa-solid fa-magnifying-glass"></i>
                         </div>

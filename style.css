@@ -223,7 +223,8 @@ a.main__banner--btn {
 
 @media only screen and (max-width: 767px){
     .main-banner {
-        background-position: center;
+        background: url("/wp-content/themes/uniminasposead/assets/img/banner-mob-home.webp")no-repeat;
+        background-size: cover;
         padding: 90px 0;
     }
     .btn-banner {
@@ -1046,3 +1047,27 @@ span.btn__description--course {
 }
 
 /*-----THANK-YOU-----*/
+
+.fix-header {
+    background: #02B13F;
+    padding: 35px 0;
+    position: sticky;
+    z-index: 99;
+    display: none;
+}
+.main__content--fix-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input__search {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.fix-search-courses {
+    padding: 6px 30px 6px 19px;
+    border: 0 solid black;
+    width: 480px;
+}
