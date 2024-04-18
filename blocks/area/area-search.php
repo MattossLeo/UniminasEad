@@ -23,11 +23,11 @@ $area_file = $area_name . '.json';
             <div class="col-lg-6 offset-lg-3">
                 <div class="search--course">
                     <div class="input__search">
-                        <input class="main__input--search search-courses" id="searchCourse" type="search" placeholder="Digite o curso que você procura">
+                        <input class="main__input--search search-courses" id="originalSearchCourses" type="search" placeholder="Escolha seu curso:">
                         <div class="main__icon--search">
                             <i class="fa-solid fa-magnifying-glass"></i>
                         </div>
-                        <div class="results-search" id="results"></div>
+                        <div class="results-search" id="originalResults"></div>
                     </div>
                 </div>
             </div>

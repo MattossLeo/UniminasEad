@@ -159,90 +159,51 @@ $('document').ready(function() {
 
 /*----Search Courses----*/
 $(document).ready(function() {
-    $('.search-courses').on('input', function () {
-        let words = $(this).val();
+    function handleSearch(inputElement, resultsContainer) {
+
+        let words = $(inputElement).val();
         let data = {
             "action": 'search_courses',
             "searchData": words
         };
+
         if (words.length >= 3) {
             $.ajax({
                 url: 'https://uniminasposead.com.br/wp-admin/admin-ajax.php',
                 type: 'POST',
                 dataType: 'json',
                 data: data,
-                success: function(data) {
-                    $('.results-search').css('display', 'block');
-                    $(".results-search").empty();
-                    if (data.length > 0) {
-                        $(".results-search").show();
-                        if (data.length > 5) {
-                            $(".results-search").css('overflow-y', 'scroll');
-                        } else {
-                            $(".results-search").css('overflow-y', 'hidden');
-                        }
-                        data.forEach(function(course) {
-                            $(".results-search").append(
+                success: function(responseData) {
+                    $(resultsContainer).css('display', 'block').empty();
+                    if (responseData.length > 0) {
+                        $(resultsContainer).show();
+                        $(resultsContainer).css('overflow-y', responseData.length > 5 ? 'scroll' : 'hidden');
+                        responseData.forEach(function(course) {
+                            $(resultsContainer).append(
                                 `<div class="course-result">
-                                     <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
-                                        <p class="main__options--courses">${course.titulo}</p>
-                                     </a>
-                                 </div>`
+                                    <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
+                                       <p class="main__options--courses">${course.titulo}</p>
+                                    </a>
+                                </div>`
                             );
                         });
                     } else {
-                        $(".results-search").hide();
+                        $(resultsContainer).hide();
                     }
                 }
             });
         } else {
-            $(".results-search").empty();
-            $(".results-search").hide();
+            $(resultsContainer).empty().hide();
         }
+    }
+    $('#originalSearchCourses').on('input', function() {
+        handleSearch(this, '#originalResults');
+        console.log($(this));
     });
-});
-/*---------------------------------FIX-HEADER_SEARCH-------------------------------*/
-$(document).ready(function() {
-    $('.fix-search-courses').on('input', function () {
-        let words = $(this).val();
-        let data = {
-            "action": 'search_courses',
-            "searchData": words
-        };
-        if (words.length >= 3) {
-            $.ajax({
-                url: 'https://uniminasposead.com.br/wp-admin/admin-ajax.php',
-                type: 'POST',
-                dataType: 'json',
-                data: data,
-                success: function(data) {
-                    $('#fixResults').css('display', 'block');
-                    $("#fixResults").empty();
-                    if (data.length > 0) {
-                        $("#fixResults").show();
-                        if (data.length > 5) {
-                            $("#fixResults").css('overflow-y', 'scroll');
-                        } else {
-                            $("#fixResults").css('overflow-y', 'hidden');
-                        }
-                        data.forEach(function(course) {
-                            $("#fixResults").append(
-                                `<div class="course-result">
-                                     <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
-                                        <p class="main__options--courses">${course.titulo}</p>
-                                     </a>
-                                 </div>`
-                            );
-                        });
-                    } else {
-                        $("#fixResults").hide();
-                    }
-                }
-            });
-        } else {
-            $("#fixResults").empty();
-            $("#fixResults").hide();
-        }
+
+    $('#fixSearchCourses').on('input', function() {
+        handleSearch(this, '#fixResults');
+        console.log($(this));
     });
 });
 
