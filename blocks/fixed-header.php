@@ -9,7 +9,7 @@
                 </div>
                 <div class="main__fix--input">
                     <div class="input__search fix-input">
-                        <input class="fix-search-courses" id="searchCourses" type="search" placeholder="Escolha seu curso:">
+                        <input class="fix-search-courses" id="fixSearchCourses" type="search" placeholder="Escolha seu curso:">
                         <div class="main__icon--search">
                             <i class="fa-solid fa-magnifying-glass"></i>
                         </div>

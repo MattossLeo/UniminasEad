@@ -1052,6 +1052,7 @@ span.btn__description--course {
     background: #02B13F;
     padding: 35px 0;
     position: sticky;
+    top: 0;
     z-index: 99;
     display: none;
 }
