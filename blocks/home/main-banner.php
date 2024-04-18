@@ -8,15 +8,15 @@
                     <p class="home__text--banner text-mob-center color-white">Prepare-se para dar um <b>salto na sua carreira profissional</b><br> com a Pós-Graduação EaD do Instituto Uniminas, uma<br> <b>Instituição credenciada pelo MEC.</b></p>
                     <div class="main__info--card">
                         <div class="main__infos--options color-white">
-                            <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                            <img width="35" height="36" src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
                             <p>Instituição <b>Credenciada pelo MEC</b></p>
                         </div>
                         <div class="main__infos--options color-white">
-                            <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                            <img width="35" height="36" src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
                             <p>Cursos com <b>conclusão em 3 meses</b></p>
                         </div>
                         <div class="main__infos--options color-white">
-                            <img src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
+                            <img width="35" height="36" src="<?php echo get_template_directory_uri()?>/assets/img/green-check.svg" alt="green-check">
                             <p>Certificado Digitalizado em <b>até 2 dias utés</b></p>
                         </div>
                     </div>

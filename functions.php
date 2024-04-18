@@ -111,16 +111,96 @@ add_action('wp_ajax_load_more_courses', 'load_more_courses');
 add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
 
 /*Ajax Formularios*/
-function form_data_send()
-{
-    $bodyData = json_decode(stripslashes($_POST['formData']), true);
+function form_data_send(){
+    function getDatabaseConnection() {
+        $servername = "mysql.uniminasposead.com.br";
+        $username = "uniminasposead04";
+        $password = "Mktuniminas24";
+        $dbname = "uniminasposead04";
 
+        $conn = new mysqli($servername, $username, $password, $dbname);
+
+        if ($conn->connect_error) {
+            die("Conexão falhou: " . $conn->connect_error);
+        }
+        return $conn;
+    }
+    function incrementAndGetCounter() {
+        $conn = getDatabaseConnection();
+        try {
+            $conn->begin_transaction();
+            $conn->query("UPDATE form_submissions SET count = count + 1 WHERE id = 1");
+            $result = $conn->query("SELECT count FROM form_submissions WHERE id = 1");
+            $row = $result->fetch_assoc();
+            $conn->commit();
+            return $row['count'];
+        } catch (mysqli_sql_exception $e) {
+            $conn->rollback();
+            echo "Erro ao incrementar o contador: " . $e->getMessage();
+            exit;
+        } finally {
+            $conn->close();
+        }
+    }
+
+    $bodyData = $_POST['formData'];
+    function processFormSubmission($bodyData) {
+
+        $uniqueCounter = incrementAndGetCounter();
+        return $bodyData['name'] . $uniqueCounter;
+    }
+    $sendDeal = [
+        "id"          => 74221,
+        "createdBy"   => ['id' => 98411 ],
+        "responsible" => ['id' => 98411 ],
+        "dateCreated" => $bodyData['dateCreate'],
+        "name"        => processFormSubmission($bodyData),
+        "price"       => floatval($bodyData['price']),
+        "source"      => "MOSKIT_API_V2",
+        "origin"      => "SITE PRINCIPAL",
+        "status"      => "OPEN",
+        "closeDate"   => "string",
+        "entityCustomFields"=> [
+            [
+                'id'=> 'CF_nrLDXoiVCaAgPmOa',
+                'textValue'=> $bodyData['email'],
+                'options'=> [0]
+            ],
+            [
+                'id'=> 'CF_rpGmBPioCn6QEqeR',
+                'textValue'=> $bodyData['whatsapp'],
+                'options'=> [0]
+            ],
+            [
+                'id'=> 'CF_dVKmQ5i1CwY1PmWR',
+                'textValue'=> $bodyData['graduation'],
+                'options'=> [0]
+            ],
+            [
+                'id'=> 'CF_oJZmP1iKCV0JzDgv',
+                'textValue'=> "SITE PRINCIPAL",
+                'options'=> [0]
+            ],
+            [
+                'id'=> 'CF_G21qV7ilCe68YMAX',
+                'textValue'=> $bodyData['area'],
+                'options'=> [0]
+            ],
+            [
+                'id'=> 'CF_eZYm9BiyCo0gZD47',
+                'textValue'=> $bodyData['course'],
+                'options'=> [0]
+            ]
+        ],
+        "stage" => [ 'id'=> 347501]
+    ];
     $apiKey = "21778ce4-5c3d-4f2b-91e6-c6db024dd9c1";
     $url = 'https://api.moskitcrm.com/v2/deals';
 
+
     $ch = curl_init($url);
     curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($bodyData));
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($sendDeal));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_HTTPHEADER, array(
         'Content-Type: application/json',
@@ -134,21 +214,20 @@ function form_data_send()
     if ($httpCode == 200) {
         echo json_encode(array('success' => true));
     } else {
-        echo json_encode(array('success' => false));
+        echo json_encode(array(
+            'erro' => 'Not send',
+            'httpCode' => $httpCode,
+            'response' => json_decode($response, true),
+            'sentData' => $sendDeal
+        ));
     }
     curl_close($ch);
     return $response;
+
 }
 add_action('wp_ajax_form_data_send', 'form_data_send');
-add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');;
-/* if (isset($_POST['formData'])) {
-        $formData = json_decode(stripslashes($_POST['formData']), true);
-        wp_send_json_success($formData);
-    } else {
-        wp_send_json_error(array('message' => 'Dados do formulário não fornecidos'));
-    }
-    wp_die();
-}*/
+add_action('wp_ajax_nopriv_form_data_send', 'form_data_send');
+
 
 
 function normalizeString($str) {
