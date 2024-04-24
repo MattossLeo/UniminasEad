@@ -6,7 +6,6 @@ include get_template_directory() . "/blocks/home/search-courses.php";
 include get_template_directory() . "/blocks/home/area-course.php";
 include get_template_directory() . "/blocks/home/seven-day-guarantee.php";
 include get_template_directory() . "/blocks/home/accelerate-your-growth.php";
-include get_template_directory() . "/blocks/home/seven-day-guarantee.php";
 include get_template_directory() . "/blocks/home/feedbacks.php";
 
 

@@ -20,7 +20,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
             <div class="col-lg-7">
                 <?php
                 foreach ($filtered_courses as $course){
-//                    ppr($course);
+                    $course_name = $course->titulo;
                     $course_objective = $course->conteudo->objetivos;
                     $course_public = $course->conteudo->publico_alvo;
                     $course_disciplines = $course->conteudo->carga_horaria->disciplinas;
@@ -65,8 +65,13 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                     </div>
                     <div class="main__items--options">
                         <div class="main__prices">
-                            <p class="price-course"><b>12x R$34,90</b></p>
-                            <p class="fake-price-course"><s>12x R$44,90 </s>No cartão</p>
+                            <?php if(trim($course_name) === 'ENGENHARIA DE SEGURANÇA DO TRABALHO' || trim($course_name) === 'GEORREFERENCIAMENTO DE IMÓVEIS RURAIS'){?>
+                                <p class="price-course"><b>12x 120,00</b></p>
+                                <p class="fake-price-course"><s>12x140,00 </s>No cartão</p>
+                            <?php }else{?>
+                                <p class="price-course"><b>12x R$43,90</b></p>
+                                <p class="fake-price-course"><s>12x R$51,90 </s>No cartão</p>
+                            <?php }?>
                         </div>
                         <div class="items-options">
                             <div class="main__items--content">
@@ -103,7 +108,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                             <p class="bonus__text--option">1 Pós Graduação Gratuita</p>
                         </div>
                         <div class="main__button--offer">
-                            <button id="openPopupBtn" class="main__button--form">FAZER MATRÍCULA</button>
+                            <button class="open__popup--btn main__button--form">FAZER MATRÍCULA</button>
                         </div>
                     </div>
                 </div>
