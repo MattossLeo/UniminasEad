@@ -82,7 +82,7 @@ $('.btn-pagination').on('click', function () {
                 </div>
                 <div class="card__courses--price">
                     <p class="main__fake--price">De: <s class="fake-price">12x 44,90</s></p>
-                    <p class="main-prices color-white">Por: <b>12x34,90</b></p>
+                    <p class="main-prices color-white">Por: <b>12x 34,90</b></p>
                 </div>
                 <div class="main__card--btn">
                     <a class="btn-courses" href="${course.url}">CONHEÇER O CURSO</a>
@@ -151,7 +151,7 @@ $('document').ready(function() {
     $('#closeBtn').on('click', function () {
         $('#popupForm').css('display', 'none');
     });
-    $('#openPopupBtn').on('click', function () {
+    $('.open__popup--btn').on('click', function () {
         $('#popupForm').css('display', 'block');
     });
 });

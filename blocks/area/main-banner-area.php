@@ -35,7 +35,7 @@ $area = course_area($area_name);
                     </div>
                     <div class="btn__choose-your-course btn-banner">
                         <span class="border-green">&nbsp;</span>
-                        <a class="main__banner--btn" href="#areaCourse">ESCOLHA SEU CURSO</a>
+                        <a class="main__banner--btn" href="#areacourse">ESCOLHA SEU CURSO</a>
                     </div>
                 </div>
             </div>

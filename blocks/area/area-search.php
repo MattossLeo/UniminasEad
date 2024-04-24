@@ -5,7 +5,7 @@ $area_name = basename($url_path);
 $area_file = $area_name . '.json';
 ?>
 
-<section class="area-search">
+<section class="area-search" id="areacourse">
     <div class="container">
         <div class="row">
             <div class="main__title--search">

@@ -112,6 +112,7 @@ add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
 
 /*Ajax Formularios*/
 function form_data_send(){
+    session_start();
     function getDatabaseConnection() {
         $servername = "mysql.uniminasposead.com.br";
         $username = "uniminasposead04";
@@ -144,6 +145,8 @@ function form_data_send(){
     }
 
     $bodyData = $_POST['formData'];
+
+    $_SESSION['course'] = $bodyData['course'];
     function processFormSubmission($bodyData) {
 
         $uniqueCounter = incrementAndGetCounter();

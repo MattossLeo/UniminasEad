@@ -1,4 +1,3 @@
-<?php session_start();?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,46 +21,29 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://kit.fontawesome.com/101e17e4b2.js" crossorigin="anonymous"></script>
     <?php wp_head(); ?>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-NGVT8NTF');</script>
-    <!-- End Google Tag Manager -->
 </head>
-<body style="background: #1e1e1e">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGVT8NTF"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-<?php $course = $_SESSION['course']; ?>
-<script type="text/javascript">
-    let course = <?php echo json_encode($course)?>;
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-        event: 'customEvent',
-        customTag: course,
-    });
-</script>
-<section style="height: auto" class="main__page--thank-you">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="page__thank-you--content">
-                    <div class="thank-you__img">
-                        <a href="<?php echo esc_url(get_site_url())?>">
-                            <img width="537" height="auto" class="img-thanks" src="<?php echo get_template_directory_uri()?>/assets/img/logo-bigger.svg" alt="Logo">
-                        </a>
-                    </div>
-                    <div class="thank-you__text">
-                        <p class="text__p-thanks">Muito obrigado!<br>Um de nossos Consultores Educacionais<br>entrará em contato através do WhatsApp para dar continuidade.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+<body style="zoom: .8;">
+<section class="erro-404">
+    <div style="display: flex; justify-content: center" class="main__404--img">
+        <img style="height: 100vh" src="<?php echo get_template_directory_uri()?>/assets/img/404.webp" alt="Error">
     </div>
+    <div style="display: none;" class="main__404--mob">
+        <img style="width:100%; height: auto" src="<?php echo get_template_directory_uri()?>/assets/img/404mob.webp" alt="Error">
+    </div>
+    <style>
+        @media only screen and (max-width: 767px){
+            .main__404--img{
+                display: none !important;
+            }
+            .main__404--mob{
+                display: flex !important;
+                justify-content: center;
+                height: 80vh;
+                margin-top: 60px;
+            }
+        }
+    </style>
 </section>
+<?php wp_footer()?>
 </body>
 </html>

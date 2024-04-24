@@ -1,4 +1,4 @@
-<section class="area-couse" id="areaCourse">
+<section class="area-couse" id="areacourse">
     <div class="container">
         <div class="row">
 <?php

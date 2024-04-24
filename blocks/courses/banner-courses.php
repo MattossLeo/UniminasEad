@@ -59,6 +59,14 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div style="margin-top: 20px" class="course__banner--btn">
+                        <div class="btn__choose-your-course btn-banner">
+                            <span class="border-green">&nbsp;</span>
+                            <a class="main__banner--btn open__popup--btn">FAZER MATRÍCULA</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

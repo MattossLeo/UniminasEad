@@ -128,6 +128,53 @@
     "categoria": "pos-graduacao"
   },
   {
+    "url": "georreferenciamento-de-imoveis-rurais",
+    "id": "350",
+    "image": "courses/JpDEnpZz8ru0zrgzorGjJ3jwPrD9ho16bw6pnWdt.png",
+    "titulo": "GEORREFERENCIAMENTO DE IMÓVEIS RURAIS",
+    "conteudo": {
+      "objetivos": "O curso de Pós-graduação em Georreferenciamento de Imóveis Rurais, tem como objetivo capacitar e aperfeiçoar profissionais técnicos em conhecimento de topografia e GPS aplicados, bem como atividades práticas dirigidas e o uso dos equipamentos Estação Total e GPS Geodésico, além de programas computacionais específicos da área.",
+      "campo_de_atuacao": "Mapeamento de imóveis rurais, usando como base a sua área e posição geográfica. O curso atende as demandas de PL 2087/2004 do CONFEA. Os alunos têm direito a assinar ART, trabalhos do georreferenciamento e solicitar o seu credenciamento junto ao INCRA.",
+      "publico_alvo": "O curso de Pós-graduação em Georreferenciamento de Imóveis Rurais, destina-se a Profissionais formados na área de Agrimensura, Edificação, Estradas, Geodésia e Cartografia, Geoprocessamento, Trânsito, Transporte, Téc. Em floresta, Geologia e Mineração, dentre outros.",
+      "carga_horaria": {
+        "disciplinas": [
+          { "n": "01", "nome": "Ética Geral E Profissional", "ch": "40 h" },
+          { "n": "02", "nome": "Metodologia Científica", "ch": "40 h" },
+          { "n": "03", "nome": "Direitos Humanos", "ch": "40 h" },
+          { "n": "04", "nome": "Língua Brasileira De Sinais - Libras", "ch": "40 h" },
+          { "n": "05", "nome": "Docência Do Ensino Superior", "ch": "40 h" },
+          { "n": "06", "nome": "Inovações Tecnológicas", "ch": "40 h" },
+          { "n": "07", "nome": "Fundamentos do Geoprocessamento", "ch": "60 h" },
+          { "n": "08", "nome": "Sistemas de Referências na Geodésia", "ch": "60 h" },
+          { "n": "09", "nome": "Legislação Aplicada ao Georreferenciamento de Imóveis Rurais", "ch": "60 h" },
+          { "n": "10", "nome": "Desenvolvimento Profissional", "ch": "60 h" },
+          { "n": "11", "nome": "Sistemas de Informação e Projeções Cartográficas", "ch": "60 h" },
+          { "n": "12", "nome": "Métodos e Medidas de Posicionamento Geodésio GNSS", "ch": "60 h" },
+          { "n": "13", "nome": "Elaboração de relatórios técnicos exigidos pelo INCRA", "ch": "40 h" },
+          { "n": "14", "nome": "Interpretação e Análise da Norma Técnica do INCRA", "ch": "40 h" },
+          { "n": "15", "nome": "Trabalho De Conclusão De Curso – TCC", "ch": "40 h" }
+        ],
+        "carga_horaria_total": "720 h"
+      }
+    },
+    "area": "empresarial-e-mba",
+    "status": "1",
+    "matricula": "300.00",
+    "opcao1": "4000.00",
+    "opcao6": "666.67",
+    "opcao12": "333.33",
+    "opcao18": "222.22",
+    "opcao20": "200.00",
+    "opcao22": "181.81",
+    "opcao24": "166.66",
+    "mat1": "500.00",
+    "mat2": "250.00",
+    "mat3": "166.00",
+    "mat4": "125.00",
+    "mat5": "GRATUITO",
+    "categoria": "pos-graduacao"
+  },
+  {
     "url": "comercio-exterior",
     "id": "205",
     "image": "courses/ouB9BUMX22bPze6w9OlkRHaXnpOzatx3TeqPqiSf.png",
@@ -377,53 +424,6 @@
           { "n": "10", "nome": "Trabalho de Conclusão de Curso - TCC", "ch": "40 h" }
         ],
         "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "empresarial-e-mba",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "georreferenciamento-de-imoveis-rurais",
-    "id": "350",
-    "image": "courses/JpDEnpZz8ru0zrgzorGjJ3jwPrD9ho16bw6pnWdt.png",
-    "titulo": "GEORREFERENCIAMENTO DE IMÓVEIS RURAIS",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Georreferenciamento de Imóveis Rurais, tem como objetivo capacitar e aperfeiçoar profissionais técnicos em conhecimento de topografia e GPS aplicados, bem como atividades práticas dirigidas e o uso dos equipamentos Estação Total e GPS Geodésico, além de programas computacionais específicos da área.",
-      "campo_de_atuacao": "Mapeamento de imóveis rurais, usando como base a sua área e posição geográfica. O curso atende as demandas de PL 2087/2004 do CONFEA. Os alunos têm direito a assinar ART, trabalhos do georreferenciamento e solicitar o seu credenciamento junto ao INCRA.",
-      "publico_alvo": "O curso de Pós-graduação em Georreferenciamento de Imóveis Rurais, destina-se a Profissionais formados na área de Agrimensura, Edificação, Estradas, Geodésia e Cartografia, Geoprocessamento, Trânsito, Transporte, Téc. Em floresta, Geologia e Mineração, dentre outros.",
-      "carga_horaria": {
-        "disciplinas": [
-          { "n": "01", "nome": "Ética Geral E Profissional", "ch": "40 h" },
-          { "n": "02", "nome": "Metodologia Científica", "ch": "40 h" },
-          { "n": "03", "nome": "Direitos Humanos", "ch": "40 h" },
-          { "n": "04", "nome": "Língua Brasileira De Sinais - Libras", "ch": "40 h" },
-          { "n": "05", "nome": "Docência Do Ensino Superior", "ch": "40 h" },
-          { "n": "06", "nome": "Inovações Tecnológicas", "ch": "40 h" },
-          { "n": "07", "nome": "Fundamentos do Geoprocessamento", "ch": "60 h" },
-          { "n": "08", "nome": "Sistemas de Referências na Geodésia", "ch": "60 h" },
-          { "n": "09", "nome": "Legislação Aplicada ao Georreferenciamento de Imóveis Rurais", "ch": "60 h" },
-          { "n": "10", "nome": "Desenvolvimento Profissional", "ch": "60 h" },
-          { "n": "11", "nome": "Sistemas de Informação e Projeções Cartográficas", "ch": "60 h" },
-          { "n": "12", "nome": "Métodos e Medidas de Posicionamento Geodésio GNSS", "ch": "60 h" },
-          { "n": "13", "nome": "Elaboração de relatórios técnicos exigidos pelo INCRA", "ch": "40 h" },
-          { "n": "14", "nome": "Interpretação e Análise da Norma Técnica do INCRA", "ch": "40 h" },
-          { "n": "15", "nome": "Trabalho De Conclusão De Curso – TCC", "ch": "40 h" }
-        ],
-        "carga_horaria_total": "720 h"
       }
     },
     "area": "empresarial-e-mba",
