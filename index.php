@@ -1,6 +1,5 @@
 <?php get_header();
 
-include get_template_directory() . "/blocks/fixed-header.php";
 include get_template_directory() . "/blocks/home/main-banner.php";
 include get_template_directory() . "/blocks/home/search-courses.php";
 include get_template_directory() . "/blocks/home/area-course.php";
