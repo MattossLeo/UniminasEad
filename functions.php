@@ -147,6 +147,7 @@ function form_data_send(){
     $bodyData = $_POST['formData'];
 
     $_SESSION['course'] = $bodyData['course'];
+    $_SESSION['email'] = $bodyData['email'];
     function processFormSubmission($bodyData) {
 
         $uniqueCounter = incrementAndGetCounter();
