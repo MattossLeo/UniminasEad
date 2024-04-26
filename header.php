@@ -22,6 +22,41 @@
     <script src="https://kit.fontawesome.com/101e17e4b2.js" crossorigin="anonymous"></script>
     <?php wp_head(); ?>
 
+    <!-- Meta Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '428657689862769');
+        <?php if(is_page('home')){?>
+        fbq('trackCustom', 'Home');
+        <?php }
+        $url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        $url_path = parse_url($url, PHP_URL_PATH);
+        $url_separate = explode('/', $url_path);
+
+        $count_segments = count($url_separate);
+        if ($count_segments == 4 && isset($url_separate[2])) {
+        ?>
+        fbq('trackCustom', 'Areas');
+        <?php
+        }
+        if ($count_segments == 5 && isset($url_separate[3])) {
+        ?>
+        fbq('trackCustom', 'Courses');
+        <?php }?>
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=428657689862769&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Meta Pixel Code -->
+
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
