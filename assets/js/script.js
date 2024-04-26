@@ -255,18 +255,18 @@ $(document).ready(function() {
 });
 
 /*----Course Form----*/
-
 $(document).ready(function() {
     $(window).scroll(function() {
         var scrollTop = $(this).scrollTop();
         var scrollThreshold = 200;
         if (scrollTop >= scrollThreshold) {
-            $('.fix-header').fadeIn();
+            $('.fix-header').css('display', 'flex');
         } else {
-            $('.fix-header').css('display', 'none');
+            $('.fix-header').css('display', 'none')
         }
     });
 });
+
 
 
 

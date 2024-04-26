@@ -90,6 +90,13 @@ p{
     background: #02B13F;
     padding: 30px 0;
 }
+.fix-header{
+    background: #02B13F;
+    padding: 30px 0;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
 .main__content-header{
     display: flex;
     justify-content: space-between;
@@ -1198,14 +1205,6 @@ span.btn__description--course {
 
 /*-----THANK-YOU-----*/
 
-.fix-header {
-    background: #02B13F;
-    padding: 35px 0;
-    position: sticky;
-    top: 0;
-    z-index: 99;
-    display: none;
-}
 
 .main__content--fix-header {
     display: flex;
