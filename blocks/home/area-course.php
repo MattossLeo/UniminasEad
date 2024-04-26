@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
 <?php
-$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/areas.json";
+$json_courses =  get_template_directory() . "/inc/course/areas.json";
 $courses_json = file_get_contents($json_courses);
 $areas = json_decode($courses_json);
 $json_areas = $areas->cursos;

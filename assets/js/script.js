@@ -59,7 +59,7 @@ $('.btn-pagination').on('click', function () {
     data.append('area', $(this).data('area'));
 
     $.ajax({
-        url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
+        url: "/wp-admin/admin-ajax.php",
         type: 'POST',
         data: data,
         processData: false,
@@ -169,7 +169,7 @@ $(document).ready(function() {
 
         if (words.length >= 3) {
             $.ajax({
-                url: 'https://uniminasposead.com.br/wp-admin/admin-ajax.php',
+                url: '/wp-admin/admin-ajax.php',
                 type: 'POST',
                 dataType: 'json',
                 data: data,
@@ -181,7 +181,7 @@ $(document).ready(function() {
                         responseData.forEach(function(course) {
                             $(resultsContainer).append(
                                 `<div class="course-result">
-                                    <a href="https://uniminasposead.com.br/pos-graduacao/${course.area}/${course.url}">
+                                    <a href="https://pos.faculdadeuniminasead.com.br/pos-graduacao/${course.area}/${course.url}">
                                        <p class="main__options--courses">${course.titulo}</p>
                                     </a>
                                 </div>`
@@ -243,12 +243,12 @@ $(document).ready(function() {
         /*console.log(bodyData);*/
 
         $.ajax({
-            url: "https://uniminasposead.com.br/wp-admin/admin-ajax.php",
+            url: "wp-admin/admin-ajax.php",
             type: 'POST',
             data: bodyData,
             success: function(response) {
                 console.log(response)
-                window.location.href = 'https://uniminasposead.com.br/obrigado';
+                window.location.href = 'https://pos.faculdadeuniminasead.com.br/obrigado';
             },
         });
     });
