@@ -1,6 +1,5 @@
 <?php
-/*Garantir que a URL do site seja  uniminasposead.com.br*/
-define('SITE_URL', 'https://uniminasposead.com.br/');
+
 
 /*Inclusão do arquivos de rotas*/
 require_once get_template_directory() . '/routes.php';
@@ -242,7 +241,7 @@ function normalizeString($str) {
 
 /*Função de busca*/
 function search_courses(){
-    $json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/areas.json";
+    $json_courses = get_template_directory() . "/inc/course/areas.json";
     $courses_json_content = file_get_contents($json_courses);
     $courses_list = json_decode($courses_json_content, true);
     $jsonFiles = $courses_list['cursos'];
@@ -252,7 +251,7 @@ function search_courses(){
         $searchCourses = normalizeString($_POST['searchData']);
         $response = [];
 
-        $basePath = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/";
+        $basePath = get_template_directory() ."/inc/course/";
 
         foreach ($jsonFiles as $jsonFile) {
             $filePath = $basePath . $jsonFile;

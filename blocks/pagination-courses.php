@@ -10,7 +10,7 @@ $url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 $url_path = parse_url($url, PHP_URL_PATH);
 $area_name = basename($url_path);
 
-$json_courses = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/areas.json";
+$json_courses = get_template_directory() . "/inc/course/areas.json";
 $courses_json_content = file_get_contents($json_courses);
 
 if ($courses_json_content !== false) {
@@ -18,7 +18,7 @@ if ($courses_json_content !== false) {
     if ($courses_data !== null && isset($courses_data['cursos'])) {
         $area_file_path = array_search($area_name . '.json', $courses_data['cursos']);
         if ($area_file_path !== false) {
-            $area_file = "/home/uniminasposead/www/wp-content/themes/uniminasposead/inc/course/" . $courses_data['cursos'][$area_file_path];
+            $area_file = get_template_directory() . "/inc/course/" . $courses_data['cursos'][$area_file_path];
             $courses_json = file_get_contents($area_file);
             $decode_courses = json_decode($courses_json);
 
