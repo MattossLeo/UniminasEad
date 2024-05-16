@@ -74,15 +74,15 @@ $('.btn-pagination').on('click', function () {
             <div class="col-lg-12"> 
                 <div class="course--main__card">
                     <div class="card__courses--title">
-                        <h2 class="tittle-courses color-white">${course.title}</h2>
+                        <h2 class="tittle-courses">${course.title}</h2>
                     </div>
                     <div class="card__courses--content">
-                        <p class="courses-texts color-white">${course.objective}</p>
+                        <p class="courses-texts">${course.objective}</p>
                     </div>
                 </div>
                 <div class="card__courses--price">
                     <p class="main__fake--price">De: <s class="fake-price">12x 44,90</s></p>
-                    <p class="main-prices color-white">Por: <b>12x 34,90</b></p>
+                    <p class="main-prices">Por: <b>12x 34,90</b></p>
                 </div>
                 <div class="main__card--btn">
                     <a class="btn-courses" href="${course.url}">CONHEÇER O CURSO</a>
@@ -240,14 +240,14 @@ $(document).ready(function() {
                 "graduation": formData.graduation
             }
         };
-        /*console.log(bodyData);*/
+        console.log(bodyData);
 
         $.ajax({
             url: "wp-admin/admin-ajax.php",
             type: 'POST',
             data: bodyData,
             success: function(response) {
-                console.log(response)
+                console.log(response);
                 window.location.href = 'https://pos.faculdadeuniminasead.com.br/obrigado';
             },
         });
@@ -255,17 +255,7 @@ $(document).ready(function() {
 });
 
 /*----Course Form----*/
-$(document).ready(function() {
-    $(window).scroll(function() {
-        var scrollTop = $(this).scrollTop();
-        var scrollThreshold = 200;
-        if (scrollTop >= scrollThreshold) {
-            $('.fix-header').css('display', 'flex');
-        } else {
-            $('.fix-header').css('display', 'none')
-        }
-    });
-});
+
 
 
 

@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="41" height="26" viewBox="0 0 41 26" fill="none"><g clip-path="url(#clip0_1674_3193)"><g clip-path="url(#clip1_1674_3193)"><g clip-path="url(#clip2_1674_3193)"><mask id="mask0_1674_3193" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="41" height="26"><path d="M40.9141 0.970703H0.914062V25.8552H40.9141V0.970703Z" fill="white"></path></mask><g mask="url(#mask0_1674_3193)"><path d="M31.7729 25.8348C36.8208 25.8348 40.9129 21.7426 40.9129 16.6947C40.9129 11.6468 36.8208 7.55469 31.7729 7.55469C26.725 7.55469 22.6328 11.6468 22.6328 16.6947C22.6328 21.7426 26.725 25.8348 31.7729 25.8348Z" fill="#02B13F"></path><path d="M31.7761 25.8552C26.0169 25.8552 22.125 21.2164 22.125 14.9068C22.125 5.90436 28.9653 0.970703 31.7761 0.970703C28.0415 9.22623 28.5132 19.0739 31.7761 25.8552Z" fill="#02B13F"></path><path d="M10.5619 25.8348C15.6098 25.8348 19.7019 21.7426 19.7019 16.6947C19.7019 11.6468 15.6098 7.55469 10.5619 7.55469C5.51402 7.55469 1.42188 11.6468 1.42188 16.6947C1.42188 21.7426 5.51402 25.8348 10.5619 25.8348Z" fill="#02B13F"></path><path d="M10.5652 25.8552C4.80595 25.8552 0.914062 21.1967 0.914062 14.8871C0.914062 5.90436 7.75435 0.970703 10.5652 0.970703C7.1057 7.37856 7.16467 19.0739 10.5652 25.8552Z" fill="#02B13F"></path></g></g></g></g><defs><clipPath id="clip0_1674_3193"><rect width="41" height="26" fill="white"></rect></clipPath><clipPath id="clip1_1674_3193"><rect width="41" height="26" fill="white"></rect></clipPath><clipPath id="clip2_1674_3193"><rect width="41" height="26" fill="white"></rect></clipPath></defs></svg>
+<svg width="42" height="27" viewBox="0 0 42 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2004_9530)">
+<g clip-path="url(#clip1_2004_9530)">
+<g clip-path="url(#clip2_2004_9530)">
+<mask id="mask0_2004_9530" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="42" height="27">
+<path d="M41.9608 0.0698242H0.976562V26.0598H41.9608V0.0698242Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2004_9530)">
+<mask id="mask1_2004_9530" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="42" height="27">
+<path d="M41.9608 0.0698242H0.976562V26.0598H41.9608V0.0698242Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_2004_9530)">
+<mask id="mask2_2004_9530" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="42" height="27">
+<path d="M41.9608 0.0698242H0.976562V26.0598H41.9608V0.0698242Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_2004_9530)">
+<mask id="mask3_2004_9530" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="1" width="41" height="25">
+<path d="M41.8753 1.04004H1.89062V25.915H41.8753V1.04004Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_2004_9530)">
+<path d="M32.7381 25.8947C37.7841 25.8947 41.8746 21.804 41.8746 16.7581C41.8746 11.7121 37.7841 7.62158 32.7381 7.62158C27.6922 7.62158 23.6016 11.7121 23.6016 16.7581C23.6016 21.804 27.6922 25.8947 32.7381 25.8947Z" fill="#274829"/>
+<path d="M32.7411 25.915C26.9842 25.915 23.0938 21.2779 23.0938 14.9708C23.0938 5.9718 29.9314 1.04004 32.7411 1.04004C29.008 9.29239 29.4795 19.1363 32.7411 25.915Z" fill="#274829"/>
+<path d="M11.5349 25.8947C16.5809 25.8947 20.6714 21.804 20.6714 16.7581C20.6714 11.7121 16.5809 7.62158 11.5349 7.62158C6.489 7.62158 2.39844 11.7121 2.39844 16.7581C2.39844 21.804 6.489 25.8947 11.5349 25.8947Z" fill="#274829"/>
+<path d="M11.5381 25.915C5.78102 25.915 1.89062 21.2583 1.89062 14.9511C1.89062 5.9718 8.72828 1.04004 11.5381 1.04004C8.07988 7.44543 8.13883 19.1363 11.5381 25.915Z" fill="#274829"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2004_9530">
+<rect width="40.99" height="25.99" fill="white" transform="translate(0.976562 0.0698242)"/>
+</clipPath>
+<clipPath id="clip1_2004_9530">
+<rect width="40.99" height="25.99" fill="white" transform="translate(0.976562 0.0698242)"/>
+</clipPath>
+<clipPath id="clip2_2004_9530">
+<rect width="40.9842" height="25.99" fill="white" transform="translate(0.976562 0.0698242)"/>
+</clipPath>
+</defs>
+</svg>

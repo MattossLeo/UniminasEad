@@ -9,14 +9,8 @@ $area_file = $area_name . '.json';
     <div class="container">
         <div class="row">
             <div class="main__title--search">
-                <h2 class="main__title--h2 color-dark--green">Encontre seu curso</h2>
-                <div class="main__subititle--search">
-                    <img width="60" height="56"
-                         src="<?php echo get_template_directory_uri() ?>/assets/img/search-certifier.svg"
-                         alt="search-certifier">
-                    <p class="main__text--subtitle color-dark--green">Cursos reconhecidos pelo MEC, por Portaria nº 314,
-                        de 2 de março de 2020.</p>
-                </div>
+                <h2 class="main__title--h2 search__areas--title">Encontre seu curso</h2>
+                <p class="main__text--subtitle search__areas--subtitle">Cursos reconhecidos pelo MEC, por Portaria nº 314, de 2 de março de 2020.</p>
             </div>
         </div>
         <div class="row">

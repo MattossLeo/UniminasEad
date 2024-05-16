@@ -30,31 +30,27 @@ if ($courses_json_content !== false) {
                 ?>
                 <div class="col-lg-4">
                     <div class="main__card--courses">
-                            <div class="row align-items-center">
-                                <div class="col-lg-12">
-                                    <div class="course--main__card">
-                                        <div class="card__courses--title">
-                                            <h2 class="tittle-courses color-white"><?php echo $course_name; ?></h2>
-                                        </div>
-                                        <div class="card__courses--content">
-                                            <p class="courses-texts color-white"><?php echo mb_strimwidth($course_objective, '0', '120', '...'); ?></p>
-                                        </div>
-                                    </div>
-                                    <div class="card__courses--price">
-                                        <?php if(trim($course_name) === 'ENGENHARIA DE SEGURANÇA DO TRABALHO' || trim($course_name) === 'GEORREFERENCIAMENTO DE IMÓVEIS RURAIS'){?>
-                                            <p class="main__fake--price">De: <s class="fake-price">12x 140,00</s></p>
-                                            <p class="main-prices color-white">Por: <b>12x120,00</b></p>
-                                        <?php }else{?>
-                                            <p class="main__fake--price">De: <s class="fake-price">12x 51,90</s></p>
-                                            <p class="main-prices color-white">Por: <b>12x43,90</b></p>
-                                        <?php }?>
-                                    </div>
-                                    <div class="main__card--btn">
-                                        <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
-                                    </div>
-                                </div>
+                        <div class="course--main__card">
+                            <div class="card__courses--title">
+                                <h2 class="tittle-courses"><?php echo $course_name; ?></h2>
+                            </div>
+                            <div class="card__courses--content">
+                                <p class="courses-texts"><?php echo mb_strimwidth($course_objective, '0', '120', '...'); ?></p>
                             </div>
                         </div>
+                        <div class="card__courses--price">
+                            <?php if(trim($course_name) === 'ENGENHARIA DE SEGURANÇA DO TRABALHO' || trim($course_name) === 'GEORREFERENCIAMENTO DE IMÓVEIS RURAIS'){?>
+                                <p class="main__fake--price">De: <s class="fake-price">12x 140,00</s></p>
+                                <p class="main-prices">Por: <b>12x120,00</b></p>
+                            <?php }else{?>
+                                <p class="main__fake--price">De: <s class="fake-price">12x 51,90</s></p>
+                                <p class="main-prices">Por: <b>12x43,90</b></p>
+                            <?php }?>
+                        </div>
+                        <div class="main__card--btn">
+                            <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
+                        </div>
+                    </div>
                 </div>
                 <?php
             }
