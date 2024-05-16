@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="main__title--faq text-center">
-                <h2 class="main__title--h2">Perguntas Frequentes</h2>
+                <h2 class="main__title--h2 title--faq">Perguntas Frequentes</h2>
             </div>
             <div class="accordion accordion-flush" id="accordionExample">
                 <div class="accordion-item">

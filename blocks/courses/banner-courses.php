@@ -34,17 +34,17 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                     <div class="main__infos--options color-white">
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
                              alt="green-check">
-                        <p>Instituição <b>Credenciada pelo MEC</b></p>
+                        <p class="text__info--options">Instituição <b>Credenciada pelo MEC</b></p>
                     </div>
                     <div class="main__infos--options color-white">
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
                              alt="green-check">
-                        <p>Conclusão minima<b> em 3 meses</b></p>
+                        <p class="text__info--options">Conclusão minima<b> em 3 meses</b></p>
                     </div>
                     <div class="main__infos--options color-white">
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/green-check.svg"
                              alt="green-check">
-                        <p>Certificado Digitalizado</p>
+                        <p class="text__info--options">Certificado Digitalizado</p>
                     </div>
                 </div>
                 <div class="row">
@@ -63,7 +63,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                     <div style="margin-top: 20px" class="course__banner--btn">
                         <div class="btn__choose-your-course btn-banner">
                             <span class="border-green">&nbsp;</span>
-                            <a class="main__banner--btn open__popup--btn">FAZER MATRÍCULA</a>
+                            <a href="#" class="main__banner--btn open__popup--btn">FAZER MATRÍCULA</a>
                         </div>
                     </div>
                 </div>

@@ -36,7 +36,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                             <p class="objective-text main-text"><?php echo $course_public;?></p>
                         </div>
                         <div class="main__course--disciples">
-                            <h3 class="title-target-audience">Modulos</h3>
+                            <h3 class="title-target-audience title-modules">Modulos</h3>
                             <?php foreach ($course_disciplines as $disciplines){
                                 /*ppr($course);*/
                                 $disciplines_name = $disciplines->nome;
