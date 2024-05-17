@@ -3,7 +3,7 @@ Theme Name:Uniminas Pós EaD
 Text Domain: https://uniminasposead.com.br
 Version: 2.0
 Requires PHP: 5.2.4
-Author: Leonardo Mattos
+Authors: Leonardo Mattos - Web Developer Full-Stack, Matheus Araújo - Marketing Manager and Traffic Manager, Jullia Lima - Social media, Videomaker and Designer.
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 All rights reserved to Faculdade Uniminas, which retains this domain.
@@ -215,7 +215,7 @@ p{
     margin-bottom: 0;
 }
 .sub-menu > li > a {
-    color: white;
+    color: #274829;
     font-family: 'Lufga', sans-serif;
 }
 
