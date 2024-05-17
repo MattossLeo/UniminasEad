@@ -15,13 +15,13 @@
             <div class="col-lg-4">
                 <div class="main__card--study--text">
                     <h3 class="title__card--study">Conclusão em 3 Meses</h3>
-                    <p class="text__card--study">Na Uniminas, você tem a oportunidade de concluir se curso em um curto período a partir de 3 meses.</p>
+                    <p class="text__card--study">Na Uniminas, você tem a oportunidade de concluir seu curso em um curto período a partir de 3 meses.</p>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="main__card--study--text">
                     <h3 class="title__card--study">Validade do Certificado</h3>
-                    <p class="text__card--study">Nosso certificado é equiparado ao presencial, vaidando sua competência e credibilidade profissional.</p>
+                    <p class="text__card--study">Nosso certificado é equiparado ao presencial, validando sua competência e credibilidade profissional.</p>
                 </div>
             </div>
         </div>

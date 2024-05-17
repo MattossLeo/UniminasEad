@@ -85,7 +85,7 @@ $('.btn-pagination').on('click', function () {
                     <p class="main-prices">Por: <b>12x 34,90</b></p>
                 </div>
                 <div class="main__card--btn">
-                    <a class="btn-courses" href="${course.url}">CONHEÇER O CURSO</a>
+                    <a class="btn-courses" href="${course.url}">CONHECER O CURSO</a>
                 </div>
             </div>
         </div>

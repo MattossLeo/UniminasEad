@@ -176,7 +176,7 @@ p{
 .menu_header li a {
     color: white;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 13px;
     font-family: 'Lufga', sans-serif;
 }
 
@@ -187,7 +187,7 @@ p{
     color: #1e1e1e;
     font-weight: 700;
     background: #F2F2F2;
-    padding: 15px;
+    padding: 15px 10px;
     border-radius: 5px;
 }
 .header__menu--mobile, .main__menu--mob{
@@ -323,7 +323,7 @@ p{
     top: 25px;
 }
 .main__banner--btn {
-    background: rgba(168, 248, 62, 0.85);
+    background: #A8F83E;
     width: 55%;
     padding: 25px;
     color: #274829;

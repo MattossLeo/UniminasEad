@@ -83,7 +83,7 @@ $menu_footer_areas = array(
             <div class="col-lg-6">
                 <div class="end__footer--content">
                     <p class="end__footer--text color-white">Rua Ouro Preto 290, Centro, Ipatinga/Mg - CEP: 35160-020</p>
-                    <p class="end__footer--text color-white"><strong>Horário de atendimento:</strong> Das 8h00 às 18h00, de segunda à sexta <br> Faculdade Uniminas LTDA - CNPJ: 43.283.797/0001-94</p>
+                    <p class="end__footer--text color-white"><strong>Horário de atendimento:</strong> De segunda à quinta, das 8h00 às 18h00 <br> e sexta das 8h00 às 17h00 <br> Faculdade Uniminas LTDA - CNPJ: 43.283.797/0001-94</p>
                 </div>
             </div>
         </div>
