@@ -885,7 +885,7 @@ p{
     text-decoration: none;
     cursor: pointer;
 }
-label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduation"]  {
+label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"]  {
     font-weight: 500;
     font-family: 'Lufga', sans-serif;
 }
@@ -1088,9 +1088,9 @@ label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduati
 }
 
 .title-course {
-    font-size: 95px !important;
+    font-size: 81px !important;
     font-family: 'Helvetica', sans-serif;
-    line-height: 75px;
+    line-height: 66px;
     color: #A8F83E;
     margin-top: 12px;
 }
@@ -1115,18 +1115,15 @@ label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduati
 /*DESCRIPTION-COURSES*/
 
 .description-course {
-    padding: 80px 0;
-    background: linear-gradient(180deg, rgba(30, 30, 30, 1) 33%, rgba(168, 248, 62, 1) 33%);
+    padding: 80px 0 50px;
+    background: #1e1e1e;
 }
-
-.main__course--objective{
-    margin: 0 0 80px;
+.modules-description{
+    background: #A8F83E;
+    padding: 30px 0 80px;
 }
-.main__course--target-audience {
-    margin: 0;
-}
-.main__course--disciples {
-    margin-top: 120px;
+.main__course--objective {
+    margin-bottom: 55px;
 }
 .title-target-audience {
     font-family: 'Lufga', sans-serif;
@@ -1160,7 +1157,8 @@ label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduati
 
 .main__styck--options {
     position: sticky;
-    top: 120px;
+    top: 40px;
+    padding-top: 80px;
 }
 
 .countdown-title {

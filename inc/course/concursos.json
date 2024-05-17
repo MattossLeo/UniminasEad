@@ -5,47 +5,6 @@
     "image": "courses/ptrhC9LBLCVGGtB678cqDB6rj4zFI6GhkHKp1oe6.jpeg",
     "titulo": "DIREITO ADMINISTRATIVO E GESTÃO PÚBLICA",
     "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Direito Administrativo e Gestão Pública, tem como objetivo formar profissionais buscando o aprofundamento do conhecimento e a interdisciplinaridade com as áreas Constitucional, Internacional, Processual e Previdenciária, levando em conta aspectos sociais, através de processos didáticos de ensino de conteúdos e de avaliação permanente do desempenho acadêmico do aluno durante todas as etapas e atividades integrantes do curso.",
-      "publico_alvo": "A Pós-graduação em Direito Administrativo e Gestão Pública, destina-se privativamente a profissionais Bacharéis em Direito que atuem ou pretendam atuar na área do Direito Administrativo e Gestão Pública e que tenham interesse em ampliar conhecimentos, habilidades e prática nesta área do Direito, bem como participar do desenvolvimento da pesquisa em prol do desenvolvimento cultural e científico da sociedade. Excepcionalmente, poderão ser aceitos profissionais de nível superior de outras áreas afins, desde que aprovados na seleção de ingresso ao curso.",
-      "carga_horaria": {
-        "disciplinas": [
-          { "n": "01", "nome": "Direito Administrativo e Novas Tecnologias", "ch": "80 h" },
-          { "n": "02", "nome": "Estruturas e Mecanismos de Controle", "ch": "80 h" },
-          { "n": "03", "nome": "Processo Administrativo", "ch": "80 h" },
-          { "n": "04", "nome": "Estrutura da Administração Pública", "ch": "80 h" },
-          { "n": "05", "nome": "Controle Judicial de Políticas Publicas", "ch": "80 h" },
-          { "n": "06", "nome": "Finanças Públicas e Orçamento", "ch": "80 h" },
-          { "n": "07", "nome": "Processo Administrativo Tributário", "ch": "80 h" },
-          { "n": "08", "nome": "Docência do Ensino Superior", "ch": "50 h" },
-          { "n": "09", "nome": "Metodologia Científica", "ch": "50 h" },
-          { "n": "10", "nome": "Trabalho de Conclusão de Curso", "ch": "40 h" }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "concursos",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "direito-administrativo-e-gestao-publica",
-    "id": "43",
-    "image": "courses/ptrhC9LBLCVGGtB678cqDB6rj4zFI6GhkHKp1oe6.jpeg",
-    "titulo": "DIREITO ADMINISTRATIVO E GESTÃO PÚBLICA",
-    "conteudo": {
       "objetivos": "O curso de Pós-graduação em Direito Administrativo e Gestão Pública tem como objetivo formar profissionais buscando o aprofundamento do conhecimento e a interdisciplinaridade com as áreas Constitucional, Internacional, Processual e Previdenciária, levando em conta aspectos sociais, através de processos didáticos de ensino de conteúdos e de avaliação permanente do desempenho acadêmico do aluno durante todas as etapas e atividades integrantes do curso.",
       "publico_alvo": "A Pós-graduação em Direito Administrativo e Gestão Pública destina-se privativamente a profissionais Bacharéis em Direito que atuem ou pretendam atuar na área do Direito Administrativo e Gestão Pública e que tenham interesse em ampliar conhecimentos, habilidades e prática nesta área do Direito, bem como participar do desenvolvimento da pesquisa em prol do desenvolvimento cultural e científico da sociedade. Excepcionalmente, poderão ser aceitos profissionais de nível superior de outras áreas afins, desde que aprovados na seleção de ingresso ao curso.",
       "carga_horaria": {

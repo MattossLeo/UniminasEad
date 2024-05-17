@@ -257,10 +257,31 @@ $(document).ready(function() {
 
 /*----Course Form----*/
 
+$(document).ready(function() {
+    function adjustStickyCardMargin() {
+        var $courseObjective = $('#courseObjective');
+        var $stickyCard = $('.main__styck--options');
 
+        if ($courseObjective.length && $stickyCard.length) {
+            var courseObjectiveOffset = $courseObjective.offset().top;
+            var stickyCardOffset = $stickyCard.offset().top;
+            var stickyCardTop = parseInt($stickyCard.css('top'), 10); // Posição sticky inicial
+            var paddingTop = parseInt($stickyCard.css('padding-top'), 10); // padding-top
 
+            // Calcular a margem superior
+            var marginTopValue = courseObjectiveOffset - stickyCardOffset - paddingTop;
 
+            // Ajustar a margem superior do card sticky
+            $stickyCard.css('margin-top', `${marginTopValue}px`);
+        }
+    }
 
+    // Ajuste inicial
+    adjustStickyCardMargin();
+
+    // Ajustar quando a janela é redimensionada
+    $(window).resize(adjustStickyCardMargin);
+});
 
 
 
