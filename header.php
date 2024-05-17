@@ -88,7 +88,7 @@ $menu_mobile = array(
             <div class="main__content--fix-header">
                 <div class="main__header--logo">
                     <a href="<?php echo esc_url(get_site_url())?>">
-                        <img width="178" height="47" src="<?php echo get_template_directory_uri()?>/assets/img/Logo-Uniminas-Branco.svg" alt="Logo">
+                        <img width="148" height="47" src="<?php echo get_template_directory_uri()?>/assets/img/Logo-Uniminas-Branco.svg" alt="Logo">
                     </a>
                 </div>
                 <div class="main__fix--input">

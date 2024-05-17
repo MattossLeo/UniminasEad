@@ -6,7 +6,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-10">
+            <div class="col-lg-12">
                 <div class="main__slick--feedbacks">
                     <div class="main__card--slick">
                         <div class="main__quotes">

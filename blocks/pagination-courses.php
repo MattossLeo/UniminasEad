@@ -48,7 +48,7 @@ if ($courses_json_content !== false) {
                             <?php }?>
                         </div>
                         <div class="main__card--btn">
-                            <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHEÇER O CURSO</a>
+                            <a class="btn-courses" href="<?php echo $url . $course_url ?>">CONHECER O CURSO</a>
                         </div>
                     </div>
                 </div>
