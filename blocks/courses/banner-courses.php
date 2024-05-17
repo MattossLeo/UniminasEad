@@ -7,7 +7,7 @@ $course_name = $url_separate['3'];
 $area_json = $url_separate['2'] . '.json';
 $area_name = $url_separate['2'];
 
-$json_courses = "/home/faculdadeuniminasead/www/pos/wp-content/themes/uniminasposead/inc/course/$area_json";
+$json_courses = get_template_directory() . "/inc/course/$area_json";
 $courses_json = file_get_contents($json_courses);
 $courses = json_decode($courses_json);
 $filtered_courses = array_filter($courses, function ($course) use ($course_name) {
