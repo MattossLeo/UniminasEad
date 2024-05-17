@@ -76,6 +76,79 @@ p{
     }
 }
 
+/*-------FONTS-------*/
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lufga';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/lufga/LufgaBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('/wp-content/themes/uniminasposead/assets/fonts/helvitica/helvetica-compressed-5871d14b6903a.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*-------FONTS-------*/
+
 /*------HEADER-------*/
 
 .main__header{
@@ -212,7 +285,7 @@ p{
 }
 .title__banner--home {
     font-size: 165px !important;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
     line-height: 165px;
     color: #A8F83E;
 }
@@ -859,7 +932,7 @@ label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduati
 
 .title--areas {
     font-size: 115px !important;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
     line-height: 95px;
     color: #A8F83E;
     margin-top: 30px;
@@ -1015,7 +1088,7 @@ label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduati
 
 .title-course {
     font-size: 95px !important;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
     line-height: 75px;
     color: #A8F83E;
     margin-top: 12px;
