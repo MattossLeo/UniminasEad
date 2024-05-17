@@ -227,6 +227,7 @@ $(document).ready(function() {
         }
         var currentDateTime = getCurrentDateTime();
         var price = parseFloat(formData.price);
+
         var bodyData = {
             "action": 'form_data_send',
             "formData": {

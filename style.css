@@ -104,6 +104,7 @@ p{
     color: white;
     font-weight: 500;
     font-size: 15px;
+    font-family: 'Lufga', sans-serif;
 }
 
 .menu_header li:last-child{
@@ -141,6 +142,7 @@ p{
 }
 .sub-menu > li > a {
     color: white;
+    font-family: 'Lufga', sans-serif;
 }
 
 @media only screen and (max-width: 1199px){
@@ -693,6 +695,7 @@ p{
     font-size: 25px;
     font-weight: 600;
     padding: 10px 0;
+    font-family: 'Lufga', sans-serif;
 }
 
 .main__bar--footer {
@@ -710,6 +713,7 @@ p{
     color: white;
     font-size: 18px;
     font-weight: 500;
+    font-family: 'Lufga', sans-serif;
 }
 
 .main__social--img {
@@ -727,6 +731,7 @@ p{
 
 .end__footer--text {
     margin-top: 20px !important;
+    font-family: 'Lufga', sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -748,6 +753,7 @@ p{
     margin-top: 40px;
     color: white;
     font-size: 18px;
+    font-family: 'Lufga', sans-serif;
 }
 
 .btn-pagination {
@@ -793,9 +799,11 @@ p{
 .closeBtn {
     font-size: 40px;
     font-weight: bold;
+    font-family: 'Lufga', sans-serif;
     position: absolute;
     right: 15px;
     top: 5px;
+    color: #A8F83E;
 }
 
 .closeBtn:hover,
@@ -803,7 +811,10 @@ p{
     text-decoration: none;
     cursor: pointer;
 }
-
+label[for="name"],label[for="email"], label[for="whatsapp"], label[for="graduation"]  {
+    font-weight: 500;
+    font-family: 'Lufga', sans-serif;
+}
 .main__fields {
     display: flex;
     flex-direction: column;
@@ -811,6 +822,7 @@ p{
 
 .title-form {
     font-size: 1.6rem;
+    font-family: 'Lufga', sans-serif;
     text-align: center;
     font-weight: 600;
 }
@@ -830,9 +842,11 @@ p{
 }
 
 .form__btn--submit {
-    background: #02B13F;
+    background: #A8F83E;
     border: none;
-    color: white;
+    color: #274829;
+    font-family: 'Lufga', sans-serif;
+    font-weight: 500;
     padding: 6px 25px;
     border-radius: 5px;
     width: 100%;
@@ -961,6 +975,8 @@ p{
 .accordion-button.faq__button--accordion.collapsed {
     background: #1e1e1e;
     color: #A8F83E;
+    font-family: 'Lufga', sans-serif;
+    font-weight: 500;
 }
 .faq__button--accordion:focus {
     box-shadow: none !important;
@@ -969,6 +985,7 @@ p{
 .accordion-body {
     background: #1e1e1e;
     color: white;
+    font-family: 'Lufga', sans-serif;
 }
 .accordion-button:not(.collapsed) {
     background: #1e1e1e !important;
@@ -976,6 +993,8 @@ p{
 }
 .accordion-button.faq__button--accordion {
     font-size: 20px;
+    font-family: 'Lufga', sans-serif;
+    font-weight: 500;
 }
 
 .accordion-body {
@@ -1149,8 +1168,8 @@ p{
 }
 
 .main__button--form {
-    background: #274829;
-    color: #A8F83E;
+    background: #A8F83E;
+    color: #274829;
     font-family: 'Lufga', sans-serif;
     font-weight: 600;
     font-size: 18px;

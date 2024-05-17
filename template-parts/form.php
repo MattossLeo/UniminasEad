@@ -28,6 +28,7 @@ $name_course = mb_convert_case($course_name, MB_CASE_TITLE, "UTF-8");
                         <div class="main__fields main__phone">
                             <label for="phone">Whatsapp&nbsp;<span style="color:red; font-size:20px">*</span></label>
                             <input class="form__inputs--main form_phone" type="text" id="phone" name="whatsapp" placeholder="Ex:(31) 98888-8888" required>
+                            <span class="error-phone"></span>
                         </div>
                         <div class="main__graduation">
                             <label for="graduation">Possui Graduação?&nbsp;<span style="color:red; font-size:20px">*</span></label><br>
