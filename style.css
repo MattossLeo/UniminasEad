@@ -199,7 +199,8 @@ p{
 .sub-menu {
     display: none;
     position: absolute;
-    background: #02B13F;
+    background: #A8F83E;
+    color: #274829;
     padding: 15px;
     border-radius: 5px;
 }
