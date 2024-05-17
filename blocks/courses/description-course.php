@@ -23,11 +23,9 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                     $course_name = $course->titulo;
                     $course_objective = $course->conteudo->objetivos;
                     $course_public = $course->conteudo->publico_alvo;
-                    $course_disciplines = $course->conteudo->carga_horaria->disciplinas;
-                    $full_workload = $course->conteudo->carga_horaria->carga_horaria_total;
                     ?>
                     <div class="main__course--description">
-                        <div class="main__course--objective">
+                        <div id="courseObjective" class="main__course--objective">
                             <h3 class="title-target-audience">Objetivos</h3>
                             <p class="objective-text main-text"><?php echo $course_objective;?></p>
                         </div>
@@ -35,27 +33,41 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                             <h3 class="title-target-audience">Publico Alvo</h3>
                             <p class="objective-text main-text"><?php echo $course_public;?></p>
                         </div>
-                        <div class="main__course--disciples">
-                            <h3 class="title-target-audience title-modules">Modulos</h3>
-                            <?php foreach ($course_disciplines as $disciplines){
-                                /*ppr($course);*/
-                                $disciplines_name = $disciplines->nome;
-                                $disciplines_ch = $disciplines->ch;
-                            ?>
-                                    <div class="main__diciplines--infos">
-                                        <p class="diciplines-text main-text"><?php echo $disciplines_name;?></p>
-                                        <p class="diciplines-text main-text">| <?php echo $disciplines_ch;?></p>
-                                    </div>
-
-                            <?php } ?>
-                            <div class="main__diciplines--infos">
-                                <p class="diciplines-text main-text">Carga Horária Total</p>
-                                <p class="diciplines-text main-text"><?php echo $full_workload;?></p>
-                            </div>
-                        </div>
-                        <?php } ?>
-
+                <?php } ?>
                     </div>
+            </div>
+            <div class="col-lg-5"></div>
+        </div>
+    </div>
+</section>
+<section class="modules-description">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <?php
+                foreach ($filtered_courses as $course){
+                $course_disciplines = $course->conteudo->carga_horaria->disciplinas;
+                $full_workload = $course->conteudo->carga_horaria->carga_horaria_total;
+                ?>
+                <div class="main__course--disciples">
+                    <h3 class="title-target-audience title-modules">Modulos</h3>
+                    <?php foreach ($course_disciplines as $disciplines){
+                        /*ppr($course);*/
+                        $disciplines_name = $disciplines->nome;
+                        $disciplines_ch = $disciplines->ch;
+                        ?>
+                        <div class="main__diciplines--infos">
+                            <p class="diciplines-text main-text"><?php echo $disciplines_name;?></p>
+                            <p class="diciplines-text main-text">| <?php echo $disciplines_ch;?></p>
+                        </div>
+
+                    <?php } ?>
+                    <div class="main__diciplines--infos">
+                        <p class="diciplines-text main-text">Carga Horária Total</p>
+                        <p class="diciplines-text main-text"><?php echo $full_workload;?></p>
+                    </div>
+                    <?php }?>
+                </div>
             </div>
             <div class="col-lg-5">
                 <div class="main__styck--options">
