@@ -43,10 +43,19 @@ $menu_footer_areas = array(
                         <p class="menu--title">Atendimento</p>
                     </div>
                     <div class="footer__contato--content">
-                        <p class="footer__text--p">contato@uniminasead.com.br</p>
-                        <p class="footer__text--p">ouvidoria@uniminasead.com.br</p>
-                        <p class="footer__text--p">(00) 99999-9999</p>
-                        <p class="footer__text--p">(00) 99999-9999</p>
+                        <div class="service-locations-secretaria">
+                            <p>Secretaria:</p>
+                            <a href="mailto:secretariauniminas@gmail.com"><p class="footer__text--p">secretariauniminas@gmail.com</p></a>
+                            <a href="https://api.whatsapp.com/send?phone=55319983438807&text=Ol%C3%A1%21+preciso+falar+com+a+secretaria.+Poderia+me+ajudar+?"><p class="footer__text--p">(31) 98343-8807</p></a>
+                        </div>
+                        <div class="service-locations-pedagogico">
+                            <p>Pedagógico:</p>
+                            <a href="https://api.whatsapp.com/send?phone=55319983438807&text=Ol%C3%A1%21+preciso+falar+com+o+pedagogico.+Poderia+me+ajudar+?"><p class="footer__text--p">(31) 98347-1427</p></a>
+                        </div>
+                        <div class="service-locations-documentos">
+                            <p>Documentos:</p>
+                            <a href="https://api.whatsapp.com/send?phone=5531982855101&text=Ol%C3%A1%21+preciso+falar+com+o+documentos.+Poderia+me+ajudar+?"><p class="footer__text--p">(31) 98285-5101</p></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -57,14 +66,11 @@ $menu_footer_areas = array(
                         <p class="social--title">Redes Socias</p>
                     </div>
                     <div class="footer__social--content">
-                        <a class="main__social--img" href="#">
+                        <a class="main__social--img" href="https://www.facebook.com/UniMinasEAD">
                             <img loading="lazy" width="28" height="28" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/facebook.svg" alt="social-img">
                         </a>
-                        <a class="main__social--img" href="#">
-                            <img loading="lazy" width="29" height="23" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/twitter.svg" alt="social-img">
-                        </a>
-                        <a class="main__social--img" href="#">
-                            <img loading="lazy" width="31" height="21" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/youtube.svg" alt="social-img">
+                        <a class="main__social--img" href="https://www.instagram.com/eaduniminas/">
+                            <img loading="lazy" width="29" height="23" src="<?php echo esc_url(get_template_directory_uri())?>/assets/img/instagram.svg" alt="social-img">
                         </a>
                     </div>
                 </div>

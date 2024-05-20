@@ -795,6 +795,13 @@ p{
 .main__social--img {
     padding-left: 15px;
 }
+.service-locations-secretaria > p, .service-locations-pedagogico > p, .service-locations-documentos > p {
+    color: white;
+    font-family: 'Lufga', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 5px 0 10px;
+}
 
 .end-footer {
     padding: 50px 0;
