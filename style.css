@@ -32,6 +32,8 @@ Any violation of the use and direct ownership of the property may result in pros
 /*------CHECKOUT-----*/
 /*-----THANK-YOU-----*/
 /*--------404--------*/
+/*-----ABOUT-US------*/
+/*DESCRIPTION-ABOUT-US*/
 
 
 /*-------INDICE------*/
@@ -1270,6 +1272,7 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
 
 .title-checkout {
     font-size: 20px;
+    font-family: 'Lufga', sans-serif;
     margin-bottom: 0 !important;
 }
 
@@ -1287,6 +1290,7 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
 .text__p-thanks {
     color: white;
     font-size: 30px;
+    font-family: 'Lufga', sans-serif;
     text-align: center;
     line-height: 40px;
 }
@@ -1303,6 +1307,7 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
 
     .text__p-thanks {
         font-size: 20px;
+        font-family: 'Lufga', sans-serif;
         line-height: 30px;
     }
 }
@@ -1375,3 +1380,59 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
 
 
 /*--------404--------*/
+
+/*-----ABOUT-US------*/
+
+.banner__about-us {
+    background: url("/wp-content/themes/uniminasposead/assets/img/banners/banner-about-us.webp") no-repeat center;
+    background-size: cover;
+    padding: 255px 0;
+}
+.title__banner--about-us {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 90px;
+    color: #A8F83E;
+}
+
+/*-----ABOUT-US------*/
+
+/*DESCRIPTION-ABOUT-US*/
+
+.description-about-us{
+    background: #1e1e1e;
+    padding: 80px 0;
+}
+.title-who-are-we {
+    font-family: 'Lufga', sans-serif;
+    text-align: center;
+    color: #A8f83E;
+    font-size: 40px;
+}
+.main__text--who-are-we {
+    color: white;
+    font-family: 'Lufga', sans-serif;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.main--mission-vision-values {
+    margin-top: 40px !important;
+}
+.main__card--mission-vision-values {
+    background: #274829;
+    padding: 20px 15px;
+    border-radius: 15px;
+    min-height: 255px;
+}
+.title-card__mission-vision-values {
+    font-family: 'Lufga', sans-serif;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.text-card__mission-vision-values {
+    font-family: 'Lufga', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+/*DESCRIPTION-ABOUT-US*/
