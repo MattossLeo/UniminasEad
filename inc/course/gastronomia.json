@@ -1,911 +1,1607 @@
 [
   {
-    "url": "gastronomia",
-    "id": "173",
-    "image": "courses/tHWR04JQ5gShBmBrmqgApK6iu21XTreXsYlrBj06.png",
-    "titulo": "GASTRONOMIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia, tem como objetivo aplicar técnicas gastronômicas na alimentação e nos serviços de alimentação e nutrição, capacitar profissionais para a gestão em gastronomia, conhecer a história da alimentação e as cadeias de produção de alimentos, identificar os processos químicos e bioquímicos dos alimentos e da nutrição, proporcionar ao aluno a reflexão sobre os processos envolvidos no âmbito da gastronomia, bem como a utilização de ferramentas que contribuirão para uma atuação profissional singular.",
-      "publico_alvo": "O curso de Pós-graduação em Gastronomia destina-se a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos e químicos de alimentos.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Gestão de Pessoas Aplicada a Serviços de Alimentos e Bebidas",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "História da Alimentação e Novas Tendências em Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Gastronomia Funcional",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Ciência dos Alimentos aplicado à Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gestão e Logística em Serviços Gastronômicos",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Gastronomia Molecular",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho de Conclusão de Curso – TCC",
-            "ch": "40 h"
+    "sevenHundredTwenty": [
+      {
+        "url": "gastronomia",
+        "id": "173",
+        "image": "courses/tHWR04JQ5gShBmBrmqgApK6iu21XTreXsYlrBj06.png",
+        "titulo": "GASTRONOMIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia, tem como objetivo aplicar técnicas gastronômicas na alimentação e nos serviços de alimentação e nutrição, capacitar profissionais para a gestão em gastronomia, conhecer a história da alimentação e as cadeias de produção de alimentos, identificar os processos químicos e bioquímicos dos alimentos e da nutrição, proporcionar ao aluno a reflexão sobre os processos envolvidos no âmbito da gastronomia, bem como a utilização de ferramentas que contribuirão para uma atuação profissional singular.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia destina-se a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos e químicos de alimentos.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão de Pessoas Aplicada a Serviços de Alimentos e Bebidas",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gastronomia Funcional",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Ciência dos Alimentos aplicado à Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gestão e Logística em Serviços Gastronômicos",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Gastronomia Molecular",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "640 h"
           }
-        ],
-        "carga_horaria_total": "640 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gastronomia-em-panificacoes-e-confeitaria",
-    "id": "1154",
-    "image": "courses/KPuT4yntb0sYG0266Uk99YBGCbpRQOQxJrRUwvXu.png",
-    "titulo": "GASTRONOMIA EM PANIFICAÇÕES E CONFEITARIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia em Panificações e Confeitaria da tem por objetivos aprofundar o conhecimento em cozinha na área específica de panificação e confeitaria; Conhecer e dominar os aditivos e matérias prima na arte de confeitaria e panificação; Melhorar o entendimento das tecnologias dessa área.",
-      "publico_alvo": "O curso de Pós-graduação em Gastronomia em Panificações e Confeitaria, é destinado aos empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de confeitaria e panificação, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos, químicos de alimentos, bem como qualquer outra área, desde que tenha interesse em aprimorar o conhecimento se especializando na área de Confeitaria e Panificação.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Massas para Confeitaria e Panificação",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Chocolateria, Cremes, Merengues e Açúcares",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Panificação Artesanal",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Panificação Internacional",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Panificação Industrial",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Aditivos e Matérias-Primas utilizados na Panificação e Confeitaria",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Gestão, Marketing e Contabilidade Aplicada à Panificação e Confeitaria",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Garantia da Qualidade na Indústria e Unidades de Serviços de Panificação e Confeitaria",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-em-panificacoes-e-confeitaria",
+        "id": "1154",
+        "image": "courses/KPuT4yntb0sYG0266Uk99YBGCbpRQOQxJrRUwvXu.png",
+        "titulo": "GASTRONOMIA EM PANIFICAÇÕES E CONFEITARIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia em Panificações e Confeitaria da tem por objetivos aprofundar o conhecimento em cozinha na área específica de panificação e confeitaria; Conhecer e dominar os aditivos e matérias prima na arte de confeitaria e panificação; Melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia em Panificações e Confeitaria, é destinado aos empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de confeitaria e panificação, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos, químicos de alimentos, bem como qualquer outra área, desde que tenha interesse em aprimorar o conhecimento se especializando na área de Confeitaria e Panificação.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Massas para Confeitaria e Panificação",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Chocolateria, Cremes, Merengues e Açúcares",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Panificação Artesanal",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Panificação Internacional",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Panificação Industrial",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Aditivos e Matérias-Primas utilizados na Panificação e Confeitaria",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Gestão, Marketing e Contabilidade Aplicada à Panificação e Confeitaria",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Garantia da Qualidade na Indústria e Unidades de Serviços de Panificação e Confeitaria",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "1400 h"
           }
-        ],
-        "carga_horaria_total": "1400 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gastronomia-hospitalar",
-    "id": "1156",
-    "image": "courses/RIvNlsXRRFOwiQvFVG7CcjtzqJv8cZ3Yr22Svxiu.png",
-    "titulo": "GASTRONOMIA HOSPITALAR",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia Hospitalar, tem por objetivos estudar e aplicar técnicas gastronômicas e cortes na cozinha profissional, para unidades de produção de alimentos hospitalar, de acordo com as patologias: hipertensão arterial, obesidade, diabetes melittus, intolerâncias alimentares.",
-      "publico_alvo": "O curso de Pós-graduação em Gastronomia Hospitalar, é destinado a profissionais da área da saúde, gastronomia e outros.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Cardápios e Dietas Especiais;",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Nutrição Funcional",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Pontos de Cocção, Consistência e Apresentação",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Temperos Naturais",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Contextualização da Gastronomia Hospitalar",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Gestão do Serviço, Treinamentos, Recourses e Liderança",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Dietas Hospitalares e Composição dos Cardápios",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-hospitalar",
+        "id": "1156",
+        "image": "courses/RIvNlsXRRFOwiQvFVG7CcjtzqJv8cZ3Yr22Svxiu.png",
+        "titulo": "GASTRONOMIA HOSPITALAR",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia Hospitalar, tem por objetivos estudar e aplicar técnicas gastronômicas e cortes na cozinha profissional, para unidades de produção de alimentos hospitalar, de acordo com as patologias: hipertensão arterial, obesidade, diabetes melittus, intolerâncias alimentares.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia Hospitalar, é destinado a profissionais da área da saúde, gastronomia e outros.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Cardápios e Dietas Especiais;",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Nutrição Funcional",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Pontos de Cocção, Consistência e Apresentação",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Temperos Naturais",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Contextualização da Gastronomia Hospitalar",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Gestão do Serviço, Treinamentos, Recursos e Liderança",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Dietas Hospitalares e Composição dos Cardápios",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "1400 h"
           }
-        ],
-        "carga_horaria_total": "1400 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "nutricao-aplicada-a-gastronomia",
-    "id": "1292",
-    "image": "courses/FqA1wHr2J3DzfaJ8riXLUx1reWlwOcnSqv0MLxCk.png",
-    "titulo": "NUTRIÇÃO APLICADA Á GASTRONOMIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Nutrição Aplicada á Gastronomia, tem como objetivo possibilitar aos profissionais de Nutrição, Gastronomia e demais áreas envolvidas com os campos da alimentação e nutrição; O estudo do potencial funcional de vários grupos de alimentos; O conhecimento de técnicas gastronômicas associadas à biodisponibilidade de nutrientes; A compreensão de necessidades nutricionais específicas de diferentes grupos de indivíduos; Proporcionar a integração entre as ciências dos alimentos e humana; Conhecer a regulamentação da legislação vigente aplicada a alimentos funcionais.",
-      "publico_alvo": "O curso de Pós-graduação em Nutrição Aplicada á Gastronomia destina-se a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos e químicos de alimentos.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Aproveitamento Integral dos Alimentos e Sustentabilidade em Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "O Estudo dos Alimentos e Técnicas Gastronômicas",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Gastronomia Funcional sem Glúten e sem Lactose",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Gastronomia Hospitalar",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gastronomia Molecular",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Culinária sem sal: Uso de Ervas e Especiarias",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Nutrição, Alimentos Funcionais e Longevidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso – TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "nutricao-aplicada-a-gastronomia",
+        "id": "1292",
+        "image": "courses/FqA1wHr2J3DzfaJ8riXLUx1reWlwOcnSqv0MLxCk.png",
+        "titulo": "NUTRIÇÃO APLICADA Á GASTRONOMIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Nutrição Aplicada á Gastronomia, tem como objetivo possibilitar aos profissionais de Nutrição, Gastronomia e demais áreas envolvidas com os campos da alimentação e nutrição; O estudo do potencial funcional de vários grupos de alimentos; O conhecimento de técnicas gastronômicas associadas à biodisponibilidade de nutrientes; A compreensão de necessidades nutricionais específicas de diferentes grupos de indivíduos; Proporcionar a integração entre as ciências dos alimentos e humana; Conhecer a regulamentação da legislação vigente aplicada a alimentos funcionais.",
+          "publico_alvo": "O curso de Pós-graduação em Nutrição Aplicada á Gastronomia destina-se a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos e químicos de alimentos.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Aproveitamento Integral dos Alimentos e Sustentabilidade em Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "O Estudo dos Alimentos e Técnicas Gastronômicas",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gastronomia Funcional sem Glúten e sem Lactose",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Gastronomia Hospitalar",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gastronomia Molecular",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Culinária sem sal: Uso de Ervas e Especiarias",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Nutrição, Alimentos Funcionais e Longevidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "1400 h"
           }
-        ],
-        "carga_horaria_total": "1400 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gastronomia-contemporanea",
-    "id": "2309",
-    "image": "courses/UmfyfuZ1CwLmAEzWGR1RDbKv5x1fBael2GFz57IC.png",
-    "titulo": "GASTRONOMIA CONTEMPORÂNEA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia Contemporânea, tem como objetivo aprofundar o conhecimento em cozinha contemporânea, moderna cozinha brasileira e vinhos diversos; Conhecer e dominar técnicas gastronômicas modernas; Melhorar o entendimento das tecnologias sobre a gastronomia; Permitir uma compreensão do processo gastronômico e de plantas alimentícias não convencionais (PANC), bem como, tendências da alimentação na sociedade moderna.",
-      "publico_alvo": "O curso de Pós-graduação Gastronomia Contemporânea, destina-se a profissionais de nível superior que atuam na área da gastronomia, tais como Nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas        ",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Fundamentação em Gastronomia – Técnicas Aplicadas",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Gastronomia Contemporânea",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Enogastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Ervas e Especiarias na Cozinha Contemporânea",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gastronomia Sustentável: Vertentes da Alimentação",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Organização e Planejamento de Eventos e Serviços Gastronômicos",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Alimentação e Saúde no século XXI",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-contemporanea",
+        "id": "2309",
+        "image": "courses/UmfyfuZ1CwLmAEzWGR1RDbKv5x1fBael2GFz57IC.png",
+        "titulo": "GASTRONOMIA CONTEMPORÂNEA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia Contemporânea, tem como objetivo aprofundar o conhecimento em cozinha contemporânea, moderna cozinha brasileira e vinhos diversos; Conhecer e dominar técnicas gastronômicas modernas; Melhorar o entendimento das tecnologias sobre a gastronomia; Permitir uma compreensão do processo gastronômico e de plantas alimentícias não convencionais (PANC), bem como, tendências da alimentação na sociedade moderna.",
+          "publico_alvo": "O curso de Pós-graduação Gastronomia Contemporânea, destina-se a profissionais de nível superior que atuam na área da gastronomia, tais como Nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas        ",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Fundamentação em Gastronomia – Técnicas Aplicadas",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gastronomia Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Enogastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Ervas e Especiarias na Cozinha Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gastronomia Sustentável: Vertentes da Alimentação",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Organização e Planejamento de Eventos e Serviços Gastronômicos",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Alimentação e Saúde no século XXI",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gastronomia-funcional-e-natural",
-    "id": "2310",
-    "image": "courses/367WpdlsM4Iu4TaosKiyvqx9L4Ng8B1JFeYNdzz8.png",
-    "titulo": "GASTRONOMIA FUNCIONAL E NATURAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia Funcional e Natural,  tem como objetivo os seguintes aspectos: Aprofundar o conhecimento na cozinha funcional e natural; Conhecer e dominar a elaboração dos cardápios funcionais, naturais e fit; Estudar as técnicas gastronômicas dos nutrientes e a composição dos alimentos;  Melhorar o entendimento das tecnologias dessa área.",
-      "publico_alvo": "O curso de Pós-graduação Gastronomia Funcional e Natural, destina-se a Profissionais de nível superior que atuam na área da alimentação tais como Nutricionistas, Engenheiros de Alimentos, Gastrônomos, Empreendedores no ramo de Alimentação, Diretores, Gerentes e Supervisores de empreendimentos gastronômicos. Profissionais que desejam investir no mercado de alimentos e da gastronomia funcional e natural, assim como graduados em gastronomia, produtores de eventos, profissionais das áreas de hotelaria, turismo, administração e químicos de alimentos.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas        ",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Alimentos Funcionais com ênfase em Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável  ",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Composição e Química dos Alimentos        ",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Elaboração de Cardápios Funcionais e Gastronomia Fit     ",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Fundamentos Nutricionais Aplicados à Gastronomia Funcional e Natural",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "História da Alimentação e Novas Tendências em Gastronomia      ",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-funcional-e-natural",
+        "id": "2310",
+        "image": "courses/367WpdlsM4Iu4TaosKiyvqx9L4Ng8B1JFeYNdzz8.png",
+        "titulo": "GASTRONOMIA FUNCIONAL E NATURAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia Funcional e Natural,  tem como objetivo os seguintes aspectos: Aprofundar o conhecimento na cozinha funcional e natural; Conhecer e dominar a elaboração dos cardápios funcionais, naturais e fit; Estudar as técnicas gastronômicas dos nutrientes e a composição dos alimentos;  Melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O curso de Pós-graduação Gastronomia Funcional e Natural, destina-se a Profissionais de nível superior que atuam na área da alimentação tais como Nutricionistas, Engenheiros de Alimentos, Gastrônomos, Empreendedores no ramo de Alimentação, Diretores, Gerentes e Supervisores de empreendimentos gastronômicos. Profissionais que desejam investir no mercado de alimentos e da gastronomia funcional e natural, assim como graduados em gastronomia, produtores de eventos, profissionais das áreas de hotelaria, turismo, administração e químicos de alimentos.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas        ",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Alimentos Funcionais com ênfase em Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável  ",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Composição e Química dos Alimentos        ",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Elaboração de Cardápios Funcionais e Gastronomia Fit     ",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Fundamentos Nutricionais Aplicados à Gastronomia Funcional e Natural",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia      ",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "640 h"
           }
-        ],
-        "carga_horaria_total": "640 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gastronomia-vegetariana",
-    "id": "2311",
-    "image": "courses/3PYPyrVTIkgs2QfqybVvYTmP00DHhEpQTnrhSQmI.png",
-    "titulo": "GASTRONOMIA VEGETARIANA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gastronomia Vegetariana, tem como objetivo aprofundar o conhecimento na cozinha vegetariana; Conhecer e dominar a elaboração dos cardápios vegetarianos; Estudar as técnicas gastronômicas dos nutrientes; Melhorar o entendimento das tecnologias dessa área.",
-      "publico_alvo": "O curso de Pós-graduação Gastronomia Vegetariana, destina-se a de nível superior que atuam na área da alimentação tais como nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia vegetariana, mas também graduados em gastronomia, eventos, hotelaria, turismo, administração e químicos de alimentos. Não há condição prévia para que o candidato se matricule no curso, contanto que o candidato tenha nível superior.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Ciência dos Alimentos na Gastronomia Vegetariana",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Elaboração de Cardápios Vegetarianos",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Gastronomia E Vegetarianismo",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Gestão de Segurança Alimentar",
-            "ch": "80 h"
-          },
-          {
-            "n": "11",
-            "nome": "Nutrição Aplicada ao Vegetarianismo",
-            "ch": "80 h"
-          },
-          {
-            "n": "12",
-            "nome": "Técnicas Gastronômicas e Preservação dos Nutrientes",
-            "ch": "80 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "vigilancia-sanitaria-e-qualidade-dos-alimentos",
+        "id": "186",
+        "image": "courses/5PSAV1LvjY9PrOrSzBvqtxDEBQpEXawOvTJhhlHB.jpeg",
+        "titulo": "VIGILÂNCIA SANITÁRIA E QUALIDADE DOS ALIMENTOS",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Vigilância Sanitária e Qualidade dos Alimentos, têm como objetivo capacitar o aluno para atuar no mercado de trabalho com competências e habilidades, atendendo à realidade da produção de alimentos seguros, por meio da promoção de mudanças e inovações, com o aparato das legislações e questões nutricionais para beneficio da saúde humana.",
+          "publico_alvo": "O curso de Pós-graduação em Vigilância Sanitária e Qualidade dos Alimentos destinam-se aos Graduados em Nutrição, Farmácia, Medicina Veterinária, Biologia, Biomedicina e Engenharia de Alimentos",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência Do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Bacteriologia e Diagnósticos Laboratoriais",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Saúde Coletiva",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Segurança Alimentar",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Sistema de Informação em Saúde",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Toxicologia de Alimentos e Vigilância Epidemiologia",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Vigilância e Qualidade de Alimentos",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho De Conclusão De Curso – TCC",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "500 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "viticultura-e-enologia",
-    "id": "1586",
-    "image": "courses/NKUzP4ZYsjJxyGcPkWufDnwIIMYSFeh2xzB93E4W.jpeg",
-    "titulo": "VITICULTURA E ENOLOGIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Viticultura e Enologia,  tem como objetivo especializar o profissional no gerenciamento relacionado aos inúmeros setores da atividade vitivinícola, referenciados nos princípios da sustentabilidade econômica, ambiental e social; Promover a especialização de seres humanos éticos, competentes e aptos à ocupação de seus espaços no contexto social e ao desempenho de diferentes papéis, segundo princípios de valorização humana e ambiental; Promover o desenvolvimento de habilidades para o gerenciamento da produção vitivinícola e para a atuação crítica e criativa na identificação e resolução de problemas.",
-      "publico_alvo": "O curso de Pós-graduação Viticultura e Enologia, destina-se a profissionais ligados aos setores de alimentos, microbiologia e química como: Tecnólogos em Viticultura e Enologia, Tecnólogos em Alimentos, Bacharel em Ciências dos Alimentos, Engenheiros de Alimentos, Engenheiros de Biossistemas, Engenheiros Agrônomos, Engenheiros Químicos, Engenheiros Bioquímicos, Engenheiros de Bioprocessos e Biotecnologia, Engenheiros Biotecnológicos, Bacharéis em Gestão e Análise Ambiental, Químicos, Químicos Tecnológicos, Tecnólogos de Agronegócios, Tecnólogos em Processos Químicos, Microbiólogos, Biólogos.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Enologia",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Enoturismo",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Estatística e Planejamento Experimental Vitivinícola",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Fitossanidade da Videira",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gastronomia Aplicada ao Mundo dos Vinhos",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Análise Sensorial",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sistema de Qualidade na Produção de Uva e Derivados",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Vitinicultura",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-vegetariana",
+        "id": "2311",
+        "image": "courses/3PYPyrVTIkgs2QfqybVvYTmP00DHhEpQTnrhSQmI.png",
+        "titulo": "GASTRONOMIA VEGETARIANA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia Vegetariana, tem como objetivo aprofundar o conhecimento na cozinha vegetariana; Conhecer e dominar a elaboração dos cardápios vegetarianos; Estudar as técnicas gastronômicas dos nutrientes; Melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O curso de Pós-graduação Gastronomia Vegetariana, destina-se a de nível superior que atuam na área da alimentação tais como nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia vegetariana, mas também graduados em gastronomia, eventos, hotelaria, turismo, administração e químicos de alimentos. Não há condição prévia para que o candidato se matricule no curso, contanto que o candidato tenha nível superior.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Ciência dos Alimentos na Gastronomia Vegetariana",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Elaboração de Cardápios Vegetarianos",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gastronomia E Vegetarianismo",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Gestão de Segurança Alimentar",
+                "ch": "80 h"
+              },
+              {
+                "n": "11",
+                "nome": "Nutrição Aplicada ao Vegetarianismo",
+                "ch": "80 h"
+              },
+              {
+                "n": "12",
+                "nome": "Técnicas Gastronômicas e Preservação dos Nutrientes",
+                "ch": "80 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "gastronomia",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "docencia-do-ensino-superior-em-gastronomia",
-    "id": "976",
-    "image": "courses/bJnxyu590zqsdDYMEy85XOI0QngyuGMrGS61MuJd.png",
-    "titulo": "DOCÊNCIA DO ENSINO SUPERIOR EM GASTRONOMIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Docência do Ensino Superior em Gastronomia, tem como objetivo ampliar a compreensão de concepções acerca de teorias e práticas de ensino do ciclo superior e refletir sobre as respectivas implicações para o exercício da atividade de professor universitário para o curso de gastronomia; Analisar os fundamentos da Gastronomia e da Alimentação em geral, refletindo sobre o contexto sócio-histórico-econômico-cultural que os consolidaram, relacionando-os às novas necessidades educacionais; Aprofundar os conhecimentos sobre as técnicas educacionais da transmissão do conhecimento contemporâneo da gastronomia a partir das diversas concepções, reconhecendo suas implicações teóricas e metodológicas para a educação superior;",
-      "publico_alvo": "O curso de Pós-graduação Docência do Ensino Superior em Gastronomia, destina-se a graduados em Gastronomia, Hotelaria, Nutrição, Engenharias de Alimento, Química e de Produção, Pedagogia, Administração, Marketing, Biologia e demais profissionais de nível superior, interessados em aprimorar seus conhecimentos relativos no segmento da alimentação.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Ciência dos Alimentos Aplicada à Gastronomia     ",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Sustentabilidade Aplicada à Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Planejamento Educacional à Docência Superior da Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Didática e Avaliação de Ensino-aprendizagem Aplicadas à Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Epidemiologia e Saúde Preventiva à Gastronomia",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "História da Alimentação e Novas Tendências em Gastronomia      ",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Fundamentos e Tendências Pedagógicas",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "viticultura-e-enologia",
+        "id": "1586",
+        "image": "courses/NKUzP4ZYsjJxyGcPkWufDnwIIMYSFeh2xzB93E4W.jpeg",
+        "titulo": "VITICULTURA E ENOLOGIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Viticultura e Enologia,  tem como objetivo especializar o profissional no gerenciamento relacionado aos inúmeros setores da atividade vitivinícola, referenciados nos princípios da sustentabilidade econômica, ambiental e social; Promover a especialização de seres humanos éticos, competentes e aptos à ocupação de seus espaços no contexto social e ao desempenho de diferentes papéis, segundo princípios de valorização humana e ambiental; Promover o desenvolvimento de habilidades para o gerenciamento da produção vitivinícola e para a atuação crítica e criativa na identificação e resolução de problemas.",
+          "publico_alvo": "O curso de Pós-graduação Viticultura e Enologia, destina-se a profissionais ligados aos setores de alimentos, microbiologia e química como: Tecnólogos em Viticultura e Enologia, Tecnólogos em Alimentos, Bacharel em Ciências dos Alimentos, Engenheiros de Alimentos, Engenheiros de Biossistemas, Engenheiros Agrônomos, Engenheiros Químicos, Engenheiros Bioquímicos, Engenheiros de Bioprocessos e Biotecnologia, Engenheiros Biotecnológicos, Bacharéis em Gestão e Análise Ambiental, Químicos, Químicos Tecnológicos, Tecnólogos de Agronegócios, Tecnólogos em Processos Químicos, Microbiólogos, Biólogos.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Enologia",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Enoturismo",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Estatística e Planejamento Experimental Vitivinícola",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Fitossanidade da Videira",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gastronomia Aplicada ao Mundo dos Vinhos",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Análise Sensorial",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sistema de Qualidade na Produção de Uva e Derivados",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Vitinicultura",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "docencia-do-ensino-superior-em-gastronomia",
+        "id": "976",
+        "image": "courses/bJnxyu590zqsdDYMEy85XOI0QngyuGMrGS61MuJd.png",
+        "titulo": "DOCÊNCIA DO ENSINO SUPERIOR EM GASTRONOMIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Docência do Ensino Superior em Gastronomia, tem como objetivo ampliar a compreensão de concepções acerca de teorias e práticas de ensino do ciclo superior e refletir sobre as respectivas implicações para o exercício da atividade de professor universitário para o curso de gastronomia; Analisar os fundamentos da Gastronomia e da Alimentação em geral, refletindo sobre o contexto sócio-histórico-econômico-cultural que os consolidaram, relacionando-os às novas necessidades educacionais; Aprofundar os conhecimentos sobre as técnicas educacionais da transmissão do conhecimento contemporâneo da gastronomia a partir das diversas concepções, reconhecendo suas implicações teóricas e metodológicas para a educação superior;",
+          "publico_alvo": "O curso de Pós-graduação Docência do Ensino Superior em Gastronomia, destina-se a graduados em Gastronomia, Hotelaria, Nutrição, Engenharias de Alimento, Química e de Produção, Pedagogia, Administração, Marketing, Biologia e demais profissionais de nível superior, interessados em aprimorar seus conhecimentos relativos no segmento da alimentação.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Ciência dos Alimentos Aplicada à Gastronomia     ",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sustentabilidade Aplicada à Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Planejamento Educacional à Docência Superior da Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Didática e Avaliação de Ensino-aprendizagem Aplicadas à Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Epidemiologia e Saúde Preventiva à Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia      ",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Fundamentos e Tendências Pedagógicas",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
       }
-    },
-    "area": "gastronomia",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
+    ],
+    "threeHundredSixty":[
+      {
+        "url": "docencia-do-ensino-superior-em-gastronomia-360",
+        "id": "5331",
+        "image": "não disponível",
+        "titulo": "DOCÊNCIA DO ENSINO SUPERIOR EM GASTRONOMIA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Docência do Ensino Superior em Gastronomia, tem como objetivo ampliar a compreensão de concepções acerca de teorias e práticas de ensino do ciclo superior e refletir sobre as respectivas implicações para o exercício da atividade de professor universitário para o curso de gastronomia; Analisar os fundamentos da Gastronomia e da Alimentação em geral, refletindo sobre o contexto sócio-histórico-econômico-cultural que os consolidaram, relacionando-os às novas necessidades educacionais; Aprofundar os conhecimentos sobre as técnicas educacionais da transmissão do conhecimento contemporâneo da gastronomia a partir das diversas concepções, reconhecendo suas implicações teóricas e metodológicas para a educação superior;",
+          "publico_alvo": "O Curso de Pós-graduação Docência do Ensino Superior em Gastronomia, destina-se a graduados em Gastronomia, Hotelaria, Nutrição, Engenharias de Alimento, Química e de Produção, Pedagogia, Administração, Marketing, Biologia e aos profissionais de nível superior, interessados em aprimorar seus conhecimentos relativos no segmento da alimentação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "Ciência dos Alimentos Aplicada à Gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Sustentabilidade Aplicada à Gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Planejamento educacional à docência superior da gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Didática e avaliação de ensino-aprendizagem aplicadas à gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Epidemiologia e saúde preventiva à gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Fundamentos e Tendências Pedagógicas",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-360",
+        "id": "5092",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia, tem como objetivo aplicar técnicas gastronômicas na alimentação e nos serviços de alimentação e nutrição, capacitar profissionais para a gestão em gastronomia, conhecer a história da alimentação e as cadeias de produção de alimentos, identificar os processos químicos e bioquímicos dos alimentos e da nutrição, proporcionar ao aluno a reflexão sobre os processos envolvidos no âmbito da gastronomia, bem como a utilização de ferramentas que contribuirão para uma atuação profissional singular.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia destina-se a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos e químicos de alimentos.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Gestão de Pessoas Aplicada a Serviços de Alimentos e Bebidas",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gastronomia Funcional",
+                "ch": "60 h"
+              },
+              {
+                "n": "05",
+                "nome": "Ciência dos Alimentos aplicado à Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gestão e Logística em Serviços Gastronômicos",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gastronomia Molecular",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-contemporânea-360",
+        "id": "5306",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA CONTEMPORÂNEA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Gastronomia Contemporânea, tem como objetivo aprofundar o conhecimento em cozinha contemporânea, moderna cozinha brasileira e vinhos diversos; Conhecer e dominar técnicas gastronômicas modernas; Melhorar o entendimento das tecnologias sobre a gastronomia; Permitir uma compreensão do processo gastronômico e de plantas alimentícias não convencionais (PANC), bem como, tendências da alimentação na sociedade moderna.",
+          "publico_alvo": "O Curso de Pós-graduação Gastronomia Contemporânea, destina-se a profissionais de nível superior que atuam na área da gastronomia, tais como Nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Fundamentação em gastronomia – técnicas aplicadas",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gastronomia contemporânea",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Enogastronomia",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Uso de ervas e especiarias",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gastronomia sustentável: vertentes da alimentação",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Organização e planejamento de eventos e serviços gastronômicos",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Alimentação e saúde no século XXI",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-em-panificação-e-confeitaria-360",
+        "id": "0484",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA EM PANIFICAÇÃO E CONFEITARIA (360h)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia em Panificação e Confeitaria, tem por objetivos aprofundar o conhecimento em cozinha na área específica de panificação e confeitaria; conhecer e dominar os aditivos e matérias prima na arte de confeitaria e panificação; melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia em Panificação e Confeitaria, é destinado a empresários, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de confeitaria e panificação, mas também graduados em gastronomia, eventos, hotelaria, turismo, nutrição, administração, engenharia de alimentos, químicos de alimentos, bem como qualquer outra área, desde que tenha interesse em aprimorar o conhecimento se especializando na área de Confeitaria e Panificação.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "Metodologia Científica"
+              },
+              {
+                "n": "02",
+                "nome": "Panificação Artesanal",
+                "ch": "Panificação Artesanal"
+              },
+              {
+                "n": "03",
+                "nome": "Panificação Internacional",
+                "ch": "Panificação Internacional"
+              },
+              {
+                "n": "04",
+                "nome": "Panificação Industrial",
+                "ch": "Panificação Industrial"
+              },
+              {
+                "n": "05",
+                "nome": "Gestão, Marketing e Contabilidade Aplicada à Panificação e Confeitaria",
+                "ch": "Gestão, Marketing e Contabilidade Aplicada à Panificação e Confeitaria"
+              },
+              {
+                "n": "06",
+                "nome": "Garantia da qualidade na indústria e unidades de serviços de panificação e confeitaria",
+                "ch": "Garantia da qualidade na indústria e unidades de serviços de panificação e confeitaria"
+              },
+              {
+                "n": "07",
+                "nome": "Massas para Confeitaria e Panificação",
+                "ch": "Massas para Confeitaria e Panificação"
+              },
+              {
+                "n": "08",
+                "nome": "Chocolateria, Cremes, Merengues e Açúcares",
+                "ch": "Chocolateria, Cremes, Merengues e Açúcares"
+              },
+              {
+                "n": "09",
+                "nome": "Aditivos e matérias-primas utilizados na panificação e confeitaria",
+                "ch": "Aditivos e matérias-primas utilizados na panificação e confeitaria"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "Trabalho de Conclusão de Curso - TCC"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-funcional-e-natural-360",
+        "id": "5277",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA FUNCIONAL E NATURAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Gastronomia Funcional e Natural,  tem como objetivo os seguintes aspectos: Aprofundar o conhecimento na cozinha funcional e natural; Conhecer e dominar a elaboração dos cardápios funcionais, naturais e fit; Estudar as técnicas gastronômicas dos nutrientes e a composição dos alimentos;  Melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O Curso de Pós-graduação Gastronomia Funcional e Natural, destina-se a Profissionais de nível superior que atuam na área da alimentação tais como Nutricionistas, Engenheiros de Alimentos, Gastrônomos, Empreendedores no ramo de Alimentação, Diretores, Gerentes e Supervisores de empreendimentos gastronômicos. Profissionais que desejam investir no mercado de alimentos e da gastronomia funcional e natural, assim como graduados em gastronomia, produtores de eventos, profissionais das áreas de hotelaria, turismo, administração e químicos de alimentos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Alimentos Funcionais com ênfase em Gastronomia",
+                "ch": "60 h"
+              },
+              {
+                "n": "03",
+                "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável",
+                "ch": "60 h"
+              },
+              {
+                "n": "04",
+                "nome": "Composição e Química dos Alimentos",
+                "ch": "60 h"
+              },
+              {
+                "n": "05",
+                "nome": "Elaboração de Cardápios Funcionais e Gastronomia Fit",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Fundamentos Nutricionais Aplicados à Gastronomia Funcional e Natural",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "História da Alimentação e Novas Tendências em Gastronomia",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-hospitalar-360",
+        "id": "5773",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA HOSPITALAR (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Gastronomia Hospitalar, tem por objetivos estudar e aplicar técnicas gastronômicas e cortes na cozinha profissional, para unidades de produção de alimentos hospitalar, de acordo com as patologias: hipertensão arterial, obesidade, diabetes melittus, intolerâncias alimentares.",
+          "publico_alvo": "O curso de Pós-graduação em Gastronomia Hospitalar, é destinado a profissionais da área da saúde, gastronomia.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "Metodologia Científica"
+              },
+              {
+                "n": "02",
+                "nome": "Cardápios e Dietas Especiais",
+                "ch": "Cardápios e Dietas Especiais"
+              },
+              {
+                "n": "03",
+                "nome": "Nutrição Funcional",
+                "ch": "Nutrição Funcional"
+              },
+              {
+                "n": "04",
+                "nome": "Pontos de Cocção, Consistência e Apresentação",
+                "ch": "Pontos de Cocção, Consistência e Apresentação"
+              },
+              {
+                "n": "05",
+                "nome": "Temperos Naturais",
+                "ch": "Temperos Naturais"
+              },
+              {
+                "n": "06",
+                "nome": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável",
+                "ch": "Aplicação de Técnicas Gastronômicas voltadas à Alimentação Saudável"
+              },
+              {
+                "n": "07",
+                "nome": "Contextualização da Gastronomia Hospitalar",
+                "ch": "Contextualização da Gastronomia Hospitalar"
+              },
+              {
+                "n": "08",
+                "nome": "Gestão do Serviço, Treinamentos, Recursos e Liderança",
+                "ch": "Gestão do Serviço, Treinamentos, Recursos e Liderança"
+              },
+              {
+                "n": "09",
+                "nome": "Dietas Hospitalares e Composição dos Cardápios",
+                "ch": "Dietas Hospitalares e Composição dos Cardápios"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "Trabalho de Conclusão de Curso - TCC"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gastronomia-vegetariana-360",
+        "id": "4407",
+        "image": "não disponível",
+        "titulo": "GASTRONOMIA VEGETARIANA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Gastronomia Vegetariana, tem como objetivo aprofundar o conhecimento na cozinha vegetariana; conhecer e dominar a elaboração dos cardápios vegetarianos; estudar as técnicas gastronômicas dos nutrientes; Melhorar o entendimento das tecnologias dessa área.",
+          "publico_alvo": "O Curso de Pós-graduação Gastronomia Vegetariana, destina-se a de nível superior que atuam na área da alimentação tais como nutricionistas, engenheiros de alimentos, gastrônomos, empreendedores no ramo de alimentação, diretores, gerentes e supervisores de empreendimentos gastronômicos com experiência de mercado. Profissionais que desejam investir no mercado de alimentos e da gastronomia vegetariana, mas também graduados em gastronomia, eventos, hotelaria, turismo, administração e químicos de alimentos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "45 h"
+              },
+              {
+                "n": "02",
+                "nome": "Ciência dos Alimentos na Gastronomia Vegetariana",
+                "ch": "45 h"
+              },
+              {
+                "n": "03",
+                "nome": "Elaboração de Cardápios Vegetarianos",
+                "ch": "45 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gastronomia E Vegetarianismo",
+                "ch": "45 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gestão de Segurança Alimentar",
+                "ch": "45 h"
+              },
+              {
+                "n": "06",
+                "nome": "Nutrição Aplicada ao Vegetarianismo",
+                "ch": "45 h"
+              },
+              {
+                "n": "07",
+                "nome": "Técnicas Gastronômicas e Preservação dos Nutrientes",
+                "ch": "45 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "45 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "nutrição-aplicada-á-gastronomia360h",
+        "id": "1650",
+        "image": "não disponível",
+        "titulo": "NUTRIÇÃO APLICADA Á GASTRONOMIA(360h)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Nutrição Aplicada a Gastronomia, tem como objetivo possibilitar aos profissionais de Nutrição, Gastronomia e demais áreas envolvidas com os campos da alimentação e nutrição; O estudo do potencial funcional de vários grupos de alimentos; O conhecimento de técnicas gastronômicas associadas à biodisponibilidade de nutrientes; A compreensão de necessidades nutricionais específicas de diferentes grupos de indivíduos; Proporcionar a integração entre as ciências dos alimentos e humana; Conhecer a regulamentação da legislação vigente aplicada a alimentos funcionais.",
+          "publico_alvo": "O curso de Pós-graduação em Nutrição Aplicada a Gastronomia destina-se a graduados em Nutrição, Gastronomia.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Aproveitamento Integral dos Alimentos e Sustentabilidade em Gastronomia",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "O Estudo dos Alimentos e Técnicas Gastronômicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gastronomia Funcional sem Glúten e sem Lactose",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gastronomia Hospitalar",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gastronomia Molecular",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Culinária sem sal: Uso de Ervas e Especiarias",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Nutrição, Alimentos Funcionais e Longevidade",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "tecnologia-dos-alimentos-360",
+        "id": "5933",
+        "image": "não disponível",
+        "titulo": "TECNOLOGIA DOS ALIMENTOS (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Tecnologia dos Alimentos, tem como objetivo instrumentalizar o aluno ao exercício maduro das atividades industriais voltadas à produção de alimentos ampliando-lhes a base teórica em Bioquímica e Microbiologia dos Alimentos e apresentando-lhes novos processos e tecnologias de processamento de alimentos da indústria alimentícia. Campo de atuação O Pós-Graduado poderá atuar em Indústrias de alimentos, empresas de processamento de alimentos, empresas de conservação e transporte de alimentos, secretarias e órgãos públicos ligados à fiscalização ou à segurança alimentar, redes supermercadistas, importadoras ou exportadoras de alimentos, restaurantes e um sem-número de empresas ligadas à alimentação.",
+          "publico_alvo": "O curso de Pós-graduação em Tecnologia dos Alimentos, destina-se a pessoas com curso superior em Tecnólogo de Alimentos, Nutrição, Gastronomia, Dietética; profissionais da área da saúde que se interessem por Alimentos e suas teorias; profissionais de quaisquer áreas ligadas à alimentação, à saúde alimentar ou áreas afins.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Bioquímica dos alimentos",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Microbiologia dos alimentos e Legislação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Análise de alimentos",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Processos biotecnológicos para indústria de alimentos",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Bioquímica do músculo e qualidade da carne",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Tecnologia da carne",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Processamento e Qualidade da Carne",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Processamento de sucos de frutas e bebidas",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Análise sensorial",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Controle de qualidade na indústria de alimentos",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "vigilância-sanitária-e-qualidade-dos-alimentos-360",
+        "id": "1746",
+        "image": "não disponível",
+        "titulo": "VIGILÂNCIA SANITÁRIA E QUALIDADE DOS ALIMENTOS (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Vigilância Sanitária e Qualidade de Alimentos, têm como objetivo capacitar o aluno para atuar no mercado de trabalho com competências e habilidades, atendendo à realidade da produção de alimentos seguros, por meio da promoção de mudanças e inovações, com o aparato das legislações e questões nutricionais para beneficio da saúde humana.",
+          "publico_alvo": "O Curso de Pós-graduação em Vigilância Sanitária e Qualidade de Alimentos destinam-se aos Graduados em Nutrição, Farmácia, Medicina Veterinária, Biologia, Biomedicina e Engenharia de Alimentos Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Bacteriologia e Diagnósticos Laboratoriais",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Saúde Coletiva",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Segurança Alimentar",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Sistema de Informação em Saúde",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Toxicologia de Alimentos e Vigilância Epidemiologia",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Vigilância e Qualidade de Alimentos",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho De Conclusão De Curso – TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "viticultura-e-enologia-360",
+        "id": "1145",
+        "image": "não disponível",
+        "titulo": "VITICULTURA E ENOLOGIA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Viticultura e Enologia,  tem como objetivo especializar o profissional no gerenciamento relacionado aos inúmeros setores da atividade vitivinícola, referenciados nos princípios da sustentabilidade econômica, ambiental e social; Promover a especialização de seres humanos éticos, competentes e aptos à ocupação de seus espaços no contexto social e ao desempenho de diferentes papéis, segundo princípios de valorização humana e ambiental; Promover o desenvolvimento de habilidades para o gerenciamento da produção vitivinícola e para a atuação crítica e criativa na identificação e resolução de problemas.",
+          "publico_alvo": "O Curso de Pós-graduação Viticultura e Enologia, destina-se a profissionais ligados aos setores de alimentos: Tecnólogos em Viticultura e Enologia, Tecnólogos em Alimentos, Bacharel em Ciências dos Alimentos, Engenheiros de Alimentos, Engenheiros Agrônomos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Enologia",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Enoturismo",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Estatística e Planejamento Experimental Vitivinícola",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fitossanidade da Videira",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gastronomia Aplicada ao Mundo dos Vinhos",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Análise Sensorial",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sistema de Qualidade na Produção de Uva e Derivados",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Vitinicultura",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "gastronomia",
+        "categoria": "pos-graduacao"
+      }
+    ]
   }
 ]

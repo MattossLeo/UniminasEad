@@ -63,21 +63,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -164,21 +152,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -235,21 +211,9 @@
         "carga_horaria_total": "500 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -331,21 +295,9 @@
         "carga_horaria_total": "500 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -437,21 +389,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -533,21 +473,9 @@
         "carga_horaria_total": "640 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -619,21 +547,9 @@
         "carga_horaria_total": "520 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -642,7 +558,7 @@
     "image": "courses/JfrS4FDnhtbdod6f8j9FRkV2NH37Pny4V0WM98oi.png",
     "titulo": "GERENCIAMENTO DE PROJETOS NO SETOR PÚBLICO",
     "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Gerenciamento de Projetos no Setor Público, tem como objetivo capacitar o aluno para que possa contribuir de modo efetivo com os processos de mudanças e inovação nestas instituições, promovendo a formação de gestores com perfil inovador e empreendedor. Visto que também no setor Público tem sido de fundamental importância para transformar o planejamento em resultados, otimizar a alocação de recourses, diminuir as surpresas, trazendo maior eficiência à gestão.",
+      "objetivos": "O curso de Pós-graduação em Gerenciamento de Projetos no Setor Público, tem como objetivo capacitar o aluno para que possa contribuir de modo efetivo com os processos de mudanças e inovação nestas instituições, promovendo a formação de gestores com perfil inovador e empreendedor. Visto que também no setor Público tem sido de fundamental importância para transformar o planejamento em resultados, otimizar a alocação de recursos, diminuir as surpresas, trazendo maior eficiência à gestão.",
       "publico_alvo": "O curso de Pós-graduação Gerenciamento de Projetos no Setor Público, destina-se a profissionais de instituições públicas, bem como os demais atores envolvidos na Governança Corporativa e Projetos nas diversas áreas como: Administrador, Engenharia Elétrica, Engenharia da Produção, Engenharia Civil, Engenharia de Petróleo, Arquitetura e Urbanismo, entre outras que buscam novos conhecimentos técnicos independente de sua experiência.",
       "carga_horaria": {
         "disciplinas": [
@@ -725,21 +641,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -821,21 +725,9 @@
         "carga_horaria_total": "640 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -907,21 +799,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1008,21 +888,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1114,21 +982,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1215,21 +1071,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1316,21 +1160,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1417,21 +1249,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1518,21 +1338,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1572,37 +1380,37 @@
           },
           {
             "n": "06",
-            "nome": "Inovações Tecnológicas        ",
+            "nome": "Inovações Tecnológicas",
             "ch": "40 h"
           },
           {
             "n": "07",
-            "nome": "Fundamentos e Metodologias do Trabalho com a Família  ",
+            "nome": "Fundamentos e Metodologias do Trabalho com a Família",
             "ch": "60 h"
           },
           {
             "n": "08",
-            "nome": "Fundamentos e Metodologias do Trabalho Comunitário    ",
+            "nome": "Fundamentos e Metodologias do Trabalho Comunitário",
             "ch": "60 h"
           },
           {
             "n": "09",
-            "nome": "Estado e Sociedade   ",
+            "nome": "Estado e Sociedade",
             "ch": "60 h"
           },
           {
             "n": "10",
-            "nome": "Família, Comunidade e Sociedade   ",
+            "nome": "Família, Comunidade e Sociedade",
             "ch": "60 h"
           },
           {
             "n": "11",
-            "nome": "Formação do Sujeito Profissional     ",
+            "nome": "Formação do Sujeito Profissional",
             "ch": "60 h"
           },
           {
             "n": "12",
-            "nome": "Serviço Social e Questão Social       ",
+            "nome": "Serviço Social e Questão Social",
             "ch": "60 h"
           },
           {
@@ -1614,21 +1422,9 @@
         "carga_horaria_total": "640 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1710,21 +1506,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1806,21 +1590,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1907,21 +1679,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -1971,32 +1731,32 @@
           },
           {
             "n": "08",
-            "nome": "Funções Gerenciais   ",
+            "nome": "Funções Gerenciais",
             "ch": "60 h"
           },
           {
             "n": "09",
-            "nome": "Monitoramento e Avaliação de Projetos Sociais      ",
+            "nome": "Monitoramento e Avaliação de Projetos Sociais",
             "ch": "60 h"
           },
           {
             "n": "10",
-            "nome": "Orçamento e Prestação de Contas    ",
+            "nome": "Orçamento e Prestação de Contas",
             "ch": "60 h"
           },
           {
             "n": "11",
-            "nome": "Planejamento e Elaboração de Projetos Sociais       ",
+            "nome": "Planejamento e Elaboração de Projetos Sociais",
             "ch": "60 h"
           },
           {
             "n": "12",
-            "nome": "Redes, Alianças e Parcerias  ",
+            "nome": "Redes, Alianças e Parcerias",
             "ch": "60 h"
           },
           {
             "n": "13",
-            "nome": "Serviço Social e Questão Social       ",
+            "nome": "Serviço Social e Questão Social",
             "ch": "60 h"
           },
           {
@@ -2008,21 +1768,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2109,21 +1857,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2163,7 +1899,7 @@
           },
           {
             "n": "06",
-            "nome": "Inovações Tecnológicas        ",
+            "nome": "Inovações Tecnológicas",
             "ch": "40 h"
           },
           {
@@ -2178,17 +1914,17 @@
           },
           {
             "n": "09",
-            "nome": "Família, saúde e sociedade   ",
+            "nome": "Família, saúde e sociedade",
             "ch": "60 h"
           },
           {
             "n": "10",
-            "nome": "Sociologia Política            ",
+            "nome": "Sociologia Política",
             "ch": "60 h"
           },
           {
             "n": "11",
-            "nome": "Sociedade e Contemporaneidade     ",
+            "nome": "Sociedade e Contemporaneidade",
             "ch": "60 h"
           },
           {
@@ -2198,28 +1934,16 @@
           },
           {
             "n": "13",
-            "nome": "Trabalho de Conclusão de Curso – TCC                                                      ",
+            "nome": "Trabalho de Conclusão de Curso – TCC",
             "ch": "40 h"
           }
         ],
         "carga_horaria_total": "640 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2311,21 +2035,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2407,21 +2119,9 @@
         "carga_horaria_total": "640 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2498,21 +2198,9 @@
         "carga_horaria_total": "630 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2552,42 +2240,42 @@
           },
           {
             "n": "06",
-            "nome": "Inovações Tecnológicas        ",
+            "nome": "Inovações Tecnológicas",
             "ch": "40 h"
           },
           {
             "n": "07",
-            "nome": "Estado e Sociedade   ",
+            "nome": "Estado e Sociedade",
             "ch": "60 h"
           },
           {
             "n": "08",
-            "nome": "Funções Gerenciais   ",
+            "nome": "Funções Gerenciais",
             "ch": "60 h"
           },
           {
             "n": "09",
-            "nome": "Monitoramento e Avaliação de Projetos Sociais      ",
+            "nome": "Monitoramento e Avaliação de Projetos Sociais",
             "ch": "60 h"
           },
           {
             "n": "10",
-            "nome": "Orçamento e Prestação de Contas    ",
+            "nome": "Orçamento e Prestação de Contas",
             "ch": "60 h"
           },
           {
             "n": "11",
-            "nome": "Planejamento e Elaboração de Projetos Sociais       ",
+            "nome": "Planejamento e Elaboração de Projetos Sociais",
             "ch": "60 h"
           },
           {
             "n": "12",
-            "nome": "Redes, Alianças e Parcerias  ",
+            "nome": "Redes, Alianças e Parcerias",
             "ch": "60 h"
           },
           {
             "n": "13",
-            "nome": "Serviço Social e Questão Social       ",
+            "nome": "Serviço Social e Questão Social",
             "ch": "60 h"
           },
           {
@@ -2599,21 +2287,9 @@
         "carga_horaria_total": "720 h"
       }
     },
+    "fakePrice": "51,90",
+    "price": "43,90",
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   },
   {
@@ -2701,20 +2377,6 @@
       }
     },
     "area": "servico-social",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
     "categoria": "pos-graduacao"
   }
 ]

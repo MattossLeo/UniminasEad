@@ -1,15 +1,23 @@
 <?php
+
 $url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 $url_path = parse_url($url, PHP_URL_PATH);
 
 $url_separate = explode('/', $url_path);
-$course_name = $url_separate['3'];
-$area_name = $url_separate['2'] . '.json';
+$course_name = $url_separate[3];
+$area_json = $url_separate[2] . '.json';
+$area_name = $url_separate[2];
 
-$json_courses = get_template_directory() ."/inc/course/$area_name";
+$json_courses = get_template_directory() . "/inc/course/$area_json";
 $courses_json = file_get_contents($json_courses);
 $courses = json_decode($courses_json);
-$filtered_courses = array_filter($courses, function ($course) use ($course_name) {
+
+$courses_720 = $courses[0]->sevenHundredTwenty;
+$courses_360 = $courses[0]->threeHundredSixty;
+
+$workloads_array = array_merge($courses_720, $courses_360); // Combine os arrays em um só
+
+$filtered_courses = array_filter($workloads_array, function ($course) use ($course_name) {
     return $course->url === $course_name;
 });
 
@@ -30,7 +38,7 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                             <p class="objective-text main-text"><?php echo $course_objective;?></p>
                         </div>
                         <div class="main__course--target-audience">
-                            <h3 class="title-target-audience">Publico Alvo</h3>
+                            <h3 class="title-target-audience">Público Alvo</h3>
                             <p class="objective-text main-text"><?php echo $course_public;?></p>
                         </div>
                 <?php } ?>
@@ -50,14 +58,21 @@ $filtered_courses = array_filter($courses, function ($course) use ($course_name)
                 $full_workload = $course->conteudo->carga_horaria->carga_horaria_total;
                 ?>
                 <div class="main__course--disciples">
-                    <h3 class="title-target-audience title-modules">Modulos</h3>
+                    <h3 class="title-target-audience title-modules">Grade Curricular:</h3>
+                    <div style="margin-bottom: 15px" class="subtitle-disciplines">
+                        <span style="color:#274829;font-size: 20px;font-weight: 700;font-family: 'Lufga',sans-serif;">Carga horária:</span>
+                    </div>
                     <?php foreach ($course_disciplines as $disciplines){
                         /*ppr($course);*/
+                        $disciplines_number = $disciplines->n;
                         $disciplines_name = $disciplines->nome;
                         $disciplines_ch = $disciplines->ch;
                         ?>
                         <div class="main__diciplines--infos">
-                            <p class="diciplines-text main-text"><?php echo $disciplines_name;?></p>
+                            <div class="main__div-disciplines-names">
+                                <p class="diciplines-text main-text space-name"><?php echo $disciplines_number;?> -</p>
+                                <p class="diciplines-text main-text"><?php echo $disciplines_name;?></p>
+                            </div>
                             <p class="diciplines-text main-text">| <?php echo $disciplines_ch;?></p>
                         </div>
 

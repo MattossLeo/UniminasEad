@@ -983,6 +983,26 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
     font-family: 'Lufga', sans-serif;
     color: #A8F83E;
 }
+.main__workload--buttons {
+    display: flex;
+    justify-content: center;
+}
+.workload-720{
+    padding-right: 10px;
+}
+.workload-360{
+    padding-left: 10px;
+}
+.button-workload {
+    border: none;
+    border-radius: 5px;
+    font-family: 'Lufga', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    background: #A8F83E;
+    color: #274829;
+    padding: 5px 15px;
+}
 .main__card--courses {
     margin: 25px 0;
     background: #A8F83E;
@@ -1149,6 +1169,12 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
     font-family: 'Lufga', sans-serif;
     font-size: 18px;
     color: white;
+}
+.main__div-disciplines-names {
+    display: flex;
+}
+.space-name{
+    padding-right: 5px;
 }
 .diciplines-text{
     color: #274829 !important;
