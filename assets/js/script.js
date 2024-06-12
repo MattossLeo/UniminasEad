@@ -48,15 +48,17 @@ $('.menu_header-mob li a').click(function(){
 /*----Ajax Pagination Courses----*/
 
 let page = 1;
+let currentCategory = 'sevenHundredTwenty';
 
-$('.btn-pagination').on('click', function () {
-    let btn = $(this);
+function loadCourses(category) {
+    let btn = $('.btn-pagination');
     btn.text('Carregando...');
     let data = new FormData();
 
     data.append('action', 'load_more_courses');
-    data.append('page', page + 1);
-    data.append('area', $(this).data('area'));
+    data.append('page', page);
+    data.append('area', btn.data('area'));
+    data.append('category', category);
 
     $.ajax({
         url: "/wp-admin/admin-ajax.php",
@@ -66,6 +68,9 @@ $('.btn-pagination').on('click', function () {
         contentType: false,
         success: function (response) {
             if (response.length > 0) {
+                if (page === 1) {
+                    $('#courses-row').empty();
+                }
                 $.each(response, function (index, course) {
                     let htmlContent = `
 <div class="col-lg-4">
@@ -81,8 +86,8 @@ $('.btn-pagination').on('click', function () {
                     </div>
                 </div>
                 <div class="card__courses--price">
-                    <p class="main__fake--price">De: <s class="fake-price">12x 44,90</s></p>
-                    <p class="main-prices">Por: <b>12x 34,90</b></p>
+                    <p class="main__fake--price">De: <s class="fake-price">12x ${course.fakePrice}</s></p>
+                    <p class="main-prices">Por: <b>12x ${course.price}</b></p>
                 </div>
                 <div class="main__card--btn">
                     <a class="btn-courses" href="${course.url}">CONHECER O CURSO</a>
@@ -91,11 +96,11 @@ $('.btn-pagination').on('click', function () {
         </div>
     </div>
 </div>`;
-
-                    document.querySelector('#cursos-container .row').insertAdjacentHTML('beforeend', htmlContent);
+                    $('#courses-row').append(htmlContent);
                 });
                 page++;
                 btn.text('Carregar Mais');
+                btn.prop('disabled', false);
             } else {
                 btn.text('Todos os Cursos Carregados');
                 btn.prop('disabled', true);
@@ -106,7 +111,26 @@ $('.btn-pagination').on('click', function () {
             btn.text('Erro ao Carregar');
         }
     });
+}
+
+$('#workload720h').on('click', function () {
+    currentCategory = 'sevenHundredTwenty';
+    page = 1;
+    loadCourses(currentCategory);
 });
+
+$('#workload360h').on('click', function () {
+    currentCategory = 'threeHundredSixty';
+    page = 1;
+    loadCourses(currentCategory);
+});
+
+$('.btn-pagination').on('click', function () {
+    loadCourses(currentCategory);
+});
+
+// Load initial courses
+loadCourses(currentCategory);
 
 /*----Ajax Pagination Courses----*/
 
@@ -158,9 +182,9 @@ $('document').ready(function() {
 /*---- Popup ----*/
 
 /*----Search Courses----*/
+
 $(document).ready(function() {
     function handleSearch(inputElement, resultsContainer) {
-
         let words = $(inputElement).val();
         let data = {
             "action": 'search_courses',
@@ -174,6 +198,7 @@ $(document).ready(function() {
                 dataType: 'json',
                 data: data,
                 success: function(responseData) {
+                    console.log(responseData);
                     $(resultsContainer).css('display', 'block').empty();
                     if (responseData.length > 0) {
                         $(resultsContainer).show();
@@ -259,6 +284,12 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     function adjustStickyCardMargin() {
+        // Verificar a largura da tela
+        if ($(window).width() <= 767) {
+            $('.main__styck--options').css('margin-top', '0');
+            return; // Parar a execução da função se a largura for menor ou igual a 767px
+        }
+
         var $courseObjective = $('#courseObjective');
         var $stickyCard = $('.main__styck--options');
 
@@ -282,6 +313,5 @@ $(document).ready(function() {
     // Ajustar quando a janela é redimensionada
     $(window).resize(adjustStickyCardMargin);
 });
-
 
 

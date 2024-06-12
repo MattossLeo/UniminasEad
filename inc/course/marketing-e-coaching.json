@@ -1,1613 +1,2471 @@
 [
   {
-    "url": "marketing",
-    "id": "122",
-    "image": "courses/Jxop0ScgzkXRtWi6PVz1T3BZOMkj9WeijyOYsDNW.png",
-    "titulo": "MARKETING",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Marketing, tem como objetivo capacitar profissionais a planejar, propor estratégias, definir, executar e gerir as táticas de marketing, medindo e avaliando sua eficácia no contexto organizacional, estruturar soluções criativas e tecnológicas, sendo agente propulsor da busca de tendências e de inovação para o negócio, propondo soluções de marketing, assim como elaborar planos de marketing, com base na inovação, conhecimento sobre o consumidor e as tecnologias com o intuito de promover a marca do cliente e executar planos de marketing, organizando suas ações, a fim de que os planos sejam consistentes, inovadores e geradores de resultados para as organizações.",
-      "publico_alvo": "O curso de Pós-graduação em Marketing, destina-se a graduados do Curso de Administração, Ciências Contábeis, Pedagogia e áreas afins.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência Do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Fundamentos do Marketing",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Código de Defesa do Consumidor",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Gestão Estratégica em Comunicação",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Planejamento e comunicação em Marketing",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "TICDIS",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Gestão de Recourses Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho De Conclusão De Curso - TCC",
-            "ch": "20 h"
+    "sevenHundredTwenty": [
+      {
+        "url": "marketing",
+        "id": "122",
+        "image": "courses/Jxop0ScgzkXRtWi6PVz1T3BZOMkj9WeijyOYsDNW.png",
+        "titulo": "MARKETING",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Marketing, tem como objetivo capacitar profissionais a planejar, propor estratégias, definir, executar e gerir as táticas de marketing, medindo e avaliando sua eficácia no contexto organizacional, estruturar soluções criativas e tecnológicas, sendo agente propulsor da busca de tendências e de inovação para o negócio, propondo soluções de marketing, assim como elaborar planos de marketing, com base na inovação, conhecimento sobre o consumidor e as tecnologias com o intuito de promover a marca do cliente e executar planos de marketing, organizando suas ações, a fim de que os planos sejam consistentes, inovadores e geradores de resultados para as organizações.",
+          "publico_alvo": "O curso de Pós-graduação em Marketing, destina-se a graduados do Curso de Administração, Ciências Contábeis, Pedagogia e áreas afins.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência Do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Fundamentos do Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Código de Defesa do Consumidor",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gestão Estratégica em Comunicação",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Planejamento e comunicação em Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "TICDIS",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Gestão de Recursos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "500 h"
           }
-        ],
-        "carga_horaria_total": "500 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "gestao-estrategica-de-marketing",
-    "id": "203",
-    "image": "courses/I1ttMTgUk3c4ZxEtnXqGwQYMnwWNvUxM4r6xgawA.png",
-    "titulo": "GESTÃO ESTRATÉGICA DE MARKETING",
-    "conteudo": {
-      "objetivos": "O curso de pós-graduação em Gestão Estratégica de Marketing visa oferecer aos participantes oportunidades de desenvolver conhecimentos e habilidades em análise de mercados e de cenários, identificação de oportunidades, desenvolvimento de abordagens de posicionamento de marcas e produtos, além de coordenar equipes e administrar processos.",
-      "publico_alvo": "A pós-graduação em Gestão Estratégica de Marketing destina-se a profissionais com graduação em Administração, Engenharia, Economia, Ciências Contábeis, Direito e outros, preferencialmente aqueles que atuem ou pretendam atuar na área de Marketing.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Marketing de Busca",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Fundamentos de Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Economia e Mercado",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Operações em e-commerce",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Produção de Conteúdo para Mídia Digital",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Mobile Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gestao-estrategica-de-marketing",
+        "id": "203",
+        "image": "courses/I1ttMTgUk3c4ZxEtnXqGwQYMnwWNvUxM4r6xgawA.png",
+        "titulo": "GESTÃO ESTRATÉGICA DE MARKETING",
+        "conteudo": {
+          "objetivos": "O curso de pós-graduação em Gestão Estratégica de Marketing visa oferecer aos participantes oportunidades de desenvolver conhecimentos e habilidades em análise de mercados e de cenários, identificação de oportunidades, desenvolvimento de abordagens de posicionamento de marcas e produtos, além de coordenar equipes e administrar processos.",
+          "publico_alvo": "A pós-graduação em Gestão Estratégica de Marketing destina-se a profissionais com graduação em Administração, Engenharia, Economia, Ciências Contábeis, Direito e outros, preferencialmente aqueles que atuem ou pretendam atuar na área de Marketing.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Marketing de Busca",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Fundamentos de Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Economia e Mercado",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Operações em e-commerce",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Produção de Conteúdo para Mídia Digital",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Mobile Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "640 h"
           }
-        ],
-        "carga_horaria_total": "640 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "marketing-e-redes-sociais",
-    "id": "1781",
-    "image": "courses/1Ls1OaCyRWcyETjhAKSmXbhyoiV3wm3wfOcifB8Q.png",
-    "titulo": "MARKETING E REDES SOCIAIS",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Marketing e Redes Sociais, tem como objetivo proporciona aos alunos uma visão integrada do Marketing Digital, capacitando os profissionais a desenvolver planejamentos de mídia digital, criar campanhas online eficazes e construir o posicionamento de marcas no ambiente digital.",
-      "publico_alvo": "O curso de Pós-graduação Marketing e Redes Sociais, destina-se a profissionais graduados em Comunicação Social que desejam aprofundar seus conhecimentos em Marketing e Redes Sociais através do curso de Pós-Graduação Lato Sensu, além de empreendedores e microempreendedores.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Introdução às Redes Sociais",
-            "ch": "80 h"
-          },
-          {
-            "n": "08",
-            "nome": "Comunicação Corporativa e outras Ferramentas para a Sustentabilidade Corporativa",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Gestão Estratégica e Marketing de Negócios Digitais",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Marketing Digital e Redes Sociais Web",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gestão de Tecnologias Digitais",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Planejamento Estratégico de Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Comportamento do Consumidor na Internet",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-redes-sociais",
+        "id": "1781",
+        "image": "courses/1Ls1OaCyRWcyETjhAKSmXbhyoiV3wm3wfOcifB8Q.png",
+        "titulo": "MARKETING E REDES SOCIAIS",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Marketing e Redes Sociais, tem como objetivo proporciona aos alunos uma visão integrada do Marketing Digital, capacitando os profissionais a desenvolver planejamentos de mídia digital, criar campanhas online eficazes e construir o posicionamento de marcas no ambiente digital.",
+          "publico_alvo": "O curso de Pós-graduação Marketing e Redes Sociais, destina-se a profissionais graduados em Comunicação Social que desejam aprofundar seus conhecimentos em Marketing e Redes Sociais através do curso de Pós-Graduação Lato Sensu, além de empreendedores e microempreendedores.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Introdução às Redes Sociais",
+                "ch": "80 h"
+              },
+              {
+                "n": "08",
+                "nome": "Comunicação Corporativa e outras Ferramentas para a Sustentabilidade Corporativa",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gestão Estratégica e Marketing de Negócios Digitais",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Marketing Digital e Redes Sociais Web",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gestão de Tecnologias Digitais",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Planejamento Estratégico de Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Comportamento do Consumidor na Internet",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "influencia-digital-conteudo-e-estrategia",
-    "id": "674",
-    "image": "courses/fSjqK3zIjWTOWMJhSZ1gSqxkn0vpU9Os1Joa321y.png",
-    "titulo": "INFLUÊNCIA DIGITAL: CONTEÚDO E ESTRATÉGIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Influência Digital: Conteúdo e Estratégia, tem como objetivo especializar profissionais para conhecer, compreender e utilizar os recourses das novas tecnologias digitais",
-      "publico_alvo": "O curso de Pós-graduação Influência Digital: Conteúdo e Estratégia, destina-se à profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade, Design, Tecnologia da Informação e interessados em atuar na área.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Cultura Digital",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Links Patrocinados",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Criação de Conteúdo",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Publicidade e Propaganda",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Mídias Sociais",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Marketing Afiliados",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Marketing de Display",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Direito Digital",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Vídeo Digital",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Estratégia Marketing Digital",
-            "ch": "40 h"
-          },
-          {
-            "n": "17",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "influencia-digital-conteudo-e-estrategia",
+        "id": "674",
+        "image": "courses/fSjqK3zIjWTOWMJhSZ1gSqxkn0vpU9Os1Joa321y.png",
+        "titulo": "INFLUÊNCIA DIGITAL: CONTEÚDO E ESTRATÉGIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Influência Digital: Conteúdo e Estratégia, tem como objetivo especializar profissionais para conhecer, compreender e utilizar os recursos das novas tecnologias digitais",
+          "publico_alvo": "O curso de Pós-graduação Influência Digital: Conteúdo e Estratégia, destina-se à profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade, Design, Tecnologia da Informação e interessados em atuar na área.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Cultura Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Links Patrocinados",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Criação de Conteúdo",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Publicidade e Propaganda",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Mídias Sociais",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Marketing Afiliados",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Marketing de Display",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Direito Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Vídeo Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Estratégia Marketing Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "17",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "marketing-digital",
-    "id": "701",
-    "image": "courses/NgsG9IcIEWD9YSKhOPZ8cJZDpVSp6e0nMaODIZXr.png",
-    "titulo": "MARKETING DIGITAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Marketing Digital, tem como objetivo desenvolver profissionais para atuarem na era digital, com visão estratégica e conhecimento técnico para planejar ações criativas e inovadoras de marketing e comunicação digital. O programa visa consolidar conhecimentos de marketing e comunicação digital dentro de uma visão contemporânea e adequada ao comportamento da sociedade atual.",
-      "publico_alvo": "O curso de Pós-graduação em Marketing Digital, destina-se a aos profissionais de diferentes áreas como: Administração, Comunicação, Tecnologia da Informação, Desenvolvimento WEB, Engenharia de Produto, Design de Produto; bem como para empreendedores, executivos, médicos, advogados que enxerguem no Mundo Digital uma oportunidade de negócios.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Planejamento e Comunicação em Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Produção e Conteúdo para Mídia Digital",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Mobile Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Design, Interface e Usabilidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Branding e Pesquisa de Mercado",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Search Marketing e Otimização",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-digital",
+        "id": "701",
+        "image": "courses/NgsG9IcIEWD9YSKhOPZ8cJZDpVSp6e0nMaODIZXr.png",
+        "titulo": "MARKETING DIGITAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Marketing Digital, tem como objetivo desenvolver profissionais para atuarem na era digital, com visão estratégica e conhecimento técnico para planejar ações criativas e inovadoras de marketing e comunicação digital. O programa visa consolidar conhecimentos de marketing e comunicação digital dentro de uma visão contemporânea e adequada ao comportamento da sociedade atual.",
+          "publico_alvo": "O curso de Pós-graduação em Marketing Digital, destina-se a aos profissionais de diferentes áreas como: Administração, Comunicação, Tecnologia da Informação, Desenvolvimento WEB, Engenharia de Produto, Design de Produto; bem como para empreendedores, executivos, médicos, advogados que enxerguem no Mundo Digital uma oportunidade de negócios.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Planejamento e Comunicação em Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Produção e Conteúdo para Mídia Digital",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Mobile Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Design, Interface e Usabilidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Branding e Pesquisa de Mercado",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Search Marketing e Otimização",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "640 h"
           }
-        ],
-        "carga_horaria_total": "640 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "marketing-e-meio-ambiente",
-    "id": "703",
-    "image": "courses/cVbpC6bqA86LtlnRQFDYpoTx9cgvUAECwHKfMYcl.jpeg",
-    "titulo": "MARKETING E MEIO AMBIENTE",
-    "conteudo": {
-      "objetivos": "O curso de Pós- Graduação em Marketing e Meio Ambiente, tem como objetivo preparar o aluno para desenvolver e executar estratégias inovadoras de marketing, visando a interação da teoria e a informação ambiental, rumo ao desenvolvimento sustentável e a consciência sócio ambiental.",
-      "publico_alvo": "O curso de Pós- Graduação em Marketing e Meio Ambiente destina-se graduados em Administração, Tecnólogos em Gestão Ambiental, Marketing, Pedagogia, Comunicação, Ciências Sociais e áreas afins.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Responsabilidade Socioambiental",
-            "ch": "80 h"
-          },
-          {
-            "n": "02",
-            "nome": "Planejamento e comunicação em Marketing",
-            "ch": "80 h"
-          },
-          {
-            "n": "03",
-            "nome": "Relação Marketing e Meio Ambiente",
-            "ch": "80 h"
-          },
-          {
-            "n": "04",
-            "nome": "Marketing Ambiental",
-            "ch": "80 h"
-          },
-          {
-            "n": "05",
-            "nome": "Fundamentos do Marketing",
-            "ch": "80 h"
-          },
-          {
-            "n": "06",
-            "nome": "Comunicação Socioambiental",
-            "ch": "80 h"
-          },
-          {
-            "n": "07",
-            "nome": "Meio Ambiente e Desenvolvimento Sustentável",
-            "ch": "80 h"
-          },
-          {
-            "n": "09",
-            "nome": "Metodologia Científica",
-            "ch": "50 h"
-          },
-          {
-            "n": "09",
-            "nome": "Docência do Ensino Superior",
-            "ch": "50 h"
-          },
-          {
-            "n": "10",
-            "nome": "Trabalho De Conclusão De Curso– TCC",
-            "ch": "50 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-meio-ambiente",
+        "id": "703",
+        "image": "courses/cVbpC6bqA86LtlnRQFDYpoTx9cgvUAECwHKfMYcl.jpeg",
+        "titulo": "MARKETING E MEIO AMBIENTE",
+        "conteudo": {
+          "objetivos": "O curso de Pós- Graduação em Marketing e Meio Ambiente, tem como objetivo preparar o aluno para desenvolver e executar estratégias inovadoras de marketing, visando a interação da teoria e a informação ambiental, rumo ao desenvolvimento sustentável e a consciência sócio ambiental.",
+          "publico_alvo": "O curso de Pós- Graduação em Marketing e Meio Ambiente destina-se graduados em Administração, Tecnólogos em Gestão Ambiental, Marketing, Pedagogia, Comunicação, Ciências Sociais e áreas afins.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Responsabilidade Socioambiental",
+                "ch": "80 h"
+              },
+              {
+                "n": "02",
+                "nome": "Planejamento e comunicação em Marketing",
+                "ch": "80 h"
+              },
+              {
+                "n": "03",
+                "nome": "Relação Marketing e Meio Ambiente",
+                "ch": "80 h"
+              },
+              {
+                "n": "04",
+                "nome": "Marketing Ambiental",
+                "ch": "80 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fundamentos do Marketing",
+                "ch": "80 h"
+              },
+              {
+                "n": "06",
+                "nome": "Comunicação Socioambiental",
+                "ch": "80 h"
+              },
+              {
+                "n": "07",
+                "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+                "ch": "80 h"
+              },
+              {
+                "n": "09",
+                "nome": "Metodologia Científica",
+                "ch": "50 h"
+              },
+              {
+                "n": "09",
+                "nome": "Docência do Ensino Superior",
+                "ch": "50 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho De Conclusão De Curso– TCC",
+                "ch": "50 h"
+              }
+            ],
+            "carga_horaria_total": "710 h"
           }
-        ],
-        "carga_horaria_total": "710 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "publicidade-e-propaganda",
-    "id": "859",
-    "image": "courses/QJqUkEUq97H7ICV2nDjXIpmuPLUxgdP41sxMqjNw.png",
-    "titulo": "PUBLICIDADE E PROPAGANDA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Publicidade e Propaganda, tem como objetivo atualizar os conhecimentos dos profissionais nas áreas de Propaganda e publicidade, e prepará-los para que desenvolvam a capacidade de atuar em empresas e agências elaborando estratégias e ações de divulgação.",
-      "publico_alvo": "O curso de Pós-graduação Publicidade e Propaganda, destina-se a profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade, Design e Tecnologia da Informação.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Textualidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Linguagem Visual",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Fundamentos da Publicidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "PBL - Edição de Imagens Raster",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "História da Publicidade e Propaganda",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Estética e Design Aplicado à Publicidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Criação e Produção Publicitária Impressa",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Teorias Contemporâneas da Comunicação e Análise Crítica das Mídias e suas Narrativas",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "publicidade-e-propaganda",
+        "id": "859",
+        "image": "courses/QJqUkEUq97H7ICV2nDjXIpmuPLUxgdP41sxMqjNw.png",
+        "titulo": "PUBLICIDADE E PROPAGANDA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Publicidade e Propaganda, tem como objetivo atualizar os conhecimentos dos profissionais nas áreas de Propaganda e publicidade, e prepará-los para que desenvolvam a capacidade de atuar em empresas e agências elaborando estratégias e ações de divulgação.",
+          "publico_alvo": "O curso de Pós-graduação Publicidade e Propaganda, destina-se a profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade, Design e Tecnologia da Informação.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Textualidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Linguagem Visual",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Fundamentos da Publicidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "PBL - Edição de Imagens Raster",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "História da Publicidade e Propaganda",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Estética e Design Aplicado à Publicidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Criação e Produção Publicitária Impressa",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Teorias Contemporâneas da Comunicação e Análise Crítica das Mídias e suas Narrativas",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "trade-marketing",
-    "id": "870",
-    "image": "courses/mruyUqZDUjWQsCKWnJSX9fWxPWU4MsspQ5j6LuR1.png",
-    "titulo": "TRADE MARKETING",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Trade Marketing, tem como objetivo criar habilidades conceituais e práticas necessárias para o desenvolvimento de estratégias e ações de Trade Marketing.",
-      "publico_alvo": "O curso de Pós-graduação Trade Marketing, destina-se a graduados das diversas áreas de gestão e que atuam nas áreas de Trade Marketing, Marketing, Vendas e Comunicação em indústrias de produtos de consumo, redes varejistas e distribuidores.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Gestão de Pessoas",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Gestão de Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Estratégia Empresarial",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Introdução ao Trade Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Shopper Insights e E-Commerce",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Filosofia e Políticas Educacionais",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Comunicação Alternativa e Marketing Pessoal",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Relacionamento Interpessoal e Ética Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "trade-marketing",
+        "id": "870",
+        "image": "courses/mruyUqZDUjWQsCKWnJSX9fWxPWU4MsspQ5j6LuR1.png",
+        "titulo": "TRADE MARKETING",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Trade Marketing, tem como objetivo criar habilidades conceituais e práticas necessárias para o desenvolvimento de estratégias e ações de Trade Marketing.",
+          "publico_alvo": "O curso de Pós-graduação Trade Marketing, destina-se a graduados das diversas áreas de gestão e que atuam nas áreas de Trade Marketing, Marketing, Vendas e Comunicação em indústrias de produtos de consumo, redes varejistas e distribuidores.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão de Pessoas",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gestão de Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Estratégia Empresarial",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Introdução ao Trade Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Shopper Insights e E-Commerce",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Filosofia e Políticas Educacionais",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Comunicação Alternativa e Marketing Pessoal",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Relacionamento Interpessoal e Ética Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "geomarketing-e-inteligencia-de-mercado",
-    "id": "1158",
-    "image": "courses/4TL8i25kUU8lM68KI1G3sAEFHsKTTiM0q8l6zE8P.jpeg",
-    "titulo": "GEOMARKETING E INTELIGÊNCIA DE MERCADO",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, tem por objetivos adaptar a oferta de produtos, considerando a segmentação espacial e a influência da regionalização de pontos ou áreas de vendas; Alocar investimentos através do estudo da localização ideal de pontos de vendas, considerando a distribuição geográfica/espacial dos clientes, fornecedores e concorrentes; Da mesma forma, considerar o espaço, e as suas características socioeconômicas, como elemento principal de apoio para a definição do preço de produtos ou estratégias de vendas; Definir objetivos, visando oportunidades de crescimento e expansão, em função da atratividade ou características (singularidades) espaciais, locais e regionais; Otimização de rotas para definir/redefinido regiões (territórios) de vendas, entregas ou assistência técnica; Reduzir custos, buscando aumentar a eficiência, através do direcionamento de campanhas publicitárias (distribuídas espacialmente) em função das características econômicas ou culturais dos clientes em potencial.",
-      "publico_alvo": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, é destinado a profissionais de Marketing, Gestores, Engenheiros, Geógrafos, Administradores de Empresas, Economistas e demais profissionais que atuam ou desejam atuar na área de Geomarketing e Inteligência de Mercado.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Big Data e Gestão de Dados",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Localização e Implementação de Negócios",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Geoprocessamento Aplicado",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Geomarketing e Inteligência de Mercado",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Estatística Espacial e Geoestatística",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Geoinformação e Fundamentos de Geomarketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Cartografia",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "60 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "geomarketing-e-inteligencia-de-mercado",
+        "id": "1158",
+        "image": "courses/4TL8i25kUU8lM68KI1G3sAEFHsKTTiM0q8l6zE8P.jpeg",
+        "titulo": "GEOMARKETING E INTELIGÊNCIA DE MERCADO",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, tem por objetivos adaptar a oferta de produtos, considerando a segmentação espacial e a influência da regionalização de pontos ou áreas de vendas; Alocar investimentos através do estudo da localização ideal de pontos de vendas, considerando a distribuição geográfica/espacial dos clientes, fornecedores e concorrentes; Da mesma forma, considerar o espaço, e as suas características socioeconômicas, como elemento principal de apoio para a definição do preço de produtos ou estratégias de vendas; Definir objetivos, visando oportunidades de crescimento e expansão, em função da atratividade ou características (singularidades) espaciais, locais e regionais; Otimização de rotas para definir/redefinido regiões (territórios) de vendas, entregas ou assistência técnica; Reduzir custos, buscando aumentar a eficiência, através do direcionamento de campanhas publicitárias (distribuídas espacialmente) em função das características econômicas ou culturais dos clientes em potencial.",
+          "publico_alvo": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, é destinado a profissionais de Marketing, Gestores, Engenheiros, Geógrafos, Administradores de Empresas, Economistas e demais profissionais que atuam ou desejam atuar na área de Geomarketing e Inteligência de Mercado.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Big Data e Gestão de Dados",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Localização e Implementação de Negócios",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Geoprocessamento Aplicado",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Geomarketing e Inteligência de Mercado",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Estatística Espacial e Geoestatística",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Geoinformação e Fundamentos de Geomarketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Cartografia",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "marketing-e-gestao-estrategica",
-    "id": "2192",
-    "image": "courses/TfOgzTWSFLtaoeR2qIPzZ3fEaFbPQ74qVYVeVQgW.png",
-    "titulo": "MARKETING E GESTÃO ESTRATÉGICA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Marketing e Gestão Estratégica, tem como objetivo apresentar a inter-relação entre os campos da gestão estratégica e marketing na viabilização do negócio, com isso, proporcionará o aperfeiçoamento profissional, visando o desenvolvimento de estratégias voltadas para gestões participativas e com senso humano de inovação. O uso eficaz de ferramentas de Marketing, a construção de marcas fortes e o uso de diferentes interfaces midiáticas são fatores críticos de sucesso. Reinventar-se, encontrando soluções fora do comum para atuais e novos desafios impostos pelo mercado, passa a ser condição de sobrevivência e crescimento. Diante disso, as empresas buscam pessoas capazes de auxiliá-las rumo ao êxito, conquistando mercados, formando relacionamentos e obtendo retornos acima da média. O curso busca formar esses profissionais e ajudá-los a desenvolver as competências necessárias para atuar nesse cenário.",
-      "publico_alvo": "O curso de Pós-graduação Marketing e Gestão Estratégica, destina-se a Graduados do Curso de Administração, Ciências Contábeis e áreas afins.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas        ",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Fundamentos do Marketing",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Código de Defesa do Consumidor",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Planejamento e Comunicação em Marketing",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Gestão de Recourses Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "Gestão Financeira e Orçamentária",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Estratégia Aplicada ao Lucro e Rentabilidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Estratégia de Operações e Fatores Competitivos",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Estratégias de Negociação em Vendas",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Modelos de Negócios Inovadores",
-            "ch": "60 h"
-          },
-          {
-            "n": "16",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-gestao-estrategica",
+        "id": "2192",
+        "image": "courses/TfOgzTWSFLtaoeR2qIPzZ3fEaFbPQ74qVYVeVQgW.png",
+        "titulo": "MARKETING E GESTÃO ESTRATÉGICA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Marketing e Gestão Estratégica, tem como objetivo apresentar a inter-relação entre os campos da gestão estratégica e marketing na viabilização do negócio, com isso, proporcionará o aperfeiçoamento profissional, visando o desenvolvimento de estratégias voltadas para gestões participativas e com senso humano de inovação. O uso eficaz de ferramentas de Marketing, a construção de marcas fortes e o uso de diferentes interfaces midiáticas são fatores críticos de sucesso. Reinventar-se, encontrando soluções fora do comum para atuais e novos desafios impostos pelo mercado, passa a ser condição de sobrevivência e crescimento. Diante disso, as empresas buscam pessoas capazes de auxiliá-las rumo ao êxito, conquistando mercados, formando relacionamentos e obtendo retornos acima da média. O curso busca formar esses profissionais e ajudá-los a desenvolver as competências necessárias para atuar nesse cenário.",
+          "publico_alvo": "O curso de Pós-graduação Marketing e Gestão Estratégica, destina-se a Graduados do Curso de Administração, Ciências Contábeis e áreas afins.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas        ",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Fundamentos do Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Código de Defesa do Consumidor",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Planejamento e Comunicação em Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Gestão de Recursos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Gestão Financeira e Orçamentária",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Estratégia Aplicada ao Lucro e Rentabilidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Estratégia de Operações e Fatores Competitivos",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Estratégias de Negociação em Vendas",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Modelos de Negócios Inovadores",
+                "ch": "60 h"
+              },
+              {
+                "n": "16",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "marketing-e-comunicacao-empresarial",
-    "id": "2339",
-    "image": "courses/x2oitG7n6ASRwnYnlwEm3dCHv1E35aeKFpACOt9K.png",
-    "titulo": "MARKETING E COMUNICAÇÃO EMPRESARIAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Marketing e Comunicação Empresarial, tem como objetivo proporcionar aos alunos uma ampla base de conhecimentos avançados e direcionados especificamente à gestão das estratégias das referidas áreas, proporcionando aos profissionais uma gama de conhecimentos fundamentais para um desempenho diferenciado no ambiente mercadológico. Foi planejado para aqueles que buscam posicionar-se à frente das tendências que surgem diariamente em conseqüência da dinâmica dos negócios, utilizando os conceitos fundamentais e práticos do Marketing, considerando o cenário econômico-financeiro global. Implementa os processos estratégicos e operacionais de Marketing por meio das mais avançadas técnicas. Debate e apresenta estudos de casos, assim como elabora um plano de negócios de um produto ou serviço de uma empresa real.",
-      "publico_alvo": "O curso de Pós-graduação Marketing e Comunicação Empresarial, destina-se a profissionais Empresários, executivos, gerentes, administradores de empresas, empreendedores, consultores, profissionais liberais, profissionais graduados em administração de empresas, marketing, economia, finanças, comunicação e áreas afins que desejam desenvolver competências em Marketing e Comunicação Empresarial.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Fundamentos de Marketing",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Marketing de Serviços",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Os 4 p’s (pesquisa de mercado, propaganda, promoção e preço)",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Comportamento do consumidor e marketing de relacionamento",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Marketing de Marcas para Produtos e Serviços",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Negociação e Marketing Empresarial",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Marketing para a Gestão da Qualidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Planejamento e Comunicação em Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-comunicacao-empresarial",
+        "id": "2339",
+        "image": "courses/x2oitG7n6ASRwnYnlwEm3dCHv1E35aeKFpACOt9K.png",
+        "titulo": "MARKETING E COMUNICAÇÃO EMPRESARIAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Marketing e Comunicação Empresarial, tem como objetivo proporcionar aos alunos uma ampla base de conhecimentos avançados e direcionados especificamente à gestão das estratégias das referidas áreas, proporcionando aos profissionais uma gama de conhecimentos fundamentais para um desempenho diferenciado no ambiente mercadológico. Foi planejado para aqueles que buscam posicionar-se à frente das tendências que surgem diariamente em conseqüência da dinâmica dos negócios, utilizando os conceitos fundamentais e práticos do Marketing, considerando o cenário econômico-financeiro global. Implementa os processos estratégicos e operacionais de Marketing por meio das mais avançadas técnicas. Debate e apresenta estudos de casos, assim como elabora um plano de negócios de um produto ou serviço de uma empresa real.",
+          "publico_alvo": "O curso de Pós-graduação Marketing e Comunicação Empresarial, destina-se a profissionais Empresários, executivos, gerentes, administradores de empresas, empreendedores, consultores, profissionais liberais, profissionais graduados em administração de empresas, marketing, economia, finanças, comunicação e áreas afins que desejam desenvolver competências em Marketing e Comunicação Empresarial.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Fundamentos de Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing de Serviços",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Os 4 p’s (pesquisa de mercado, propaganda, promoção e preço)",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Comportamento do consumidor e marketing de relacionamento",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Marketing de Marcas para Produtos e Serviços",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Negociação e Marketing Empresarial",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Marketing para a Gestão da Qualidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Planejamento e Comunicação em Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
-    "id": "1165",
-    "image": "courses/HUZmfizPxBK8fkVGmZa8mQ8GOHla6eWYgWppdP0X.png",
-    "titulo": "FASHION MARKETING E BRANDING: GESTÃO DE ESTRATÉGICA DA MARCAS",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Fashion Marketing & Branding: Gestão de Estratégica das Marcas, tem como objetivo fornecer ferramentas ao profissional para que esteja apto para criar, planejar, gerenciar e implementar planos de marketing e branding em empresas de moda ou relacionadas ao segmento; Preparar o egresso para gerenciar projetos em diversas áreas, uma vez que poderá aplicar os conceitos do visual merchandising e branding ampliando a experiência de marca e do cliente. Além do mais aprenderá a aplicação do neuromarketing, o uso do CRM, bem como as ferramentas e técnicas utilizadas no mercado de consumo. Assim estará antenado com as mais recentes tendências do mercado.",
-      "publico_alvo": "O curso de Pós-graduação Fashion Marketing & Branding: Gestão de Estratégica das Marcas, é voltado aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Gestão Estratégica de Branding e Inovação",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Comunicação e Crítica de Moda Contemporânea",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Experiência de Compra e Visual Merchandising",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Fashion Marketing - Marketing aplicado na Moda",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "E-commerce e Vendas Omnichannel",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Teoria da Moda e Design      ",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
+        "id": "1165",
+        "image": "courses/HUZmfizPxBK8fkVGmZa8mQ8GOHla6eWYgWppdP0X.png",
+        "titulo": "FASHION MARKETING E BRANDING: GESTÃO DE ESTRATÉGICA DA MARCAS",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Fashion Marketing & Branding: Gestão de Estratégica das Marcas, tem como objetivo fornecer ferramentas ao profissional para que esteja apto para criar, planejar, gerenciar e implementar planos de marketing e branding em empresas de moda ou relacionadas ao segmento; Preparar o egresso para gerenciar projetos em diversas áreas, uma vez que poderá aplicar os conceitos do visual merchandising e branding ampliando a experiência de marca e do cliente. Além do mais aprenderá a aplicação do neuromarketing, o uso do CRM, bem como as ferramentas e técnicas utilizadas no mercado de consumo. Assim estará antenado com as mais recentes tendências do mercado.",
+          "publico_alvo": "O curso de Pós-graduação Fashion Marketing & Branding: Gestão de Estratégica das Marcas, é voltado aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão Estratégica de Branding e Inovação",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Comunicação e Crítica de Moda Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Experiência de Compra e Visual Merchandising",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Fashion Marketing - Marketing aplicado na Moda",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "E-commerce e Vendas Omnichannel",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Teoria da Moda e Design      ",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "680 h"
           }
-        ],
-        "carga_horaria_total": "680 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "coaching",
-    "id": "426",
-    "image": "courses/2uKPK4fNuA0hk6gZOUECSU1fGQMadqEiavJpFaQi.png",
-    "titulo": "COACHING",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Coaching mostra como perceber a importância do coaching para promover a autoestima, autoconfiança para o sucesso das relações interpessoais no trabalho e fora dele.",
-      "publico_alvo": "O curso de Pós-graduação em Coaching, destina-se a Destina-se a diretores, gerentes, coordenadores, supervisores e líderes de grupo que necessitam obter melhores resultados das equipes, bem como a profissionais das mais diversas áreas do conhecimento e que possuam diploma de ensino superior.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Gestão e desenvolvimento de carreiras",
-            "ch": "80 h"
-          },
-          {
-            "n": "02",
-            "nome": "Fundamentos do Coaching",
-            "ch": "80 h"
-          },
-          {
-            "n": "03",
-            "nome": "Retórica e Oratória",
-            "ch": "80 h"
-          },
-          {
-            "n": "04",
-            "nome": "Mediação de Conflitos",
-            "ch": "80 h"
-          },
-          {
-            "n": "05",
-            "nome": "Ferramentas do Coaching",
-            "ch": "80 h"
-          },
-          {
-            "n": "06",
-            "nome": "Liderança – Coaching e Coachee",
-            "ch": "80 h"
-          },
-          {
-            "n": "07",
-            "nome": "Docência do Ensino Superior",
-            "ch": "50 h"
-          },
-          {
-            "n": "08",
-            "nome": "Metodologia Científica",
-            "ch": "50 h"
-          },
-          {
-            "n": "09",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "50 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching",
+        "id": "426",
+        "image": "courses/2uKPK4fNuA0hk6gZOUECSU1fGQMadqEiavJpFaQi.png",
+        "titulo": "COACHING",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Coaching mostra como perceber a importância do coaching para promover a autoestima, autoconfiança para o sucesso das relações interpessoais no trabalho e fora dele.",
+          "publico_alvo": "O curso de Pós-graduação em Coaching, destina-se a Destina-se a diretores, gerentes, coordenadores, supervisores e líderes de grupo que necessitam obter melhores resultados das equipes, bem como a profissionais das mais diversas áreas do conhecimento e que possuam diploma de ensino superior.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Gestão e desenvolvimento de carreiras",
+                "ch": "80 h"
+              },
+              {
+                "n": "02",
+                "nome": "Fundamentos do Coaching",
+                "ch": "80 h"
+              },
+              {
+                "n": "03",
+                "nome": "Retórica e Oratória",
+                "ch": "80 h"
+              },
+              {
+                "n": "04",
+                "nome": "Mediação de Conflitos",
+                "ch": "80 h"
+              },
+              {
+                "n": "05",
+                "nome": "Ferramentas do Coaching",
+                "ch": "80 h"
+              },
+              {
+                "n": "06",
+                "nome": "Liderança – Coaching e Coachee",
+                "ch": "80 h"
+              },
+              {
+                "n": "07",
+                "nome": "Docência do Ensino Superior",
+                "ch": "50 h"
+              },
+              {
+                "n": "08",
+                "nome": "Metodologia Científica",
+                "ch": "50 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "50 h"
+              }
+            ],
+            "carga_horaria_total": "630 h"
           }
-        ],
-        "carga_horaria_total": "630 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "coaching-educacional",
-    "id": "1086",
-    "image": "courses/bgwcdvKdPoQyowz4ZcycmLdXzt6dmkTjqmp6CWlE.png",
-    "titulo": "COACHING EDUCACIONAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Coaching Educacional, tem como objetivo agregar à formação pessoal e profissional dos profissionais da educação o desenvolvimento de competências e habilidades importantes, tais como: comunicação assertiva, capacidade de escuta, relacionamento interpessoal, negociação, flexibilidade, gestão da mudança, gestão da equipe, habilidade de feedback, gestão do tempo com melhor produtividade, inovação e criatividade.",
-      "publico_alvo": "O curso de Pós-graduação Coaching Educacional, destina-se a profissionais da Educação (pedagogos, professores, gestores escolares, coordenadores, orientadores educacionais, psicopedagogos, psicólogos) e interessados em geral possuidores de nível superior.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Projeto de Vida do Estudante",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Coaching e Programação Neurolinguística para Educadores",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Planejamento e Ação na Educação - Ferramentas de Coaching",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Produtividade e Organização na Educação - Gestão do Tempo",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Comunicação e Inteligência Emocional no Cuidado de Educação",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Coaching e Design Thinking como Modelos de Inovação em Educação",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Gestão da Mudança - Agente de Mudança no Ambiente Educacional",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Coaching e Liderança na Educação - Autodesenvolvimento e Desenvolvimento de Equipes de Alta Performance",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching-educacional",
+        "id": "1086",
+        "image": "courses/bgwcdvKdPoQyowz4ZcycmLdXzt6dmkTjqmp6CWlE.png",
+        "titulo": "COACHING EDUCACIONAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Coaching Educacional, tem como objetivo agregar à formação pessoal e profissional dos profissionais da educação o desenvolvimento de competências e habilidades importantes, tais como: comunicação assertiva, capacidade de escuta, relacionamento interpessoal, negociação, flexibilidade, gestão da mudança, gestão da equipe, habilidade de feedback, gestão do tempo com melhor produtividade, inovação e criatividade.",
+          "publico_alvo": "O curso de Pós-graduação Coaching Educacional, destina-se a profissionais da Educação (pedagogos, professores, gestores escolares, coordenadores, orientadores educacionais, psicopedagogos, psicólogos) e interessados em geral possuidores de nível superior.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Projeto de Vida do Estudante",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Coaching e Programação Neurolinguística para Educadores",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Planejamento e Ação na Educação - Ferramentas de Coaching",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Produtividade e Organização na Educação - Gestão do Tempo",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Comunicação e Inteligência Emocional no Cuidado de Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Coaching e Design Thinking como Modelos de Inovação em Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Gestão da Mudança - Agente de Mudança no Ambiente Educacional",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Coaching e Liderança na Educação - Autodesenvolvimento e Desenvolvimento de Equipes de Alta Performance",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "coaching-em-enfermagem",
-    "id": "1087",
-    "image": "courses/nSQ8jICmRIJtPUgMl6lVDjOFBGRupbFWimD62gtw.png",
-    "titulo": "COACHING EM ENFERMAGEM",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Coaching em Enfermagem, tem como objetivo agregar à formação pessoal e profissional dos alunos enfermeiros o desenvolvimento de competências e habilidades importantes, tais como: comunicação assertiva, capacidade de escuta, relacionamento interpessoal, negociação, flexibilidade, gestão da mudança, gestão da equipe, habilidade de feedback, gestão do tempo com melhor produtividade, inovação e criatividade.",
-      "publico_alvo": "O curso de Pós-graduação Coaching em Enfermagem, destina-se a Enfermeiros de qualquer especialidade que, através da autoliderança e ferramentas de Coaching, almejam potencializar sua performance e maximizar os resultados em sua vida e carreira.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira De Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Introdução ao Coaching",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Coaching e Liderança na Enfermagem",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Neuro Coaching e Psicologia Positiva",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Planejamento e Ação - Ferramentas de Coaching",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Produtividade e Organização - Gestão do Tempo",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Programação Neurolinguística para Enfermagem",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Gestão da Mudança - Como ser um Agente de Mudança",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Comunicação e Inteligência Emocional no Desenvolvimento de Equipes (Autoconhecimento, Relacionamento Interpessoal, Tomada de Decisão, Feedback)",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching-em-enfermagem",
+        "id": "1087",
+        "image": "courses/nSQ8jICmRIJtPUgMl6lVDjOFBGRupbFWimD62gtw.png",
+        "titulo": "COACHING EM ENFERMAGEM",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Coaching em Enfermagem, tem como objetivo agregar à formação pessoal e profissional dos alunos enfermeiros o desenvolvimento de competências e habilidades importantes, tais como: comunicação assertiva, capacidade de escuta, relacionamento interpessoal, negociação, flexibilidade, gestão da mudança, gestão da equipe, habilidade de feedback, gestão do tempo com melhor produtividade, inovação e criatividade.",
+          "publico_alvo": "O curso de Pós-graduação Coaching em Enfermagem, destina-se a Enfermeiros de qualquer especialidade que, através da autoliderança e ferramentas de Coaching, almejam potencializar sua performance e maximizar os resultados em sua vida e carreira.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira De Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Introdução ao Coaching",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Coaching e Liderança na Enfermagem",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Neuro Coaching e Psicologia Positiva",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Planejamento e Ação - Ferramentas de Coaching",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Produtividade e Organização - Gestão do Tempo",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Programação Neurolinguística para Enfermagem",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Gestão da Mudança - Como ser um Agente de Mudança",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Comunicação e Inteligência Emocional no Desenvolvimento de Equipes (Autoconhecimento, Relacionamento Interpessoal, Tomada de Decisão, Feedback)",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "marketing-e-coaching",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "coaching-juridico",
-    "id": "1091",
-    "image": "courses/odqigsTzfQLRLOUjGlyG5QeVphmxIgydhX7LAxR7.png",
-    "titulo": "COACHING JURÍDICO",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Coaching Jurídico, tem como objetivo desenvolver e potencializar competências e habilidades a serem aplicadas ao universo jurídico, como empreendedorismo, marketing, gestão pessoal e profissional, técnicas de estudo para carreiras públicas, inteligência emocional e autocontrole, bem como promover a autoconsciência para uma qualidade de vida melhor através de atitudes propositivas e de satisfação. Como uma metodologia eficiente, por intermédio de suas ferramentas, conceitos e estratégias, o Coaching impulsionará o atingimento de metas e de resultados esperados a partir da elevação de performance e produtividade.",
-      "publico_alvo": "O curso de Pós-graduação Coaching Jurídico, destina-se a todo graduado que deseja potencializar suas competências, evoluir como pessoa e como profissional, especialmente, bacharéis, advogados, professores, operadores do Direito, concursados, servidores públicos, gestores, executivos e demais profissionais liberais. A presente especialização não exige conhecimento jurídico prévio.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Introdução ao Coaching Jurídico",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Coaching e Desenvolvimento Humano",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Coaching Jurídico na Prática - Ferramentas",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Coaching para Advogados e Gestão Jurídica",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Empreendedorismo Jurídico e Marketing",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Psicologia Comportamental e Autocontrole Emociona",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Técnicas de Estudo e Inteligência Emocional para Concourses",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Chave de Transformação para um Mindset Empreendedor, Inovador e de Crescimento",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching-juridico",
+        "id": "1091",
+        "image": "courses/odqigsTzfQLRLOUjGlyG5QeVphmxIgydhX7LAxR7.png",
+        "titulo": "COACHING JURÍDICO",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Coaching Jurídico, tem como objetivo desenvolver e potencializar competências e habilidades a serem aplicadas ao universo jurídico, como empreendedorismo, marketing, gestão pessoal e profissional, técnicas de estudo para carreiras públicas, inteligência emocional e autocontrole, bem como promover a autoconsciência para uma qualidade de vida melhor através de atitudes propositivas e de satisfação. Como uma metodologia eficiente, por intermédio de suas ferramentas, conceitos e estratégias, o Coaching impulsionará o atingimento de metas e de resultados esperados a partir da elevação de performance e produtividade.",
+          "publico_alvo": "O curso de Pós-graduação Coaching Jurídico, destina-se a todo graduado que deseja potencializar suas competências, evoluir como pessoa e como profissional, especialmente, bacharéis, advogados, professores, operadores do Direito, concursados, servidores públicos, gestores, executivos e demais profissionais liberais. A presente especialização não exige conhecimento jurídico prévio.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Introdução ao Coaching Jurídico",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Coaching e Desenvolvimento Humano",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Coaching Jurídico na Prática - Ferramentas",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Coaching para Advogados e Gestão Jurídica",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Empreendedorismo Jurídico e Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Psicologia Comportamental e Autocontrole Emociona",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Técnicas de Estudo e Inteligência Emocional para Concourses",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Chave de Transformação para um Mindset Empreendedor, Inovador e de Crescimento",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
       }
-    },
-    "area": "marketing-e-coaching",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
+    ],
+    "threeHundredSixty": [
+      {
+        "url": "coaching-360",
+        "id": "5741",
+        "image": "não disponível",
+        "titulo": "COACHING (360H)",
+        "conteudo": {
+          "objetivos": "a) Perceber a importância do coaching para promover a autoestima, autoconfiança para o sucesso das relações interpessoais no trabalho e fora dele. b) Compreender que o coaching é uma ferramenta poderosa para garantir qualidade nos processos internos e externos das instituições.",
+          "publico_alvo": "O Curso de Pós-graduação em Coaching, destina-se a diretores, gerentes, coordenadores, supervisores e líderes de grupo que necessitam obter melhores resultados das equipes, bem como a profissionais das mais diversas áreas do conhecimento e que possuam diploma de ensino superior. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Gestão e desenvolvimento de carreiras",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Fundamentos do Coaching",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Retórica e Oratória",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Mediação de Conflitos",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Ferramentas do Coaching",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Liderança – Coaching e Coachee",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching-em-enfermagem-360",
+        "id": "7738",
+        "image": "não disponível",
+        "titulo": "COACHING EM ENFERMAGEM (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Coaching em Enfermagem, tem como objetivo agregar à formação pessoal e profissional dos alunos enfermeiros o desenvolvimento de competências e habilidades importantes, tais como: comunicação assertiva, capacidade de escuta, relacionamento interpessoal, negociação, flexibilidade, gestão da mudança, gestão da equipe, habilidade de feedback, gestão do tempo com melhor produtividade, inovação e criatividade.",
+          "publico_alvo": "O Curso de Pós-graduação Coaching em Enfermagem, destina-se a Enfermeiros de qualquer especialidade que, através da autoliderança e ferramentas de Coaching, almejam potencializar sua performance e maximizar os resultados em sua vida e carreira. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução ao Coaching",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Coaching e Liderança na Enfermagem",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Neuro Coaching e Psicologia Positiva",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Planejamento e Ação - Ferramentas de Coaching",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Produtividade e Organização - Gestão do Tempo",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Programação Neurolinguística para Enfermagem",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gestão da Mudança - Como ser um Agente de Mudança",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Comunicação e Inteligência Emocional no Desenvolvimento de Equipes (Autoconhecimento, Relacionamento Interpessoal, Tomada de Decisão, Feedback)",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "coaching-juridico-360",
+        "id": "0510",
+        "image": "não disponível",
+        "titulo": "COACHING JURÍDICO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Coaching Jurídico, tem como objetivo desenvolver e potencializar competências e habilidades a serem aplicadas ao universo jurídico, como empreendedorismo, marketing, gestão pessoal e profissional, técnicas de estudo para carreiras públicas, inteligência emocional e autocontrole, bem como promover a autoconsciência para uma qualidade de vida melhor através de atitudes propositivas e de satisfação. Como uma metodologia eficiente, por intermédio de suas ferramentas, conceitos e estratégias, o Coaching impulsionará o atingimento de metas e de resultados esperados a partir da elevação de performance e produtividade.",
+          "publico_alvo": "O Curso de Pós-graduação Coaching Jurídico, destina-se a todo graduado que deseja potencializar suas competências, evoluir como pessoa e como profissional, especialmente, bacharéis, advogados, professores, operadores do Direito, concursados, servidores públicos, gestores, executivos e demais profissionais liberais. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "04",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução ao Coaching Jurídico",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Coaching e Desenvolvimento Humano",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Coaching Jurídico na Prática - Ferramentas",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Coaching para Advogados e Gestão Jurídica",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Empreendedorismo Jurídico e Marketing",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Psicologia Comportamental e Autocontrole Emocional",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Técnicas de Estudo e Inteligência Emocional para Concursos",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Chave de Transformação para um Mindset Empreendedor, Inovador e",
+                "ch": "35 h"
+              },
+              {
+                "n": "",
+                "nome": "de Crescimento",
+                "ch": ""
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "comunicacao-digital-360",
+        "id": "9655",
+        "image": "não disponível",
+        "titulo": "COMUNICAÇÃO DIGITAL (360h)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Comunicação Digital, tem como objetivo suprir a lacuna de formação de especialistas em Comunicação Digital no mercado de trabalho de Belo Horizonte, Minas Gerais e Brasil por meio de um programa que capacite os profissionais para atuar no planejamento, design, produção e gestão de projetos de comunicação digital.",
+          "publico_alvo": "O Curso de Pós-graduação Comunicação Digital, destina-se a egressos dos cursos de Publicidade, Jornalismo, Marketing, Jogos Digitais, Design, Belas Artes ou afins que buscam capacitação e novas perspectivas para sua inserção no mercado, egressos do curso de Produção Multimídia que buscam aprofundar seus conhecimentos adquiridos ao longo da graduação, profissionais de mercado que tenham interesse em aprofundar nos conhecimentos envolvidos em Comunicação Digital. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Produção Web",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Comunicação e Cultura Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Publicidade na Internet",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Redes e mídias sociais",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Planejamento e Comunicação para a Mídia Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Empreendedorismo digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing em mídias digitas interativas",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "fashion-marketing-e-branding-gestao-de-estrategia-das-marcas-360",
+        "id": "5642",
+        "image": "não disponível",
+        "titulo": "FASHION MARKETING E BRANDING: GESTÃO DE ESTRATÉGIA DAS MARCAS (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Fashion Marketing & Branding: Gestão de Estratégica das Marcas, tem como objetivo fornecer ferramentas ao profissional para que esteja apto para criar, planejar, gerenciar e implementar planos de marketing e branding em empresas de moda ou relacionadas ao segmento; preparar o egresso para gerenciar projetos em diversas áreas, uma vez que poderá aplicar os conceitos do visual merchandising e branding ampliando a experiência de marca e do cliente. Além do mais aprenderá a aplicação do neuromarketing, o uso do CRM, bem como as ferramentas e técnicas utilizadas no mercado de consumo. Assim estará antenado com as mais recentes tendências do mercado.",
+          "publico_alvo": "O Curso de Pós-graduação Fashion Marketing & Branding: Gestão de Estratégica das Marcas, é voltado aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Gestão Estratégica de Branding e Inovação",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Comunicação e Crítica de Moda Contemporânea",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Experiência de Compra e Visual Merchandising",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fashion Marketing - Marketing aplicado na Moda",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "E-Commerce E Vendas Omnichannel",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Teoria da Moda e Design",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "geomarketing-e-inteligencia-de-mercado-360",
+        "id": "5323",
+        "image": "não disponível",
+        "titulo": "GEOMARKETING E INTELIGÊNCIA DE MERCADO (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, tem por objetivos adaptar a oferta de produtos, considerando a segmentação espacial e a influência da regionalização de pontos ou áreas de vendas; Alocar investimentos através do estudo da localização ideal de pontos de vendas, considerando a distribuição geográfica/espacial dos clientes, fornecedores e concorrentes; Da mesma forma, considerar o espaço, e as suas características socioeconômicas, como elemento principal de apoio para a definição do preço de produtos ou estratégias de vendas; Definir objetivos, visando oportunidades de crescimento e expansão, em função da atratividade ou características (singularidades) espaciais, locais e regionais; Otimização de rotas para definir/redefinido regiões (territórios) de vendas, entregas ou assistência técnica; Reduzir custos, buscando aumentar a eficiência, através do direcionamento de campanhas publicitárias (distribuídas espacialmente) em função das características econômicas ou culturais dos clientes em potencial.",
+          "publico_alvo": "O curso de Pós-graduação em Geomarketing e Inteligência de Mercado, é destinado a profissionais de Marketing, Gestores, Engenheiros, Geógrafos, Administradores de Empresas, Economistas e demais profissionais que atuam ou desejam atuar na área de Geomarketing e Inteligência de Mercado.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "Metodologia Científica"
+              },
+              {
+                "n": "02",
+                "nome": "Big Data e Gestão de Dados",
+                "ch": "Big Data e Gestão de Dados"
+              },
+              {
+                "n": "03",
+                "nome": "Localização e Implementação de Negócios",
+                "ch": "Localização e Implementação de Negócios"
+              },
+              {
+                "n": "04",
+                "nome": "Geoprocessamento Aplicado",
+                "ch": "Geoprocessamento Aplicado"
+              },
+              {
+                "n": "05",
+                "nome": "Geomarketing e Inteligência de Mercado",
+                "ch": "Geomarketing e Inteligência de Mercado"
+              },
+              {
+                "n": "06",
+                "nome": "Estatística Espacial e Geoestatística",
+                "ch": "Estatística Espacial e Geoestatística"
+              },
+              {
+                "n": "07",
+                "nome": "Geoinformação e Fundamentos de Geomarketing",
+                "ch": "Geoinformação e Fundamentos de Geomarketing"
+              },
+              {
+                "n": "08",
+                "nome": "Cartografia",
+                "ch": "Cartografia"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "Trabalho De Conclusão De Curso - TCC"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "gestao-estrategica-de-marketing-360",
+        "id": "0409",
+        "image": "não disponível",
+        "titulo": "GESTÃO ESTRATÉGICA DE MARKETING (360H)",
+        "conteudo": {
+          "objetivos": "O curso de pós-graduação em Gestão Estratégica de Marketing tem como objetivo oferecer aos participantes oportunidades de desenvolver conhecimentos e habilidades em análise de mercados e de cenários, identificação de oportunidades, desenvolvimento de abordagens de posicionamento de marcas e produtos, além de coordenar equipes e administrar processos.",
+          "publico_alvo": "A pós-graduação em Gestão Estratégica de Marketing destina-se a profissionais com graduação em Administração, Engenharia, Economia, Ciências Contábeis, Direito e outros, preferencialmente aqueles que atuem ou pretendam atuar na área de Marketing. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Marketing de Busca",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Fundamentos de Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Economia e Mercado",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Operações em e-commerce",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Produção de Conteúdo para Mídia Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Mobile Marketing",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "influencia-digital-conteudo-e-estrategia-360",
+        "id": "2696",
+        "image": "não disponível",
+        "titulo": "INFLUÊNCIA DIGITAL- CONTEÚDO E ESTRATÉGIA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Influência Digital: Conteúdo e Estratégia, tem como objetivo especializar profissionais para conhecer, compreender e utilizar os recursos das novas tecnologias digitais",
+          "publico_alvo": "O Curso de Pós-graduação Influência Digital: Conteúdo e Estratégia, destina-se à profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade, Design, Tecnologia da Informação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Cultura Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Links Patrocinados",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Criação de Conteúdo",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Publicidade e Propaganda",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Mídias Sociais",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Marketing Afiliados",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing de Display",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Direito Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Vídeo Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Estratégia Marketing Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-360",
+        "id": "6941",
+        "image": "não disponível",
+        "titulo": "MARKETING (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Marketing, tem como objetivo capacitar profissionais a planejar, propor estratégias, definir, executar e gerir as táticas de marketing, medindo e avaliando sua eficácia no contexto organizacional, estruturar soluções criativas e tecnológicas, sendo agente propulsor da busca de tendências e de inovação para o negócio, propondo soluções de marketing, assim como elaborar planos de marketing, com base na inovação, conhecimento sobre o consumidor e as tecnologias com o intuito de promover a marca do cliente e executar planos de marketing, organizando suas ações, a fim de que os planos sejam consistentes, inovadores e geradores de resultados para as organizações.",
+          "publico_alvo": "O Curso de Pós-graduação em Marketing, destina-se a profissionais graduados nas áreas de Comunicação Social, Administradores e gestores de empresas que queiram se especializar em Marketing. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "02",
+                "nome": "Fundamentos do Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Código de Defesa do Consumidor",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gestão Estratégica em Comunicação",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Planejamento e comunicação em Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "TICDIS",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão de Recursos Humanos",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho De Conclusão De Curso – TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-digital-360",
+        "id": "1767",
+        "image": "não disponível",
+        "titulo": "MARKETING DIGITAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Marketing Digital, tem como objetivo desenvolver profissionais para atuarem na era digital, com visão estratégica e conhecimento técnico para planejar ações criativas e inovadoras de marketing e comunicação digital. O programa visa consolidar conhecimentos de marketing e comunicação digital dentro de uma visão contemporânea e adequada ao comportamento da sociedade atual.",
+          "publico_alvo": "O Curso de Pós-graduação em Marketing Digital, destina-se a aos profissionais de Administração, Comunicação, Tecnologia da Informação, Desenvolvimento WEB, Engenharia de Produto, Design de Produto e executivos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Planejamento e Comunicação em Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Produção e Conteúdo para Mídia Digital",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Mobile Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Design, Interface e Usabilidade",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Branding e Pesquisa de Mercado",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Search Marketing e Otimização",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing Digital e Redes Sociais Web",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-comunicacao-empresarial-360",
+        "id": "1325",
+        "image": "não disponível",
+        "titulo": "MARKETING E COMUNICAÇÃO EMPRESARIAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Marketing e Comunicação Empresarial, tem como objetivo proporcionar aos alunos uma ampla base de conhecimentos avançados e direcionados especificamente à gestão das estratégias das referidas áreas, proporcionando aos profissionais uma gama de conhecimentos fundamentais para um desempenho diferenciado no ambiente mercadológico. Foi planejado para aqueles que buscam posicionar-se à frente das tendências que surgem diariamente em consequência da dinâmica dos negócios, utilizando os conceitos fundamentais e práticos do Marketing, considerando o cenário econômico-financeiro global. Implementa os processos estratégicos e operacionais de Marketing por meio das mais avançadas técnicas. Debate e apresenta estudos de casos, assim como elabora um plano de negócios de um produto ou serviço de uma empresa real.",
+          "publico_alvo": "O Curso de Pós-graduação Marketing e Comunicação Empresarial, destina-se a profissionais graduados em administração de empresas, marketing, consultores e executivos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Fundamentos de Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Marketing de Serviços",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Os 4 p’s (pesquisa de mercado, propaganda, promoção e preço)",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Comportamento do consumidor e marketing de relacionamento",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Marketing de Marcas para Produtos e Serviços",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Negociação e Marketing Empresarial",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing para a Gestão da Qualidade",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Planejamento e Comunicação em Marketing",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-inteligencia-de-mercado-360",
+        "id": "9214",
+        "image": "não disponível",
+        "titulo": "MARKETING E INTELIGÊNCIA DE MERCADO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Marketing e Inteligência de Mercado, tem como objetivo possibilitar aos alunos o entendimento de ambientes de alta competitividade, com o uso de modernas ferramentas nas diversas disciplinas abordadas no curso. Além de desenvolver uma visão crítica do processo de Marketing Estratégico e Inteligência de Mercado, expandindo as possibilidades de compreensão das soluções para os problemas relacionados a informações e gestão.",
+          "publico_alvo": "O Curso de Pós-graduação Marketing e Inteligência de Mercado, destina-se a profissionais da área de marketing, Analistas, planejadores e estrategistas de mercado, gestores de marketing, comunicação e relacionamento com o consumidor. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Estratégia Empresarial",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Marketing Estratégico",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Pesquisa e Dimensionamento de Mercado",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Inteligência de Mercado",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Internet Marketing e Mídias Sociais",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Distribuição e logística",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Mídias sociais aplicadas ao mercado",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gestão aplicada a inteligência de mercado",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-meio-ambiente-360",
+        "id": "2584",
+        "image": "não disponível",
+        "titulo": "MARKETING E MEIO AMBIENTE (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós- Graduação em Marketing e Meio Ambiente, tem como objetivo preparar o aluno para desenvolver e executar estratégias inovadoras de marketing, visando a interação da teoria e a informação ambiental, rumo ao desenvolvimento sustentável e a consciência sócio ambiental.",
+          "publico_alvo": "O Curso de Pós- Graduação em Marketing e Meio Ambiente destina-se graduados em Administração, Gestão Ambiental, Marketing e Comunicação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "02",
+                "nome": "Responsabilidade Socioambiental",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Planejamento e comunicação em Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Relação Marketing e Meio Ambiente",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Marketing Ambiental",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Fundamentos do Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Comunicação Socioambiental",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho De Conclusão De Curso– TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "marketing-e-redes-sociais-360",
+        "id": "5134",
+        "image": "não disponível",
+        "titulo": "MARKETING E REDES SOCIAIS (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Marketing e Redes Sociais, tem como objetivo proporciona aos alunos uma visão integrada do Marketing Digital, capacitando os profissionais a desenvolver planejamentos de mídia digital, criar campanhas online eficazes e construir o posicionamento de marcas no ambiente digital.",
+          "publico_alvo": "O Curso de Pós-graduação Marketing e Redes Sociais, destina-se a profissionais graduados nas áreas de Marketing e Comunicação Social. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução às Redes Sociais",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Comunicação Corporativa e outras Ferramentas para a Sustentabilidade Corporativa",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gestão Estratégica e Marketing de Negócios Digitais",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Marketing Digital e Redes Sociais Web",
+                "ch": "80 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gestão de Tecnologias Digitais",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Planejamento Estratégico de Marketing",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Comportamento do Consumidor na Internet",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "publicidade-e-propaganda-360",
+        "id": "3703",
+        "image": "não disponível",
+        "titulo": "PUBLICIDADE E PROPAGANDA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Publicidade e Propaganda, tem como objetivo atualizar os conhecimentos dos profissionais nas áreas de Propaganda e publicidade, e prepará-los para que desenvolvam a capacidade de atuar em empresas e agências elaborando estratégias e ações de divulgação.",
+          "publico_alvo": "O Curso de Pós-graduação Publicidade e Propaganda, destina-se a profissionais que possuem diploma de curso superior, nas áreas de Comunicação, Marketing, Relações Públicas, Publicidade e Design. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "35 h"
+              },
+              {
+                "n": "02",
+                "nome": "Textualidade",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Linguagem Visual",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Fundamentos da Publicidade",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "PBL - Edição de Imagens Raster",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "História da Publicidade e Propaganda",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Estética e Design Aplicado à Publicidade",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Criação e Produção Publicitária Impressa",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Teorias Contemporâneas da Comunicação e Análise Crítica das Mídias e",
+                "ch": "40 h"
+              },
+              {
+                "n": "",
+                "nome": "suas Narrativas",
+                "ch": ""
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "trade-marketing-360",
+        "id": "1452",
+        "image": "não disponível",
+        "titulo": "TRADE MARKETING (360h)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Trade Marketing, visa estimular o consumo de produtos nos diferentes canais de distribuição seja varejo ou atacado. Uma das estratégias mais antigas de Marketing, o Trade Marketing, é uma prática fundamental para empresas produtoras que querem ver suas mercadorias em destaque. Tem como objetivo também, aumentar as vendas acompanhando o crescimento do mercado e a mudança de hábitos dos clientes.",
+          "publico_alvo": "O Curso de Pós-graduação Trade Marketing, destina-se a graduados das diversas áreas de gestão e que atuam nas áreas de Trade Marketing, Marketing, Vendas e Comunicação em indústrias de produtos de consumo, redes varejistas e distribuidores. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Gestão de Pessoas",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gestão de Marketing",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Estratégia Empresarial",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Introdução ao Trade Marketing",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Shopper Marketing e E-Commerce",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão em Vendas",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Comunicação e Marketing Pessoal",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Estratégias de Marketing, Preços e Vendas",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      }
+    ]
   }
 ]

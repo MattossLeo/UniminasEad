@@ -65,8 +65,8 @@ function course_area($area){
         'gestao-e-logistica-e-economia' => 'Gestão, Logística e Economia',
         'marketing-e-coaching' => 'Marketing e Coaching',
         'meio-ambiente' => 'Meio Ambiente',
-        'saude-e-estetica-e-farmacia' => 'Saúde, Estética e Fármacia',
-        'seguranca-publica' => 'Segurança Publica',
+        'saude-e-estetica-e-farmacia' => 'Saúde, Estética e Farmácia',
+        'seguranca-publica' => 'Segurança Pública',
         'tecnologia-da-informacao' => 'Tecnologia da Informação',
     ];
 
@@ -77,28 +77,36 @@ function course_area($area){
     }
 }
 
-/*Paginação*/
+/* Paginação */
 function load_more_courses() {
     $per_page = 6; // Número de cursos por página
-    $page = $_POST['page'];
+    $page = isset($_POST['page']) ? (int)$_POST['page'] : 1;
     $area_name = $_POST['area'];
+    $category = $_POST['category'];
     $area_file = "{$area_name}";
 
     $courses_json_area = file_get_contents($area_file);
-    $decode_courses = json_decode($courses_json_area);
+    $decode_courses = json_decode($courses_json_area, true);
 
     $offset = ($page - 1) * $per_page;
 
+    // Seleciona a categoria correta
+    $selected_courses = $decode_courses[0][$category];
+
     // Prepara os cursos a serem enviados
     $courses_to_send = array();
-    for ($i = $offset; $i < min($offset + $per_page, count($decode_courses)); $i++) {
-        $course_name = $decode_courses[$i]->titulo;
-        $course_url = $decode_courses[$i]->url;
-        $course_objective = $decode_courses[$i]->conteudo->objetivos;
+    for ($i = $offset; $i < min($offset + $per_page, count($selected_courses)); $i++) {
+        $course_name = $selected_courses[$i]['titulo'];
+        $course_url = $selected_courses[$i]['url'];
+        $course_objective = $selected_courses[$i]['conteudo']['objetivos'];
+        $course_fake_price = $selected_courses[$i]['fakePrice'];
+        $course_price = $selected_courses[$i]['price'];
         $courses_to_send[] = array(
             'title' => $course_name,
-            'url' => $url . $course_url,
-            'objective' => mb_strimwidth($course_objective, '0', '140', '...')
+            'url' => $course_url,
+            'objective' => mb_strimwidth($course_objective, 0, 140, '...'),
+            'fakePrice' => $course_fake_price,
+            'price' => $course_price
         );
     }
 
@@ -108,6 +116,10 @@ function load_more_courses() {
 
 add_action('wp_ajax_load_more_courses', 'load_more_courses');
 add_action('wp_ajax_nopriv_load_more_courses', 'load_more_courses');
+
+
+
+
 
 /*Ajax Formularios*/
 function form_data_send(){
@@ -240,18 +252,17 @@ function normalizeString($str) {
 }
 
 /*Função de busca*/
-function search_courses(){
+function search_courses() {
     $json_courses = get_template_directory() . "/inc/course/areas.json";
     $courses_json_content = file_get_contents($json_courses);
     $courses_list = json_decode($courses_json_content, true);
     $jsonFiles = $courses_list['cursos'];
 
     if (isset($_POST['searchData'])) {
-
         $searchCourses = normalizeString($_POST['searchData']);
         $response = [];
 
-        $basePath = get_template_directory() ."/inc/course/";
+        $basePath = get_template_directory() . "/inc/course/";
 
         foreach ($jsonFiles as $jsonFile) {
             $filePath = $basePath . $jsonFile;
@@ -261,15 +272,24 @@ function search_courses(){
                 $courses = json_decode($course_content, true);
 
                 foreach ($courses as $course) {
-                    $tituloLower = normalizeString($course['titulo']);
-                    $urlLower = normalizeString($course['url']);
+                    if (isset($course['sevenHundredTwenty']) && isset($course['threeHundredSixty'])) {
+                        $combined_courses = array_merge($course['sevenHundredTwenty'], $course['threeHundredSixty']);
 
-                    if (mb_stripos($tituloLower, $searchCourses) !== false || mb_stripos($urlLower, $searchCourses) !== false) {
-                        $response[] = [
-                            'titulo' => $course['titulo'],
-                            'url' => $course['url'],
-                            'area' => $course['area']
-                        ];
+                        foreach ($combined_courses as $main_courses) {
+                            $tituloLower = normalizeString($main_courses['titulo']);
+                            $urlLower = normalizeString($main_courses['url']);
+
+                            if (mb_stripos($tituloLower, $searchCourses) !== false || mb_stripos($urlLower, $searchCourses) !== false) {
+                                // Depuração: Confirmar curso correspondente encontrado
+                               /* wp_send_json(["status" => "debug", "message" => "Curso correspondente encontrado", "data" => $main_courses]);*/
+
+                                $response[] = [
+                                    'titulo' => $main_courses['titulo'],
+                                    'url' => $main_courses['url'],
+                                    'area' => $main_courses['area']
+                                ];
+                            }
+                        }
                     }
                 }
             }
@@ -277,13 +297,18 @@ function search_courses(){
 
         header('Content-Type: application/json');
         wp_send_json($response);
-        die();
-        return json_encode($response);
     }
 }
 
 add_action('wp_ajax_search_courses', 'search_courses');
 add_action('wp_ajax_nopriv_search_courses', 'search_courses');
+
+
+add_action('wp_ajax_search_courses', 'search_courses');
+add_action('wp_ajax_nopriv_search_courses', 'search_courses');
+
+
+
 
 /*Função para o checkout*/
 function getQueryValues($url) {

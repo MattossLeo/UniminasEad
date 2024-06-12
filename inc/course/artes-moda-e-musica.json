@@ -1,1499 +1,2593 @@
 [
   {
-    "url": "musicoterapia",
-    "id": "27",
-    "image": "courses/asuHDx6SkV1F4i34pnr3mrmH5mLRRMl7InZTCwQF.png",
-    "titulo": "MUSICOTERAPIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Musicoterapia tem como objetivo contribuir para a formação de profissionais especializados em Musicoterapia, possibilitando a capacitação em diferentes níveis e práticas. Além de possibilitar que o profissional utilize a música para promover uma melhora ou manutenção da condição de saúde, no tratamento de pacientes com dificuldades físicas, cognitivas e emocionais.",
-      "publico_alvo": "O curso de Pós-graduação em Musicoterapia destina-se a graduados nas áreas de saúde, educação e música, com o objetivo de uma formação multiprofissional.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral e Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "60 h"
-          },
-          {
-            "n": "07",
-            "nome": "Avaliação em Musicoterapia",
-            "ch": "80 h"
-          },
-          {
-            "n": "08",
-            "nome": "Musicoterapia em grupo",
-            "ch": "80 h"
-          },
-          {
-            "n": "09",
-            "nome": "Docência do Ensino Superior",
-            "ch": "80 h"
-          },
-          {
-            "n": "10",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "Trabalho de Conclusão de Curso – TCC",
-            "ch": "40 h"
+    "sevenHundredTwenty":[
+      {
+        "url": "musicoterapia",
+        "id": "27",
+        "image": "courses/asuHDx6SkV1F4i34pnr3mrmH5mLRRMl7InZTCwQF.png",
+        "titulo": "MUSICOTERAPIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Musicoterapia tem como objetivo contribuir para a formação de profissionais especializados em Musicoterapia, possibilitando a capacitação em diferentes níveis e práticas. Além de possibilitar que o profissional utilize a música para promover uma melhora ou manutenção da condição de saúde, no tratamento de pacientes com dificuldades físicas, cognitivas e emocionais.",
+          "publico_alvo": "O curso de Pós-graduação em Musicoterapia destina-se a graduados nas áreas de saúde, educação e música, com o objetivo de uma formação multiprofissional.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral e Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Avaliação em Musicoterapia",
+                "ch": "80 h"
+              },
+              {
+                "n": "08",
+                "nome": "Musicoterapia em grupo",
+                "ch": "80 h"
+              },
+              {
+                "n": "09",
+                "nome": "Docência do Ensino Superior",
+                "ch": "80 h"
+              },
+              {
+                "n": "10",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "580 h"
           }
-        ],
-        "carga_horaria_total": "580 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "especializacao-em-regencia-coral",
-    "id": "288",
-    "image": "courses/e1q440SYYkl5nkrbzVzJyW9KEG6jEDdyjuKkySZz.png",
-    "titulo": "ESPECIALIZAÇÃO EM REGÊNCIA CORAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Especialização em Regência Coral, tem como objetivo preparar o aluno para a atividade de regência de grupos profissionais (corais) ou amadores (orfeões) de canto coral; apresentar ao aluno um panorama histórico do canto coral no Brasil, com ênfase na Música Colonial Mineira, no trabalho do Padre José Maurício Nunes Garcia (o brasileiro que é maior expressão barroca da América do Latina), no vasto repertório infantil brasileiro (músicas folclóricas, cirandas, cantigas de roda, et caetera), na música coral produzida por Villa-Lobos, no Modernismo Brasileiro e no repertório renascentista europeu mais expressivo, bem como apresentar um panorama do canto coral bachiano.",
-      "campo_de_atuacao": "O egresso poderá atuar como regente de corais ou de orfeões em igrejas, escolas, secretarias ou quaisquer entidades que promovam atividade coral; poderá ainda atuar como professor de música nas redes públicas ou privadas de ensino.",
-      "publico_alvo": "O curso de Pós-graduação em Especialização em Regência Coral destina-se a pessoas com curso superior completo e que queiram atuar como regentes de corais e/or orfeões; bacharéis e licenciados em música; graduados, tecnólogos ou licenciados, em qualquer área, que possuam interesse no campo da música coral.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "30 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "30 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "História do Canto Coral Brasileiro: Compositores e Escolas I",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "História do Canto Coral Brasileiro: Compositores e Escolas II",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Tópicos Especiais em Harmonia",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Tópicos Especiais em Polifonia",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "História da Regência",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Teorias e Escolas da Regência Coral",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sinais de Regência Coral e suas Escolas",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Prática de Regência I",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Prática de Regência II",
-            "ch": "40 h"
-          },
-          {
-            "n": "16",
-            "nome": "O Canto Orfeônico na Escola I - História e Políticas Públicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "17",
-            "nome": "O Canto Orfeônico na Escola II - Técnicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "18",
-            "nome": "O Canto Orfeônico na Escola III - Repertório",
-            "ch": "40 h"
-          },
-          {
-            "n": "19",
-            "nome": "Trabalho de Conclusão de Curso",
-            "ch": "20 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "especializacao-em-regencia-coral",
+        "id": "288",
+        "image": "courses/e1q440SYYkl5nkrbzVzJyW9KEG6jEDdyjuKkySZz.png",
+        "titulo": "ESPECIALIZAÇÃO EM REGÊNCIA CORAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Especialização em Regência Coral, tem como objetivo preparar o aluno para a atividade de regência de grupos profissionais (corais) ou amadores (orfeões) de canto coral; apresentar ao aluno um panorama histórico do canto coral no Brasil, com ênfase na Música Colonial Mineira, no trabalho do Padre José Maurício Nunes Garcia (o brasileiro que é maior expressão barroca da América do Latina), no vasto repertório infantil brasileiro (músicas folclóricas, cirandas, cantigas de roda, et caetera), na música coral produzida por Villa-Lobos, no Modernismo Brasileiro e no repertório renascentista europeu mais expressivo, bem como apresentar um panorama do canto coral bachiano.",
+          "campo_de_atuacao": "O egresso poderá atuar como regente de corais ou de orfeões em igrejas, escolas, secretarias ou quaisquer entidades que promovam atividade coral; poderá ainda atuar como professor de música nas redes públicas ou privadas de ensino.",
+          "publico_alvo": "O curso de Pós-graduação em Especialização em Regência Coral destina-se a pessoas com curso superior completo e que queiram atuar como regentes de corais e/or orfeões; bacharéis e licenciados em música; graduados, tecnólogos ou licenciados, em qualquer área, que possuam interesse no campo da música coral.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas I",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas II",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Tópicos Especiais em Harmonia",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Tópicos Especiais em Polifonia",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "História da Regência",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Teorias e Escolas da Regência Coral",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sinais de Regência Coral e suas Escolas",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Prática de Regência I",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Prática de Regência II",
+                "ch": "40 h"
+              },
+              {
+                "n": "16",
+                "nome": "O Canto Orfeônico na Escola I - História e Políticas Públicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "17",
+                "nome": "O Canto Orfeônico na Escola II - Técnicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "18",
+                "nome": "O Canto Orfeônico na Escola III - Repertório",
+                "ch": "40 h"
+              },
+              {
+                "n": "19",
+                "nome": "Trabalho de Conclusão de Curso",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "artes-pos-graduacao",
-    "id": "481",
-    "image": "courses/TdH3ANWCgFMfCynP2P7Y1jQnFgcQRHT3uUT6VU0l.png",
-    "titulo": "ARTES (PÓS GRADUAÇÃO)",
-    "conteudo": {
-      "objetivos": "O Curso de Pós-graduação em Artes, tem como objetivo proporciona conhecimentos teóricos e práticos que subsidiem a prática do professor de Artes focando a educação básica (Ensino Fundamental e Ensino Médio), tomando como base as concepções contemporâneas do ensino de artes.",
-      "publico_alvo": "O Curso de Pós-graduação em Artes, destina-se a graduados e licenciados, que atuem ou que pretendam atuar na área do ensino da Arte.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Arte nas Imagens do Cotidiano",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Fundamentos da História das Artes",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Fundamentos do Ensino da Arte na Educação",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Metodologia do Ensino de Artes",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Tecnologias e Poéticas Visuais",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "artes-pos-graduacao",
+        "id": "481",
+        "image": "courses/TdH3ANWCgFMfCynP2P7Y1jQnFgcQRHT3uUT6VU0l.png",
+        "titulo": "ARTES (PÓS GRADUAÇÃO)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Artes, tem como objetivo proporcionar conhecimentos teóricos e práticos que subsidiem a prática do professor de Artes focando a educação básica (Ensino Fundamental e Ensino Médio), tomando como base as concepções contemporâneas do ensino de artes.",
+          "publico_alvo": "O Curso de Pós-graduação em Artes, destina-se a graduados e licenciados, que atuem ou que pretendam atuar na área do ensino da Arte.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Arte nas Imagens do Cotidiano",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Fundamentos da História das Artes",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Fundamentos do Ensino da Arte na Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Metodologia do Ensino de Artes",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Tecnologias e Poéticas Visuais",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "580 h"
           }
-        ],
-        "carga_horaria_total": "580 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "artes-visuais",
-    "id": "482",
-    "image": "courses/ngkQsAJCDwLaLvBB3Efi4yrOOkyu2enJhi8mQRRg.png",
-    "titulo": "ARTES VISUAIS",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Artes Visuais, tem como objetivo estar direcionado a profissionais que desejam atuar na área do ensino da arte, mesmo que a primeira formação não seja em Artes Visuais, mas em áreas afins. Assim, o foco da especialização é complementar a formação, fornecendo ferramentas e refletindo sobre a especialidade do ensino de Artes.",
-      "publico_alvo": "O curso de Pós-graduação em Artes Visuais, destina-se a graduados em Artes, Filosofia, Sociologia, Arquitetura, História, Psicologia, Jornalismo, Publicidade, Comunicação, Turismo, Museologia.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Arte nas Imagens do Cotidiano",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Estética da Arte e Linguagem Visual",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Mecanismos da Arte Moderna e Contemporânea",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Fundamentos do Ensino da Arte na Educação",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Fundamentos e Elementos da Linguagem e da Criação em Artes Visuais",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Teoria de Análise de Imagens",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Metodologia do Ensino de Artes",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Aspectos da História da Artes – Educação no Brasil e no Mundo",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "artes-visuais",
+        "id": "482",
+        "image": "courses/ngkQsAJCDwLaLvBB3Efi4yrOOkyu2enJhi8mQRRg.png",
+        "titulo": "ARTES VISUAIS",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Artes Visuais, tem como objetivo estar direcionado a profissionais que desejam atuar na área do ensino da arte, mesmo que a primeira formação não seja em Artes Visuais, mas em áreas afins. Assim, o foco da especialização é complementar a formação, fornecendo ferramentas e refletindo sobre a especialidade do ensino de Artes.",
+          "publico_alvo": "O curso de Pós-graduação em Artes Visuais, destina-se a graduados em Artes, Filosofia, Sociologia, Arquitetura, História, Psicologia, Jornalismo, Publicidade, Comunicação, Turismo, Museologia.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Arte nas Imagens do Cotidiano",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Estética da Arte e Linguagem Visual",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Mecanismos da Arte Moderna e Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Fundamentos do Ensino da Arte na Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Fundamentos e Elementos da Linguagem e da Criação em Artes Visuais",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Teoria de Análise de Imagens",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Metodologia do Ensino de Artes",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Aspectos da História da Artes – Educação no Brasil e no Mundo",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "musica",
-    "id": "773",
-    "image": "courses/uN16HAwXLnmlkP7smKLIdSjInr4ZjtMdF8YxLCAD.jpeg",
-    "titulo": "MÚSICA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Música, promove a formação de profissional qualificado, desenvolvendo competências científicas e artísticas, bem como contribui para a produção de conhecimento filosófico, científico, artístico e tecnológico, de forma a proporcionar a difusão de conhecimento e contribuições à cultura brasileira.",
-      "publico_alvo": "O curso de Pós-graduação em Música destina-se a graduados em músicas, artes, pedagogia, teatro, áreas afins, bem como profissionais que desejam desenvolvimento de competências científicas e artísticas relacionadas a música.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "História da Música",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Psicologia, Música e Educação",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Arranjo para Musicalização Infantil",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Arranjo em Música Popular",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Sonologia e Estética Musical",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica",
+        "id": "773",
+        "image": "courses/uN16HAwXLnmlkP7smKLIdSjInr4ZjtMdF8YxLCAD.jpeg",
+        "titulo": "MÚSICA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Música, promove a formação de profissional qualificado, desenvolvendo competências científicas e artísticas, bem como contribui para a produção de conhecimento filosófico, científico, artístico e tecnológico, de forma a proporcionar a difusão de conhecimento e contribuições à cultura brasileira.",
+          "publico_alvo": "O curso de Pós-graduação em Música destina-se a graduados em músicas, artes, pedagogia, teatro, áreas afins, bem como profissionais que desejam desenvolvimento de competências científicas e artísticas relacionadas a música.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "História da Música",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Psicologia, Música e Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Arranjo para Musicalização Infantil",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Arranjo em Música Popular",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "580 h"
           }
-        ],
-        "carga_horaria_total": "580 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "musica-e-artes",
-    "id": "774",
-    "image": "courses/y8nYJfO6E9MjZsgIaXDRvSPSSRJdzqeHn1aM83Zw.png",
-    "titulo": "MÚSICA E ARTES",
-    "conteudo": {
-      "objetivos": "O curso de Pós-Graduação em Música e Artes tem como objetivo qualificar profissionais, docentes e pesquisadores de Música, artes e pedagogia a atuar de maneira crítica e reflexiva, com ênfase na especificidade artística da área e oportuniza ao participante conhecer e se atualizar sobre o ensino de Arte e música no âmbito educacional.",
-      "publico_alvo": "O curso de Pós-graduação em Música e Artes destina-se a graduados em Música, Artes e áreas afins.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais - Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06-14",
-            "nome": "Inovações Tecnológicas, Metodologias de Educação Musical, Fundamentos do Ensino da Arte, Linguagem da Arte na Educação Música, Teatro, Dança, Confecção de Instrumentos Musicais Artesanais, Métodos e Técnicas para a Educação Musical, Arteterapia e Oficinas de Arte, Estética da Arte e Linguagem Visual, Trabalho de Conclusão de Curso",
-            "ch": "40 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60h, 40h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica-e-artes",
+        "id": "774",
+        "image": "courses/y8nYJfO6E9MjZsgIaXDRvSPSSRJdzqeHn1aM83Zw.png",
+        "titulo": "MÚSICA E ARTES",
+        "conteudo": {
+          "objetivos": "O curso de Pós-Graduação em Música e Artes tem como objetivo qualificar profissionais, docentes e pesquisadores de Música, artes e pedagogia a atuar de maneira crítica e reflexiva, com ênfase na especificidade artística da área e oportuniza ao participante conhecer e se atualizar sobre o ensino de Arte e música no âmbito educacional.",
+          "publico_alvo": "O curso de Pós-graduação em Música e Artes destina-se a graduados em Música, Artes e áreas afins.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais - Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06-14",
+                "nome": "Inovações Tecnológicas, Metodologias de Educação Musical, Fundamentos do Ensino da Arte, Linguagem da Arte na Educação Música, Teatro, Dança, Confecção de Instrumentos Musicais Artesanais, Métodos e Técnicas para a Educação Musical, Arteterapia e Oficinas de Arte, Estética da Arte e Linguagem Visual, Trabalho de Conclusão de Curso",
+                "ch": "40 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60 h, 60h, 40h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "arranjo-musical",
-    "id": "1012",
-    "image": "courses/rDDPzgwuzHre6X5acyFrgiWaHbwJdKoKoWpxd848.png",
-    "titulo": "ARRANJO MUSICAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Arranjo Musical tem como objetivo oferecer subsídios para a construção da concepção sonora do arranjador profissional, para que ele tenha segurança em externar sua arte sobre alicerces técnicos sólidos.",
-      "publico_alvo": "O curso de Pós-graduação Arranjo Musical destina-se a profissionais com diploma de graduação em Música ou em outras áreas (desde que tenham treinamento em música), interessados em orquestração/arranjo/composição.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Música nos Séculos XX e XXI",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Orquestração",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Sonologia e Estética Musical",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Tópicos Especiais em Harmonia",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Tópicos Especiais em Contraponto",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Laboratório de Arranjo: Combo",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Laboratório de Arranjo: Big Band",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Linguagem e Estruturação Musical",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "arranjo-musical",
+        "id": "1012",
+        "image": "courses/rDDPzgwuzHre6X5acyFrgiWaHbwJdKoKoWpxd848.png",
+        "titulo": "ARRANJO MUSICAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Arranjo Musical tem como objetivo oferecer subsídios para a construção da concepção sonora do arranjador profissional, para que ele tenha segurança em externar sua arte sobre alicerces técnicos sólidos.",
+          "publico_alvo": "O curso de Pós-graduação Arranjo Musical destina-se a profissionais com diploma de graduação em Música ou em outras áreas (desde que tenham treinamento em música), interessados em orquestração/arranjo/composição.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Música nos Séculos XX e XXI",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Orquestração",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Tópicos Especiais em Harmonia",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Tópicos Especiais em Contraponto",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Laboratório de Arranjo: Combo",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Laboratório de Arranjo: Big Band",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Linguagem e Estruturação Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "arte-e-tecnologia",
-    "id": "1013",
-    "image": "courses/yE7RwNeDZu3w0ZlbkJukBAnxVBgGkiAftBoMst1d.png",
-    "titulo": "ARTE E TECNOLOGIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Arte e Tecnologia tem como objetivo promover o pensamento crítico, impulsionando o entendimento das manifestações culturais de seu tempo e a valorização da referida linguagem enquanto expressão e comunicação, em um mercado que requer avidamente profissionais multimídias.",
-      "publico_alvo": "O curso de Pós-graduação Arte e Tecnologia destina-se a atuantes da área das artes, do design, da arquitetura, da publicidade, do marketing, da ilustração, críticos de arte, curadores, arte-educadores, e quem almeja um saber relacionado à imagem na era digital.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "O Museu Contemporâneo",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Arte e Cultura digital",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Ética, Tecnologia e Arte",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Interfaces e Arte Digital",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Imagem Gráfica na Contemporaneidade",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Novas Mídias e Linguagens Audiovisuais",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "História e Filosofia da Arte e da Tecnologia",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Tópicos de Fenomenologia das Artes Sonoras e Visuais",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "arte-e-tecnologia",
+        "id": "1013",
+        "image": "courses/yE7RwNeDZu3w0ZlbkJukBAnxVBgGkiAftBoMst1d.png",
+        "titulo": "ARTE E TECNOLOGIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Arte e Tecnologia tem como objetivo promover o pensamento crítico, impulsionando o entendimento das manifestações culturais de seu tempo e a valorização da referida linguagem enquanto expressão e comunicação, em um mercado que requer avidamente profissionais multimídias.",
+          "publico_alvo": "O curso de Pós-graduação Arte e Tecnologia destina-se a atuantes da área das artes, do design, da arquitetura, da publicidade, do marketing, da ilustração, críticos de arte, curadores, arte-educadores, e quem almeja um saber relacionado à imagem na era digital.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "O Museu Contemporâneo",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Arte e Cultura digital",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Ética, Tecnologia e Arte",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Interfaces e Arte Digital",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Imagem Gráfica na Contemporaneidade",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Novas Mídias e Linguagens Audiovisuais",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "História e Filosofia da Arte e da Tecnologia",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Tópicos de Fenomenologia das Artes Sonoras e Visuais",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "0",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "comunicacao-e-producao-de-moda",
-    "id": "1097",
-    "image": "courses/gScMtzH0ZEB9gSK4qlIfhVXDDOKZV66eXpb3cJCZ.png",
-    "titulo": "COMUNICAÇÃO E PRODUÇÃO DE MODA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Comunicação e Produção de Moda tem como objetivo aprofundar conhecimentos teóricos e práticos na perspectiva da comunicação e da produção de moda com foco nas ferramentas de marketing para a construção de imagens de moda em diferentes dimensões.",
-      "publico_alvo": "O curso de Pós-graduação Comunicação e Produção de Moda destina-se a aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Teoria da Moda e Design",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Gestão Produtos e Marcas",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Cenografia e Figurino",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Experiência de Compra e Visual Merchandising",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "Lifestyle e Tendências",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Construção de Imagem de Moda",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Organização de Eventos",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Criatividade, Inovação e Empreendedorismo",
-            "ch": "60 h"
-          },
-          {
-            "n": "16",
-            "nome": "Sociologia e Cultura de Moda",
-            "ch": "60 h"
-          },
-          {
-            "n": "17",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "comunicacao-e-producao-de-moda",
+        "id": "1097",
+        "image": "courses/gScMtzH0ZEB9gSK4qlIfhVXDDOKZV66eXpb3cJCZ.png",
+        "titulo": "COMUNICAÇÃO E PRODUÇÃO DE MODA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Comunicação e Produção de Moda tem como objetivo aprofundar conhecimentos teóricos e práticos na perspectiva da comunicação e da produção de moda com foco nas ferramentas de marketing para a construção de imagens de moda em diferentes dimensões.",
+          "publico_alvo": "O curso de Pós-graduação Comunicação e Produção de Moda destina-se a aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Teoria da Moda e Design",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gestão Produtos e Marcas",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Cenografia e Figurino",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Experiência de Compra e Visual Merchandising",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Lifestyle e Tendências",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Construção de Imagem de Moda",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Organização de Eventos",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Criatividade, Inovação e Empreendedorismo",
+                "ch": "60 h"
+              },
+              {
+                "n": "16",
+                "nome": "Sociologia e Cultura de Moda",
+                "ch": "60 h"
+              },
+              {
+                "n": "17",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
-    "id": "1165",
-    "image": "courses/HUZmfizPxBK8fkVGmZa8mQ8GOHla6eWYgWppdP0X.png",
-    "titulo": "FASHION MARKETING E BRANDING: GESTÃO DE ESTRATÉGICA DA MARCAS",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Fashion Marketing & Branding: Gestão de Estratégica das Marcas tem como objetivo fornecer ferramentas ao profissional para que esteja apto para criar, planejar, gerenciar e implementar planos de marketing e branding em empresas de moda ou relacionadas ao segmento; Preparar o egresso para gerenciar projetos em diversas áreas, uma vez que poderá aplicar os conceitos do visual merchandising e branding ampliando a experiência de marca e do cliente. Além do mais aprenderá a aplicação do neuromarketing, o uso do CRM, bem como as ferramentas e técnicas utilizadas no mercado de consumo. Assim estará antenado com as mais recentes tendências do mercado.",
-      "publico_alvo": "O curso de Pós-graduação Fashion Marketing & Branding: Gestão de Estratégica das Marcas, é voltado aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04-14",
-            "nome": "Língua Brasileira de Sinais – Libras\nDocência do Ensino Superior\nInovações Tecnológicas\nGestão Estratégica de Branding e Inovação\nComunicação e Crítica de Moda Contemporânea\nExperiência de Compra e Visual Merchandising\nFashion Marketing - Marketing aplicado na Moda\nE-commerce e Vendas Omnichannel\nTecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas\nTeoria da Moda e Design\nTrabalho de Conclusão de Curso - TCC",
-            "ch": "700 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "fashion-marketing-e-branding-gestao-de-estrategica-da-marcas",
+        "id": "1165",
+        "image": "courses/HUZmfizPxBK8fkVGmZa8mQ8GOHla6eWYgWppdP0X.png",
+        "titulo": "FASHION MARKETING E BRANDING: GESTÃO DE ESTRATÉGICA DA MARCAS",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Fashion Marketing & Branding: Gestão de Estratégica das Marcas tem como objetivo fornecer ferramentas ao profissional para que esteja apto para criar, planejar, gerenciar e implementar planos de marketing e branding em empresas de moda ou relacionadas ao segmento; Preparar o egresso para gerenciar projetos em diversas áreas, uma vez que poderá aplicar os conceitos do visual merchandising e branding ampliando a experiência de marca e do cliente. Além do mais aprenderá a aplicação do neuromarketing, o uso do CRM, bem como as ferramentas e técnicas utilizadas no mercado de consumo. Assim estará antenado com as mais recentes tendências do mercado.",
+          "publico_alvo": "O curso de Pós-graduação Fashion Marketing & Branding: Gestão de Estratégica das Marcas, é voltado aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04-14",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Gestão Estratégica de Branding e Inovação",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Comunicação e Crítica de Moda Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Experiência de Compra e Visual Merchandising",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Fashion Marketing - Marketing aplicado na Moda",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "E-commerce e Vendas Omnichannel",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Tecnologias e Softwares: CRM, Gestão de Mídias e Uso de Métricas",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Teoria da Moda e Design",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "producao-cultural-arte-e-entretenimento",
-    "id": "1422",
-    "image": "courses/Vb6tJFRYzthcfboaEG8mFIlE50rSBvP32DwQsI54.jpeg",
-    "titulo": "PRODUÇÃO CULTURAL, ARTE E ENTRETENIMENTO",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Produção Cultural, Arte e Entretenimento, tem como objetivo capacitar os egressos para promover a discussão, execução e a difusão de bens e projetos culturais dos mais variados campos dentro da sociedade e, assim, colaborar com o desenvolvimento e promoção da cultura em suas atuações profissionais; Desenvolver a compreensão teórica e técnica em relação ao campo das artes e da cultura na sociedade contemporânea, dando aos alunos a capacidade e conhecimento para a construção, elaboração e avaliação de projetos culturais e políticas públicas voltadas para a área de cultura; Proporcionar o conhecimento teórico e prático do próprio conceito de cultura, suas expressões, formas de produção, difusão e consumo.",
-      "publico_alvo": "O curso de Pós-graduação Produção Cultural, Arte e Entretenimento, destina-se a Professores; Coordenadores; Comunicólogos; Sociólogos; Publicitários; Educadores Sociais; Administradores de Organizações Culturais; Gestores e Produtores Culturais; Jornalistas; Comunicadores Sociais; Cientistas Sociais; Editores e Coordenadores de Eventos.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Cultura e Patrimônio Material e Imaterial",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "Difusão e Consumo de Arte e Entretenimento nas Mídias Digitais",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Identidade e Cultura",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Panorama da Cultura e das Artes: As Linguagens da Produção Cultural",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Planejamento e Gestão de Eventos",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Políticas Culturais, Legislação e Projetos Culturais",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sociologia da Cultura",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "producao-cultural-arte-e-entretenimento",
+        "id": "1422",
+        "image": "courses/Vb6tJFRYzthcfboaEG8mFIlE50rSBvP32DwQsI54.jpeg",
+        "titulo": "PRODUÇÃO CULTURAL, ARTE E ENTRETENIMENTO",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Produção Cultural, Arte e Entretenimento, tem como objetivo capacitar os egressos para promover a discussão, execução e a difusão de bens e projetos culturais dos mais variados campos dentro da sociedade e, assim, colaborar com o desenvolvimento e promoção da cultura em suas atuações profissionais; Desenvolver a compreensão teórica e técnica em relação ao campo das artes e da cultura na sociedade contemporânea, dando aos alunos a capacidade e conhecimento para a construção, elaboração e avaliação de projetos culturais e políticas públicas voltadas para a área de cultura; Proporcionar o conhecimento teórico e prático do próprio conceito de cultura, suas expressões, formas de produção, difusão e consumo.",
+          "publico_alvo": "O curso de Pós-graduação Produção Cultural, Arte e Entretenimento, destina-se a Professores; Coordenadores; Comunicólogos; Sociólogos; Publicitários; Educadores Sociais; Administradores de Organizações Culturais; Gestores e Produtores Culturais; Jornalistas; Comunicadores Sociais; Cientistas Sociais; Editores e Coordenadores de Eventos.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Cultura e Patrimônio Material e Imaterial",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Difusão e Consumo de Arte e Entretenimento nas Mídias Digitais",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Identidade e Cultura",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Panorama da Cultura e das Artes: As Linguagens da Produção Cultural",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Planejamento e Gestão de Eventos",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Políticas Culturais, Legislação e Projetos Culturais",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sociologia da Cultura",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "producao-fonografica",
-    "id": "1426",
-    "image": "courses/1A0tTm558UiQ0PnpRy19lQSznzi7XZDUmNTtVtgW.png",
-    "titulo": "PRODUÇÃO FONOGRÁFICA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Produção Fonográfica, tem como objetivo contribuir para a formação do produtor especialista em gravação de áudio e/ou áudio para vídeo.",
-      "publico_alvo": "O curso de Pós-graduação Produção Fonográfica, destina-se a profissionais com diploma de graduação em Música ou em outras áreas, que trabalhem na área de produção fonográfica, publicidade, estúdio de gravação, operação de áudio.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Acústica Básica",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Linguagem e Estruturação Musical",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Música nos Séculos XX e XXI",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Produção Artística",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Produção Executiva",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Softwares para Gravação",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sonologia e Estética Musical",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Técnica de Microfonação",
-            "ch": "60 h"
-          },
-          {
-            "n": "15",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "producao-fonografica",
+        "id": "1426",
+        "image": "courses/1A0tTm558UiQ0PnpRy19lQSznzi7XZDUmNTtVtgW.png",
+        "titulo": "PRODUÇÃO FONOGRÁFICA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Produção Fonográfica, tem como objetivo contribuir para a formação do produtor especialista em gravação de áudio e/ou áudio para vídeo.",
+          "publico_alvo": "O curso de Pós-graduação Produção Fonográfica, destina-se a profissionais com diploma de graduação em Música ou em outras áreas, que trabalhem na área de produção fonográfica, publicidade, estúdio de gravação, operação de áudio.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Acústica Básica",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Linguagem e Estruturação Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Música nos Séculos XX e XXI",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Produção Artística",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Produção Executiva",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Softwares para Gravação",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Técnica de Microfonação",
+                "ch": "60 h"
+              },
+              {
+                "n": "15",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "musica-com-enfase-em-educacao-musical",
-    "id": "1676",
-    "image": "courses/JdN4wjHr6bEsoQR6dh2yDMi7WSowxb9N0Ltt8jvm.png",
-    "titulo": "MÚSICA COM ÊNFASE EM EDUCAÇÃO MUSICAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Música com Ênfase em Educação Musical, tem como objetivo contribuir para a formação dos licenciados em música, artes e educação infantil, propondo novas perspectivas, baseadas na visão humanista da educação através da música.",
-      "publico_alvo": "O curso de Pós-graduação Música com Ênfase em Educação Musical, destina-se a profissionais com diploma de graduação em Música ou em outras áreas (desde que se tenha treinamento em música e experiência profissional na área da Educação Musical), interessados em orquestração/arranjo/composição.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral e Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "A Educação Musical no Século XXI",
-            "ch": "60 h"
-          },
-          {
-            "n": "08",
-            "nome": "A História da Educação Musical no Brasil",
-            "ch": "60 h"
-          },
-          {
-            "n": "09",
-            "nome": "Arranjo para Musicalização Infantil",
-            "ch": "60 h"
-          },
-          {
-            "n": "10",
-            "nome": "Bases Neuropsicológicas do Desenvolvimento Psicomotor",
-            "ch": "60 h"
-          },
-          {
-            "n": "11",
-            "nome": "Educação Inclusiva na Sociedade Contemporânea",
-            "ch": "60 h"
-          },
-          {
-            "n": "12",
-            "nome": "Métodos de Educação Musical",
-            "ch": "60 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sonologia e Estética Musical",
-            "ch": "60 h"
-          },
-          {
-            "n": "14",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "40 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica-com-enfase-em-educacao-musical",
+        "id": "1676",
+        "image": "courses/JdN4wjHr6bEsoQR6dh2yDMi7WSowxb9N0Ltt8jvm.png",
+        "titulo": "MÚSICA COM ÊNFASE EM EDUCAÇÃO MUSICAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Música com Ênfase em Educação Musical, tem como objetivo contribuir para a formação dos licenciados em música, artes e educação infantil, propondo novas perspectivas, baseadas na visão humanista da educação através da música.",
+          "publico_alvo": "O curso de Pós-graduação Música com Ênfase em Educação Musical, destina-se a profissionais com diploma de graduação em Música ou em outras áreas (desde que se tenha treinamento em música e experiência profissional na área da Educação Musical), interessados em orquestração/arranjo/composição.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral e Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "A Educação Musical no Século XXI",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "A História da Educação Musical no Brasil",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Arranjo para Musicalização Infantil",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Bases Neuropsicológicas do Desenvolvimento Psicomotor",
+                "ch": "60 h"
+              },
+              {
+                "n": "11",
+                "nome": "Educação Inclusiva na Sociedade Contemporânea",
+                "ch": "60 h"
+              },
+              {
+                "n": "12",
+                "nome": "Métodos de Educação Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "regencia-de-coral",
-    "id": "1677",
-    "image": "courses/ie8ESepYF1ffssMWlVPVgotlOTeHEWIuQh9JozTj.jpeg",
-    "titulo": "REGÊNCIA DE CORAL",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Regência de Coral tem como objetivo preparar o aluno para a atividade de regência de grupos profissionais (corais) ou amadores (orfeões) de canto coral; apresentar ao aluno um panorama histórico do canto coral no Brasil, com ênfase na Música Colonial Mineira, no trabalho do Padre José Maurício Nunes Garcia (o brasileiro que é maior expressão barroca da América do Latina), no vasto repertório infantil brasileiro (músicas folclóricas, cirandas, cantigas de roda, et caetera), na música coral produzida por Villa-Lobos, no Modernismo Brasileiro e no repertório renascentista europeu mais expressivo; apresentar um panorama do canto coral bachiano.",
-      "campo_de_atuacao": "O egresso poderá atuar como regente de corais ou de orfeões em igrejas, escolas, secretarias ou quaisquer entidades que promovam atividade coral; poderá ainda atuar como professor de música nas redes públicas ou privadas de ensino.",
-      "publico_alvo": "O curso de Pós-graduação em Regência de Coral destina-se a pessoas com curso superior completo e que queiram atuar como regentes de corais e/or orfeões; bacharéis e licenciados em música; graduados, tecnólogos ou licenciados, em qualquer área, que possuam interesse no campo da música coral.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "História do Canto Coral Brasileiro: Compositores e Escolas I",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "História do Canto Coral Brasileiro: Compositores e Escolas II",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Tópicos Especiais em Harmonia",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Tópicos Especiais em Polifonia",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "História da Regência",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Teorias e Escolas da Regência Coral",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Sinais de Regência Coral e suas Escolas",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Prática de Regência I",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Prática de Regência II",
-            "ch": "40 h"
-          },
-          {
-            "n": "16",
-            "nome": "O Canto Orfeônico na Escola I - História e Políticas Públicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "17",
-            "nome": "O Canto Orfeônico na Escola II - Técnicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "18",
-            "nome": "O Canto Orfeônico na Escola III - Repertório",
-            "ch": "40 h"
-          },
-          {
-            "n": "19",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "20 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "regencia-de-coral",
+        "id": "1677",
+        "image": "courses/ie8ESepYF1ffssMWlVPVgotlOTeHEWIuQh9JozTj.jpeg",
+        "titulo": "REGÊNCIA DE CORAL",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Regência de Coral tem como objetivo preparar o aluno para a atividade de regência de grupos profissionais (corais) ou amadores (orfeões) de canto coral; apresentar ao aluno um panorama histórico do canto coral no Brasil, com ênfase na Música Colonial Mineira, no trabalho do Padre José Maurício Nunes Garcia (o brasileiro que é maior expressão barroca da América do Latina), no vasto repertório infantil brasileiro (músicas folclóricas, cirandas, cantigas de roda, et caetera), na música coral produzida por Villa-Lobos, no Modernismo Brasileiro e no repertório renascentista europeu mais expressivo; apresentar um panorama do canto coral bachiano.",
+          "campo_de_atuacao": "O egresso poderá atuar como regente de corais ou de orfeões em igrejas, escolas, secretarias ou quaisquer entidades que promovam atividade coral; poderá ainda atuar como professor de música nas redes públicas ou privadas de ensino.",
+          "publico_alvo": "O curso de Pós-graduação em Regência de Coral destina-se a pessoas com curso superior completo e que queiram atuar como regentes de corais e/or orfeões; bacharéis e licenciados em música; graduados, tecnólogos ou licenciados, em qualquer área, que possuam interesse no campo da música coral.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas I",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas II",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Tópicos Especiais em Harmonia",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Tópicos Especiais em Polifonia",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "História da Regência",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Teorias e Escolas da Regência Coral",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Sinais de Regência Coral e suas Escolas",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Prática de Regência I",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Prática de Regência II",
+                "ch": "40 h"
+              },
+              {
+                "n": "16",
+                "nome": "O Canto Orfeônico na Escola I - História e Políticas Públicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "17",
+                "nome": "O Canto Orfeônico na Escola II - Técnicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "18",
+                "nome": "O Canto Orfeônico na Escola III - Repertório",
+                "ch": "40 h"
+              },
+              {
+                "n": "19",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "720 h"
           }
-        ],
-        "carga_horaria_total": "720 h"
-      }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
-  },
-  {
-    "url": "fotografia",
-    "id": "2139",
-    "image": "courses/5V0RN7hn2jbYq5TJTYGcOxnkqt8MiOcTcwSiyS9T.png",
-    "titulo": "FOTOGRAFIA",
-    "conteudo": {
-      "objetivos": "O curso de Pós-graduação em Fotografia tem como objetivo especializar fotógrafos, profissionais ou amadores, na arte e na técnica fotográficas. Aprofundar o conhecimento de luz, cor e iluminação. Explorar a aplicação, na fotografia, dos conceitos de contexto e narrativa. Aperfeiçoar a visão da fotografia como uma forma de arte. Lançar as raízes para o desenvolvimento, no aluno, de seu próprio estilo fotográfico, fundado no conhecimento do trabalho dos mestres das artes plásticas e, particularmente, da arte fotográfica.",
-      "publico_alvo": "O curso de Pós-graduação Fotografia destina-se a profissionais com formação superior em qualquer área do conhecimento, com noções em fotografia, amadores ou profissionais.",
-      "carga_horaria": {
-        "disciplinas": [
-          {
-            "n": "01",
-            "nome": "Ética Geral E Profissional",
-            "ch": "40 h"
-          },
-          {
-            "n": "02",
-            "nome": "Metodologia Científica",
-            "ch": "40 h"
-          },
-          {
-            "n": "03",
-            "nome": "Direitos Humanos",
-            "ch": "40 h"
-          },
-          {
-            "n": "04",
-            "nome": "Língua Brasileira de Sinais – Libras",
-            "ch": "40 h"
-          },
-          {
-            "n": "05",
-            "nome": "Docência do Ensino Superior",
-            "ch": "40 h"
-          },
-          {
-            "n": "06",
-            "nome": "Inovações Tecnológicas",
-            "ch": "40 h"
-          },
-          {
-            "n": "07",
-            "nome": "Fundamentos de Técnica Fotográfica e História da Fotografia",
-            "ch": "40 h"
-          },
-          {
-            "n": "08",
-            "nome": "Arte Fotográfica e Câmara Fotográfica",
-            "ch": "40 h"
-          },
-          {
-            "n": "09",
-            "nome": "Contexto e Narrativa em Fotografia",
-            "ch": "40 h"
-          },
-          {
-            "n": "10",
-            "nome": "Direito em Fotografia",
-            "ch": "40 h"
-          },
-          {
-            "n": "11",
-            "nome": "Fluxo de Trabalho Fotográfico",
-            "ch": "40 h"
-          },
-          {
-            "n": "12",
-            "nome": "Fotografia de Retrato",
-            "ch": "40 h"
-          },
-          {
-            "n": "13",
-            "nome": "Iluminação, Luz, Cor e Fotometria",
-            "ch": "40 h"
-          },
-          {
-            "n": "14",
-            "nome": "Pós-Processamento Digital 1 e 2",
-            "ch": "40 h"
-          },
-          {
-            "n": "15",
-            "nome": "Produção e Direção de Fotografia",
-            "ch": "40 h"
-          },
-          {
-            "n": "16",
-            "nome": "Taxonomia dos Gêneros Fotográficos",
-            "ch": "40 h"
-          },
-          {
-            "n": "17",
-            "nome": "Tópicos Avançados em Fotografia",
-            "ch": "40 h"
-          },
-          {
-            "n": "18",
-            "nome": "Trabalho de Conclusão de Curso - TCC",
-            "ch": "20 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "fotografia",
+        "id": "2139",
+        "image": "courses/5V0RN7hn2jbYq5TJTYGcOxnkqt8MiOcTcwSiyS9T.png",
+        "titulo": "FOTOGRAFIA",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Fotografia tem como objetivo especializar fotógrafos, profissionais ou amadores, na arte e na técnica fotográficas. Aprofundar o conhecimento de luz, cor e iluminação. Explorar a aplicação, na fotografia, dos conceitos de contexto e narrativa. Aperfeiçoar a visão da fotografia como uma forma de arte. Lançar as raízes para o desenvolvimento, no aluno, de seu próprio estilo fotográfico, fundado no conhecimento do trabalho dos mestres das artes plásticas e, particularmente, da arte fotográfica.",
+          "publico_alvo": "O curso de Pós-graduação Fotografia destina-se a profissionais com formação superior em qualquer área do conhecimento, com noções em fotografia, amadores ou profissionais.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Ética Geral E Profissional",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Direitos Humanos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Língua Brasileira de Sinais – Libras",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Docência do Ensino Superior",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inovações Tecnológicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Fundamentos de Técnica Fotográfica e História da Fotografia",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Arte Fotográfica e Câmara Fotográfica",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Contexto e Narrativa em Fotografia",
+                "ch": "40 h"
+              },
+              {
+                "n": "10",
+                "nome": "Direito em Fotografia",
+                "ch": "40 h"
+              },
+              {
+                "n": "11",
+                "nome": "Fluxo de Trabalho Fotográfico",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "Fotografia de Retrato",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "Iluminação, Luz, Cor e Fotometria",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Pós-Processamento Digital 1 e 2",
+                "ch": "40 h"
+              },
+              {
+                "n": "15",
+                "nome": "Produção e Direção de Fotografia",
+                "ch": "40 h"
+              },
+              {
+                "n": "16",
+                "nome": "Taxonomia dos Gêneros Fotográficos",
+                "ch": "40 h"
+              },
+              {
+                "n": "17",
+                "nome": "Tópicos Avançados em Fotografia",
+                "ch": "40 h"
+              },
+              {
+                "n": "18",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "700 h"
           }
-        ],
-        "carga_horaria_total": "700 h"
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
       }
-    },
-    "area": "artes-moda-e-musica",
-    "status": "1",
-    "matricula": "300.00",
-    "opcao1": "4000.00",
-    "opcao6": "666.67",
-    "opcao12": "333.33",
-    "opcao18": "222.22",
-    "opcao20": "200.00",
-    "opcao22": "181.81",
-    "opcao24": "166.66",
-    "mat1": "500.00",
-    "mat2": "250.00",
-    "mat3": "166.00",
-    "mat4": "125.00",
-    "mat5": "GRATUITO",
-    "categoria": "pos-graduacao"
+    ],
+    "threeHundredSixty":[
+      {
+        "url": "musicoterapia-360",
+        "id": "9958",
+        "image": "não disponível",
+        "titulo": "MUSICOTERAPIA (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Musicoterapia, tem como objetivo contribuir para a formação de profissionais especializados em Musicoterapia, possibilitando a capacitação em diferentes níveis e práticas. Além de possibilitar que o profissional utilize a música para promover uma melhora ou manutenção da condição de saúde, no tratamento de pacientes com dificuldades físicas, cognitivas e emocionais.",
+          "publico_alvo": "O curso de Pós-graduação em Musicoterapia destina-se a graduados em Música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "20 h"
+              },
+              {
+                "n": "02",
+                "nome": "História da Música",
+                "ch": "20 h"
+              },
+              {
+                "n": "03",
+                "nome": "Fundamentos da Musicoterapia",
+                "ch": "20 h"
+              },
+              {
+                "n": "04",
+                "nome": "Psicologia, Música, Educação e Psicopatologia",
+                "ch": "20 h"
+              },
+              {
+                "n": "05",
+                "nome": "Desenvolvimento Cognitivo Musical e a Neurologia",
+                "ch": "20 h"
+              },
+              {
+                "n": "06",
+                "nome": "Musicoterapia do Desenvolvimento e Prática de conjunto",
+                "ch": "20 h"
+              },
+              {
+                "n": "07",
+                "nome": "Confecções de Instrumentos Musicais Artesanais",
+                "ch": "20 h"
+              },
+              {
+                "n": "08",
+                "nome": "Aplicação da Musicoterapia",
+                "ch": "20 h"
+              },
+              {
+                "n": "09",
+                "nome": "Música e Musicalidade em Musicoterapia",
+                "ch": "20 h"
+              },
+              {
+                "n": "10",
+                "nome": "Teorias e Técnicas de Musicoterapia",
+                "ch": "20 h"
+              },
+              {
+                "n": "11",
+                "nome": "Avaliação em Musicoterapia",
+                "ch": "20 h"
+              },
+              {
+                "n": "12",
+                "nome": "Musicoterapia em grupo",
+                "ch": "20 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Estágio Supervisionado (Opcional*)",
+                "ch": "80 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "metodologia-do-ensino-da-musica-e-musicoterapia-360",
+        "id": "7979",
+        "image": "não disponível",
+        "titulo": "METODOLOGIA DO ENSINO DA MÚSICA E MUSICOTERAPIA (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Metodologia do Ensino da Música e Musicoterapia, tem como objetivo contribuir para a formação de profissionais especializados em Musicoterapia, possibilitando a capacitação em diferentes níveis e práticas. Além de possibilitar que o profissional utilize a música para promover uma melhora ou manutenção da condição de saúde, no tratamento de pacientes com dificuldades físicas, cognitivas e emocionais.",
+          "publico_alvo": "O curso de Pós-graduação em Metodologia do Ensino da Música e Musicoterapia destina-se a graduados em Musica. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Metodologia do Ensino da Música",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Psicologia, Música e Educação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Música e Musicalidade em Musicoterapia",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fundamentos da Musicoterapia",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Musicoterapia do Desenvolvimento",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Confecções De Instrumentos Musicais Artesanais",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "História da Música",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Estágio Supervisionado (Opcional*)",
+                "ch": "80 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso – TCC (Opcional*)",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "arte-na-educação-musica-teatro-e-dança-360",
+        "id": "7771",
+        "image": "não disponível",
+        "titulo": "ARTE NA EDUCAÇÃO: MÚSICA, TEATRO E DANÇA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Arte na Educação: Música, Teatro e Dança, tem como objetivo especializar profissionais para atuação em práticas educativas, proporcionando conhecimentos teóricos em torno da dança, música e teatro.",
+          "publico_alvo": "O Curso de Pós-graduação Arte na Educação: Música, Teatro e Dança, destina-se a graduados nas áreas de Artes, Teatro e Música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "História do Teatro",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Linguagens da Arte na Educação: Música, Teatro e Dança",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Regência de Coral, Instrumentos e Técnicas Vocais",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Arranjo em Música Popular",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Técnicas de Oratória",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Dança Contemporânea",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Dramaturgia",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Folclore Brasileiro: Danças e Folguedos",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "artes-360",
+        "id": "4307",
+        "image": "não disponível",
+        "titulo": "ARTES (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Artes, tem como objetivo proporcionar conhecimentos teóricos que subsidiem a prática do professor de Artes focando a educação básica (Ensino Fundamental e Ensino Médio), tomando como base as concepções contemporâneas do ensino de artes.",
+          "publico_alvo": "O Curso de Pós-graduação em Artes, destina-se a graduados na área da Educação, que atuem ou que pretendam atuar na área do ensino da Arte. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Arte nas Imagens do Cotidiano",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Fundamentos da História das Artes",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Fundamentos do Ensino da Arte na Educação",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Metodologia do Ensino de Artes",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Tecnologias e Poéticas Visuais",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Teorias da Arte",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Arte na educação escolar",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "arte-e-tecnologia-360",
+        "id": "7505",
+        "image": "não disponível",
+        "titulo": "ARTE E TECNOLOGIA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Arte e Tecnologia, tem como objetivo promover o pensamento crítico, impulsionando o entendimento das manifestações culturais de seu tempo e a valorização da referida linguagem enquanto expressão e comunicação, em um mercado que requer avidamente profissionais multimídias.",
+          "publico_alvo": "O Curso de Pós-graduação Arte e Tecnologia, destina-se a atuantes graduados da área das artes, do design, da arquitetura, da publicidade, do marketing, da ilustração, curadores, arte-educadores. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "O museu contemporâneo",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Arte e cultura digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Ética, tecnologia e arte",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Interfaces e arte digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Imagem gráfica na contemporaneidade",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Novas mídias e linguagens audiovisuais",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "História e Filosofia da Arte e da Tecnologia",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Tópicos de Fenomenologia das Artes Sonoras e Visuais",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "artes-visuais-360",
+        "id": "7967",
+        "image": "não disponível",
+        "titulo": "ARTES VISUAIS (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Artes Visuais, tem como objetivo complementar a formação, fornecendo ferramentas e refletindo sobre a especialidade do ensino de Artes Visuais.",
+          "publico_alvo": "O Curso de Pós-graduação em Artes Visuais, destina-se a graduados em Artes, Filosofia, Sociologia, Arquitetura, História, Publicidade.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Arte nas Imagens do Cotidiano",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Estética da Arte e Linguagem Visual",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Mecanismos da Arte Moderna e Contemporânea",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fundamentos do Ensino da Arte na Educação",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Fundamentos e Elementos da Linguagem e da Criação em Artes Visuais",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Teoria de Análise de Imagens",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Metodologia do Ensino de Artes",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Aspectos da História da Artes – Educação no Brasil e no Mundo",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "produção-musical-e-arranjo-musical-360",
+        "id": "8999",
+        "image": "não disponível",
+        "titulo": "PRODUÇÃO MUSICAL E ARRANJO MUSICAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Produção Musical e Arranjo Musical, tem como objetivo oferecer ao aluno uma visão geral dos principais conceitos, etapas executivas e atuação de campo em Produção Musical.",
+          "publico_alvo": "O Curso de Pós-graduação Produção Musical e Arranjo Musical, destina-se a graduados em música.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Divulgação Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Ferramentas De Gravação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gravação Em Estúdio",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Processos De Pós-Produção De Mixagem",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Linguagem E Estruturação Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Tópicos Especiais em Harmonia",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Tópicos Especiais em Contraponto",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Laboratório de Arranjo: Combo",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Laboratório de Arranjo: Big Band",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "metodologia-do-ensino-de-musica-360",
+        "id": "9746",
+        "image": "não disponível",
+        "titulo": "METODOLOGIA DO ENSINO DE MÚSICA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Metodologia do Ensino de Música, tem como objetivo atender às necessidades para atuar na metodologia da música, instrumentalizando sua ação docente por meio de fundamentos metodológicos e reflexões sobre as atuais abordagens de ensino, propiciando o desenvolvimento de competências e saberes sobre a metodologia do ensino da música a ser implementado no contexto escolar.",
+          "publico_alvo": "O Curso de Pós-graduação Metodologia do Ensino de Música, destina-se a graduados em Música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução A Educação Musical",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "História Da Música Popular",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Arranjo Em Música Popular",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "A Educação Musical No Século XXI",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Planejamento Educacional E Currículo",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Artes Visuais E Música",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho Docente Na Sala De Aula E Seus Aspectos Constituintes",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Apreciação E Estética Da Música Popular No Contexto Da Educação Musical",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica-360",
+        "id": "4797",
+        "image": "não disponível",
+        "titulo": "MÚSICA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Música, promove a formação de profissional qualificado, desenvolvendo competências científicas e artísticas, bem como contribui para a produção de conhecimento filosófico, científico, artístico e tecnológico, de forma a proporcionar a difusão de conhecimento e contribuições à cultura brasileira.",
+          "publico_alvo": "O Curso de Pós-graduação em Música destina-se a graduados em Música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "História da Música",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Psicologia, Música e Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "04",
+                "nome": "Arranjo para Musicalização Infantil",
+                "ch": "60 h"
+              },
+              {
+                "n": "05",
+                "nome": "Arranjo em Música Popular",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica-com-enfase-em-educacao-musical-360",
+        "id": "3148",
+        "image": "não disponível",
+        "titulo": "MÚSICA COM ÊNFASE EM EDUCAÇÃO MUSICAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Música com Ênfase em Educação Musical, , tem como objetivo contribuir para a formação dos licenciados em música, artes e educação infantil, propondo novas perspectivas, baseadas na visão humanista da educação através da música.",
+          "publico_alvo": "O Curso de Pós-graduação Música com Ênfase em Educação Musical, destina-se a profissionais com diploma de graduação em Música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "A Educação Musical no Século XXI",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "A História da Educação Musical no Brasil",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Arranjo para Musicalização Infantil",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Bases Neuropsicológicas do Desenvolvimento Psicomotor",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Educação Inclusiva na Sociedade Contemporânea",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Métodos de Educação Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sonologia e Estética Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalhoo de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "musica-e-artes-360",
+        "id": "9236",
+        "image": "não disponível",
+        "titulo": "MÚSICA E ARTES (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-Graduação em Música e Artes tem como objetivo qualificar profissionais, docentes e pesquisadores de Música, artes e pedagogia a atuar de maneira crítica e reflexiva, com ênfase na especificidade artística da área e oportuniza ao participante conhecer e se atualizar sobre o ensino de Arte e música no âmbito educacional. Público-alvo O Curso de Pós-graduação em Música e Artes destina-se a graduados em Música e Artes. Carga Horária",
+          "publico_alvo": "",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução à Educação Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Fundamentos do Ensino da Arte",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Linguagem da Arte na Educação Música, Teatro, Dança",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Confecção de Instrumentos Musicais Artesanais",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Métodos e Técnicas para a Educação Musical",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Arteterapia e Oficinas de Arte",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Estética da Arte e Linguagem Visual",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso- TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "comunicacao-e-producao-de-moda-360",
+        "id": "5724",
+        "image": "não disponível",
+        "titulo": "COMUNICAÇÃO E PRODUÇÃO DE MODA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Comunicação e Produção de Moda, tem como objetivo aprofundar conhecimentos na perspectiva da comunicação e da produção de moda com foco nas ferramentas de marketing para a construção de imagens de moda em diferentes dimensões.",
+          "publico_alvo": "O Curso de Pós-graduação Comunicação e Produção de Moda, destina-se a aos profissionais da moda, marketing ou mesmo das áreas correlatas (design, designer gráfico, arquitetura etc.) que tenham interesse em entender melhor o segmento, que atuam em empresas/e-commerces e que almejam se diferenciar neste mercado altamente competitivo. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "20 h"
+              },
+              {
+                "n": "02",
+                "nome": "Teoria da moda e design",
+                "ch": "20 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gestão produtos e marcas",
+                "ch": "20 h"
+              },
+              {
+                "n": "04",
+                "nome": "Branding",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Experiência de compra e visual merchandising",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Lifestyle e tendências",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Tecnologias e softwares: CRM, gestão de mídias e uso de métricas",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Fashion marketing-marketing de moda",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Organização de eventos",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Criatividade, inovação e empreendedorismo",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Comunicação e semiótica aplicada à moda",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Cenografia e figurino",
+                "ch": "30 h"
+              },
+              {
+                "n": "13",
+                "nome": "Trabalho de conclusão de curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "producao-cultural-arte-e-entretenimento-360",
+        "id": "5956",
+        "image": "não disponível",
+        "titulo": "PRODUÇÃO CULTURAL, ARTE E ENTRETENIMENTO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Produção Cultural, Arte e Entretenimento, tem como objetivo capacitar os egressos para promover a discussão, execução e a difusão de bens e projetos culturais dos mais variados campos dentro da sociedade e, assim, colaborar com o desenvolvimento e promoção da cultura em suas atuações profissionais; Desenvolver a compreensão teórica e técnica em relação ao campo das artes e da cultura na sociedade contemporânea, dando aos alunos a capacidade e conhecimento para a construção, elaboração e avaliação de projetos culturais e políticas públicas voltadas para a área de cultura; Proporcionar o conhecimento teórico e prático do próprio conceito de cultura, suas expressões, formas de produção, difusão e consumo.",
+          "publico_alvo": "O Curso de Pós-graduação Produção Cultural, Arte e Entretenimento, destina-se a Professores; Coordenadores; Comunicólogos; Publicitários; Administradores de Organizações Culturais; Gestores e Produtores Culturais; Jornalistas; Comunicadores Sociais; Cientistas Sociais; Editores e Coordenadores de Eventos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "Cultura e Patrimônio Material e Imaterial",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Difusão e Consumo de Arte e Entretenimento nas Mídias Digitais",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Identidade e Cultura",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Panorama da Cultura e das Artes: As Linguagens da Produção Cultural",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Planejamento e Gestão de Eventos",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Políticas Culturais, Legislação e Projetos Culturais",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sociologia da Cultura",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "producao-fonográfica-360",
+        "id": "0803",
+        "image": "não disponível",
+        "titulo": "PRODUÇÃO FONOGRÁFICA (360h)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Produção Fonográfica, tem como objetivo contribuir para a formação do produtor especialista em gravação de áudio e/ou áudio para vídeo.",
+          "publico_alvo": "O Curso de Pós-graduação Produção Fonográfica, destina-se a profissionais com diploma de graduação em Música e profissionais que trabalhem na área de produção fonográfica, publicidade, estúdio de gravação, operação de áudio. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Acústica Básica",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Linguagem E Estruturação Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Música Nos Séculos Xx E Xxi",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Produção Artística",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Produção Executiva",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Softwares Para Gravação",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sonologia E Estética Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Técnica de microfonação",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "producao-musical-360",
+        "id": "0307",
+        "image": "não disponível",
+        "titulo": "PRODUÇÃO MUSICAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Produção Musical, tem como objetivo oferecer ao aluno uma visão geral dos principais conceitos, etapas executivas e atuação de campo em Produção Musical. Panorama geral sobre a música desde os anos 80 até os dias atuais com a era digital liderada pelo streaming / como os artistas e gravadoras estão se reinventando para driblar as mudanças no cenário musical / novas formas de distribuição e marketing / O que é um produtor Musical? Qual sua função, dons e sensibilidades / Trabalho completo de produção de um álbum (passando pela pré-produção, finalização, fabricação até o lançamento) / Concepção de um evento musical (todas as etapas importantes para realizar um evento).",
+          "publico_alvo": "O Curso de Pós-graduação Produção Musical, destina-se a graduados em música. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Direito Autoral",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Divulgação Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Ferramentas De Gravação",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gravação Em Estúdio",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Marketing Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Processos De Pós-Produção De Mixagem",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Linguagem E Estruturação Musical",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Acústica Básica",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "regencia-de-coral-360",
+        "id": "7265",
+        "image": "não disponível",
+        "titulo": "REGÊNCIA DE CORAL (360h)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Regência de Coral, tem como objetivo de preparar o aluno para a atividade de regência de grupos profissionais (corais) ou amadores (orfeões) de canto coral; apresentar ao aluno um panorama histórico do canto coral no Brasil, com ênfase na Música Colonial Mineira, no trabalho do Padre José Maurício Nunes Garcia (o brasileiro que é maior expressão barroca da América do Latina), no vasto repertório infantil brasileiro (músicas folclóricas, cirandas, cantigas de roda, et caetera), na música coral produzida por Villa-Lobos, no Modernismo Brasileiro e no repertório renascentista europeu mais expressivo; apresentar um panorama do canto coral bachiano.",
+          "publico_alvo": "O curso de Pós-graduação em Regência de Coral destina-se a bacharéis e licenciados em música, que queiram atuar como regentes de corais e/ou orfeões.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "20 h"
+              },
+              {
+                "n": "02",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas I",
+                "ch": "20 h"
+              },
+              {
+                "n": "03",
+                "nome": "História do Canto Coral Brasileiro: Compositores e Escolas II",
+                "ch": "20 h"
+              },
+              {
+                "n": "04",
+                "nome": "Tópicos Especiais em Harmonia",
+                "ch": "20 h"
+              },
+              {
+                "n": "05",
+                "nome": "Tópicos Especiais em Polifonia",
+                "ch": "20 h"
+              },
+              {
+                "n": "06",
+                "nome": "História da Regência",
+                "ch": "20 h"
+              },
+              {
+                "n": "07",
+                "nome": "Teorias e Escolas da Regência Coral",
+                "ch": "20 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sinais de Regência Coral e suas Escolas",
+                "ch": "20 h"
+              },
+              {
+                "n": "09",
+                "nome": "Prática de Regência I",
+                "ch": "20 h"
+              },
+              {
+                "n": "10",
+                "nome": "Prática de Regência II -",
+                "ch": "20 h"
+              },
+              {
+                "n": "11",
+                "nome": "O Canto Orfeônico na Escola I – História e Políticas Públicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "12",
+                "nome": "O Canto Orfeônico na Escola II – Técnicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "13",
+                "nome": "O Canto Orfeônico na Escola III – Repertório",
+                "ch": "40 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              },
+              {
+                "n": "",
+                "nome": "A grade acima é da FACUMINAS e não consta no site da FAMART e FAVED. Enviar para registro.",
+                "ch": ""
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "fotografia-360",
+        "id": "1926",
+        "image": "não disponível",
+        "titulo": "FOTOGRAFIA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Fotografia, tem como objetivo especializar fotógrafos, profissionais ou amadores, na arte e na técnica fotográficas. Aprofundar o conhecimento de luz, cor e iluminação. Explorar a aplicação, na fotografia, dos conceitos de contexto e narrativa. Aperfeiçoar a visão da fotografia como uma forma de arte. Lançar as raízes para o desenvolvimento, no aluno, de seu próprio estilo fotográfico, fundado no conhecimento do trabalho dos mestres das artes plásticas e, particularmente, da arte fotográfica.",
+          "publico_alvo": "O Curso de Pós-graduação Fotografia, destina-se a profissionais com formação superior em qualquer área do conhecimento, com noções em fotografia, amadores ou profissionais. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Fundamentos de Técnica Fotográfica e História da Fotografia",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Arte Fotográfica e Câmera Fotográfica",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Direito Autoral",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Fotografia e Cinema",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Fotografia de Retrato",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Iluminação, Luz, Cor e Fotometria",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Pós-Processamento Digital 1 e 2",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Produção e Direção de Fotografia",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Taxonomia dos Gêneros Fotográficos",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Tópicos Avançados em Fotografia",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "artes-moda-e-musica",
+        "categoria": "pos-graduacao"
+      }
+    ]
   }
 ]

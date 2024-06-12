@@ -14,7 +14,7 @@ $name_course = mb_convert_case($course_name, MB_CASE_TITLE, "UTF-8");
                 <div class="popup-content">
                     <span id="closeBtn" class="closeBtn">&times;</span>
                     <div class="main__title--form">
-                        <h2 class="title-form color-white">Preencha o formulario abaixo e garanta o seu curso!</h2>
+                        <h2 class="title-form color-white">Preencha o formulário abaixo e garanta o seu curso!</h2>
                     </div>
                     <form id="courseForm" action="" method="post">
                         <div class="main__fields main__name">
