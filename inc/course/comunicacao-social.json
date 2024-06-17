@@ -3667,6 +3667,75 @@
         "price": "43,90",
         "area": "comunicacao-social",
         "categoria": "pos-graduacao"
+      },
+      {
+        "url": "cultura-digital-e-redes-sociais-360",
+        "id": "4525",
+        "image": "não disponível",
+        "titulo": "CULTURA DIGITAL E REDES SOCIAIS (360h)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Cultura Digital e Redes Sociais,  tem como objetivo estudar as implicações culturais e éticas desses fenômenos, oferecendo instrumental teórico para que o aluno não só compreenda, mas também atue profissionalmente na articulação entre mídias, cultura digital e redes sociais.",
+          "publico_alvo": "O Curso de Pós-graduação Cultura Digital e Redes Sociais, destina-se a graduados em Jornalismo, comunicação digital, publicidade e propaganda, marketing, audiovisual e cinema. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução às Redes Sociais",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Marketing Digital e Redes Sociais Web",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Redes e Mídias Sociais",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Planejamento e Comunicação para a Mídia Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Cultura Digital e Redes Sociais",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Comunicação Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Descoberta de Conhecimento com Big Data Analytics",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Design Thinking",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "comunicacao-social",
+        "categoria": "pos-graduacao"
       }
     ]
   }

@@ -5390,6 +5390,70 @@
         "categoria": "pos-graduacao"
       },
       {
+        "url": "custos-e-patologia-do-concreto-360",
+        "id": "0411",
+        "image": "não disponível",
+        "titulo": "CUSTOS E PATOLOGIA DO CONCRETO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Custos e Patologia do Concreto, tem como objetivo capacitar o profissional para identificar as patologias do concreto, relacionando aos custos e promovendo o planejamento adequado das obras, bem como, gerenciar, coordenar e desenvolver projetos, fornecendo critérios e ferramentas úteis à tomada de decisão para a promoção das melhores práticas, priorizando a eficiência, o conforto ambiental.",
+          "publico_alvo": "O Curso de Pós-graduação Custos e Patologia do Concreto, destina-se a profissionais Arquitetos e Engenheiros. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Conceito de Patologia do Concreto",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Patologias das Construções e Estruturas",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Segurança do Trabalho",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gerenciamento da Qualidade e das Aquisições",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gerenciamento de Projetos",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Planejamento e Orçamento BIM",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Ferramentas BIM",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "engenharia-e-arquitetura",
+        "categoria": "pos-graduacao"
+      },
+      {
         "url": "construcoes-sustentaveis-e-ecourbanismo-360",
         "id": "5875",
         "image": "não disponível",

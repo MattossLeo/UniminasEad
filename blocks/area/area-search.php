@@ -29,11 +29,11 @@ $area_file = $area_name . '.json';
         <div class="row">
             <div class="col-lg-12">
                 <div class="main__workload--buttons">
-                    <div class="workload-720">
-                        <button id="workload720h" class="button-workload button-720">720H</button>
-                    </div>
                     <div class="workload-360">
-                        <button id="workload360h" class="button-workload button-360">360H</button>
+                        <button id="workload360h" class="workload360 button-360">CURSOS 360H</button>
+                    </div>
+                    <div class="workload-720">
+                        <button id="workload720h" class="button-workload button-720">TODOS OS CURSOS</button>
                     </div>
                 </div>
             </div>

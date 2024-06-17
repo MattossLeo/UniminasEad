@@ -3772,6 +3772,1612 @@
         "price": "43,90",
         "area": "tecnologia-da-informacao",
         "categoria": "pos-graduacao"
+      },
+      {
+        "url": "computação-em-nuvem-cloud-computing-360",
+        "id": "3185",
+        "image": "não disponível",
+        "titulo": "COMPUTAÇÃO EM NUVEM (CLOUD COMPUTING) (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Computação em Nuvem (Cloud Computing), tem como objetivo os seguintes aspectos: Atender a demanda por mão de obra qualificada em Cloud Computing, capaz de projetar e implementar produtos e serviços em uma infraestrutura de Computação na Nuvem, usando soluções e ferramentas das principais plataformas do mercado; Capacitar profissionais na realização de projetos e implementações adotando tecnologias emergentes e já consagradas no contexto de Cloud Computing (Redes, Data Centers, Servidores, Virtualização, Banco de Dados, Big Data, entre outras); Desenvolver uma visão completa e integrada das atividades e desafios relacionados a utilização da Cloud Computing; Gerar insights de negócios para obter competitividade no ambiente de Cloud; Propiciar, estimular e capacitar a pesquisa sobre novas tecnologias de Virtualização, Containers e Computação em Nuvem; Qualificar profissionais para a solução de problemas atuais em empresas e instituições, projetando e gerenciando soluções em Cloud Computing para os mais diferentes tipos de empresas e propósitos.",
+          "publico_alvo": "O Curso de Pós-graduação Computação em Nuvem (Cloud Computing), destina-se a graduados em Sistemas de Informação, Redes, Ciência da Computação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação, Análise de Dados, DBA (administração de banco de dados). Além disso, também se destina a profissionais de infraestrutura que trabalham com Cloud Computing, profissionais de TI e Telecom em geral, analistas de sistemas ou de negócios que buscam um conhecimento mais técnico de Cloud Computing, arquitetos de negócios e sistemas, profissionais que contratam, projetam ambientes ou fornecem serviços de Cloud Computing. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Arquitetura de Cloud Computing",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Engenharia de Redes para Cloud Computing",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Internet das Coisas (IOT)",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Plataformas e Implementação de Cloud Computing",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Segurança e Compliance",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Soluções e Tecnologias de Virtualização de Servidores",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "comunicação-alternativa-e-tecnologia-assistiva-360",
+        "id": "1880",
+        "image": "não disponível",
+        "titulo": "COMUNICAÇÃO ALTERNATIVA E TECNOLOGIA ASSISTIVA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Comunicação Alternativa e Tecnologia Assistiva, tem como objetivo capacitar profissionais para atuar na educação inclusiva aplicando conhecimentos científicos relacionados às tecnologias assistivas entre outros recursos como suporte para trabalhar com alunos portadores de necessidades especiais.",
+          "publico_alvo": "O Curso de Pós-graduação em Comunicação Alternativa e Tecnologia Assistiva, destina-se a profissionais da educação e interessados em atuar na educação inclusiva e especial. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Aspectos Psicológicos da Pessoa Portadora de Necessidades Especiais",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Noções Básicas sobre o Soroban",
+                "ch": "60 h"
+              },
+              {
+                "n": "04",
+                "nome": "Práticas e Oficinas Pedagógicas na Educação Inclusiva",
+                "ch": "60 h"
+              },
+              {
+                "n": "05",
+                "nome": "Sala de Recursos Multifuncionais",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Tecnologia Assistiva",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "cybercrime-e-cybersecurity-prevenção-e-investigação-de-crimes-digitais-360",
+        "id": "3227",
+        "image": "não disponível",
+        "titulo": "CYBERCRIME E CYBERSECURITY PREVENÇÃO E INVESTIGAÇÃO DE CRIMES DIGITAIS (360h)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais, tem como objetivo a atuação do profissional de forma proativa na área de Cybercrime e Cybersecurity. Por meio de uma formação reflexiva, crítica e criativa, conhecerá aspectos da inteligência e contra inteligência policial, da investigação criminal, da análise de dados em segurança e análise de ameaças, riscos e vulnerabilidades, além dos tipos de crimes cibernéticos, da criminologia do criminoso digital, principais problemas na segurança da Informação dentre outros, baseando-se em aspectos teóricos, estudos de casos e em ferramentas necessárias para uma atuação precisa, segura e de qualidade.",
+          "publico_alvo": "O Curso de Pós-graduação Cybercrime e Cybersecurity: Prevenção e Investigação de Crimes Digitais, destina-se a profissionais graduados em segurança pública como policiais, bombeiros, agentes de trânsito e de outras áreas como informática, que já estejam atuando ou que tenham interesse em ingressar na área de Cybercrime e Cybersecurity. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "35 h"
+              },
+              {
+                "n": "02",
+                "nome": "Cybercrime",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Crimes Cibernéticos e Inteligência",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Cybersecurity",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Análise de Dados em Segurança",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Análise de Ameaças, Riscos e Vulnerabilidades",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Inteligência Policial",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Investigação Criminal",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Legislação Aplicada e Perícia Digital",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "defesa-cibernética-360",
+        "id": "7087",
+        "image": "não disponível",
+        "titulo": "DEFESA CIBERNÉTICA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Defesa Cibernética, tem como objetivo capacitar os profissionais a conhecer ferramentas e conceitos aplicados a Defesa Cibernética, aplicar os conhecimentos relacionados a redes de computadores para defesa cibernética, desenvolver a capacidade proativa dos profissionais e suas habilidades empreendedoras, propondo soluções inovadoras e eficaz nas organizações contemporâneas no âmbito da segurança da informação e comunicação e defesa cibernética.",
+          "publico_alvo": "O Curso de Pós-graduação Defesa Cibernética, destina-se a profissionais gestores de tecnologia, CIOs, CSOs, engenheiros de sistemas, desenvolvedores, auditores de sistemas, peritos em segurança da informação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Segurança Em Sistemas Da Informação",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "A Defesa Cibernética No Contexto Atual",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gestão De Riscos E Ameaças",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Jogos E Simulações De Guerras Cibernéticas",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Macroprocessos Para Mapeamento De Ativos De Informação",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Políticas, Gestão De Segurança Da Informação E Da Continuidade De Negócios",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Times De Gerenciamento E Tratamento De Respostas A Incidentes Em Redes",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Sistemas Criptográficos, Biométricos, Direito Digital E Responsabilidade Civil Na Questão Da Monitoração Eletrônica",
+                "ch": "35 h"
+              },
+              {
+                "n": "",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": ""
+              },
+              {
+                "n": "10",
+                "nome": "CARGA HORÁRIA TOTAL",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "desenvolvimento-de-jogos-digitais-360",
+        "id": "6384",
+        "image": "não disponível",
+        "titulo": "DESENVOLVIMENTO DE JOGOS DIGITAIS (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Desenvolvimento de Jogos Digitais, tem como objetivo os seguintes aspectos: Atender à crescente demanda do mercado de trabalho por profissionais de TI especializados em jogos digitais, que são de crucial importância dada a evolução tecnológica dos últimos tempos; Capacitar profissionais graduados a atuar como: produtor de jogos, animador gráfico, projetista de jogos, designer-chefe, designer de sistema, designer de mecânica de jogo, designer de fase, designer de ambientação e redator, e poderá encontrar oportunidades de trabalho em empresas produtoras de jogos voltadas para entretenimento, serious game, educacional, advergames etc, agências de Publicidade e Propaganda ou como empreendedor na área. Contribuir para o aperfeiçoamento profissional na área de desenvolvimento de Jogos Digitais capacitando nas novas tecnologias existentes para projeto e desenvolvimento de jogos para múltiplas plataformas; Formar profissional qualificado e comprometido com as demandas do mercado de jogos, com domínio de conceito, técnica e tecnologia para multiplataformas e que seja capaz de atuar de forma criativa, crítica, inovadora e ética nas mais diversas áreas.",
+          "publico_alvo": "O Curso de Pós-graduação Desenvolvimento de Jogos Digitais, destina-se a profissionais com diploma de ensino superior na área de informática e que desejam entrar para a área do Desenvolvimento de Jogos Digitais. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Animação",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Inteligência Artificial",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Modelagem 3D",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Programação 2D",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Programação 3D",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Projeto de Jogos Digitais: Metodologias e Técnicas",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Redes Aplicadas a Jogos",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "desenvolvimento-de-sistemas-com-c-360",
+        "id": "8836",
+        "image": "não disponível",
+        "titulo": "DESENVOLVIMENTO DE SISTEMAS COM C# (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Desenvolvimento de Sistemas com C#, tem como objetivo capacita o profissional para programar na linguagem da Microsoft, o Visual C#.NET, aprendendo a como criar a interface gráfica do usuário, as técnicas de programação e a utilização do Banco de Dados Relacional. Os alunos ainda serão introduzidos nos conceitos básicos da linguagem C# e da plataforma .NET.",
+          "publico_alvo": "O Curso de Pós-graduação Desenvolvimento de Sistemas com C#, destina-se a Gerentes e coordenadores de projetos; analistas de sistemas; analistas de negócios; consultores; programadores; desenvolvedores; gestores de negócios, independente da área de formação, e demais profissionais da área de TI interessados em compreender umas das linguagens de programação mais utilizada no desenvolvimento de sistemas, o C#. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução a Programação Web",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Engenharia e Qualidade de Software",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Desenvolvimento de Aplicações.Net",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "C# com Banco de Dados",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gestão de Projetos de TI",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Linguagem de Programação C#",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sistemas de informação",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de conclusão de curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "desenvolvimento-de-sistemas-com-java-360",
+        "id": "3406",
+        "image": "não disponível",
+        "titulo": "DESENVOLVIMENTO DE SISTEMAS COM JAVA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Desenvolvimento de Sistemas com JAVA, tem como objetivo conhecer técnicas que facilitem a programação de sistemas, programar sistemas para Web e Mobile, conhecer o processo de produção e gerenciamento da produção de softwares, ampliar a visão cultural e mercadológica sobre ambientes Web e Mobile, conhecer ferramentas de que auxiliam no Desenvolvimento Java.",
+          "publico_alvo": "O Curso de Pós-graduação Desenvolvimento de Sistemas com JAVA, destina-se a gerentes, coordenadores de projetos, analistas de sistemas, analistas de negócios, consultores, programadores, desenvolvedores, gestores de negócios, profissionais da área de TI interessados em compreender a linguagem de programação mais utilizada no desenvolvimento de sistemas, o Java. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "02",
+                "nome": "Introdução A Programação Web",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Desenvolvimento De Sistemas Com Java",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Desenvolvimento De Sistemas Com Php",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Acessando Banco De Dados Com Java",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Linguagem De Programação Java",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Java Para Internet",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Engenharia De Software",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gestão De Projetos De Ti",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "desenvolvimento-de-sistemas-com-java-e-php-360",
+        "id": "2345",
+        "image": "não disponível",
+        "titulo": "DESENVOLVIMENTO DE SISTEMAS COM JAVA E PHP (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Desenvolvimento de Sistemas com Java e PHP  visa a formação de profissionais que atuem no segmento de tecnologia e desenvolvimento e áreas afins que queiram se especializar em Desenvolvimento de Sistemas com JAVA e PHP.",
+          "publico_alvo": "O Curso de Pós-graduação em Desenvolvimento de Sistemas com Java e PHP,  Gerentes e coordenadores de projetos; analistas de sistemas; analistas de negócios; consultores; programadores; desenvolvedores; gestores de negócios, independente da área de formação, e demais profissionais da área de TI interessados em compreender a linguagem de programação mais utilizada no desenvolvimento de sistemas, o Java.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "02",
+                "nome": "Desenvolvimento de Sistemas PHP",
+                "ch": "60 h"
+              },
+              {
+                "n": "03",
+                "nome": "Desenvolvimento de Sistemas JAVA",
+                "ch": "60 h"
+              },
+              {
+                "n": "04",
+                "nome": "Engenharia e Qualidade de Software",
+                "ch": "60 h"
+              },
+              {
+                "n": "05",
+                "nome": "Processo de Desenvolvimento de Software",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Acessando Banco de Dados com JAVA",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "desenvolvimento-em-aplicações-web-360",
+        "id": "9168",
+        "image": "não disponível",
+        "titulo": "DESENVOLVIMENTO EM APLICAÇÕES WEB (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Desenvolvimento em Aplicações Web, tem como objetivo aprofundar os conhecimentos teóricos para o desenvolvimento de Aplicações Web. Além disso, o curso apresenta ao aluno como compreender a realização de projetos de desenvolvimento de aplicações web, como agilizar e utilizar esse tipo de programação no mercado de trabalho.",
+          "publico_alvo": "O Curso de Pós-graduação Desenvolvimento em Aplicações Web, destina-se a Graduados nas áreas de Tecnologia da Informação, Ciências da Computação e aos profissionais que desejam adquirir conhecimento sobre o Desenvolvimento em Aplicações Web. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Processo de desenvolvimento de software",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Introdução a programação web",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Introdução ao mundo big data e ciência de dados",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Desenvolvimento e computação em nuvem",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Construção e implantação de aplicações web",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Segurança e governança de ti, cybersecurity e privacidade de dados",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Análise e Otimização de Acessos",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "TI – Visão Estratégica de Negócios e Transformação Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Gerenciamento de projetos de aplicações web",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Tecnologias front-end e back-end",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "design-de-produto-360",
+        "id": "0589",
+        "image": "não disponível",
+        "titulo": "DESIGN DE PRODUTO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Design de Produto, tem como objetivo a abordagem do design como resposta conceitual e prática aos desafios e oportunidades de um futuro em constante mudança, o curso apresenta o pensamento transdisciplinar do design, permitindo diversos caminhos profissionais.",
+          "publico_alvo": "O Curso de Pós-graduação Design de Produto, destina-se ao profissional graduado, de preferência nas áreas de design, engenharia, arquitetura, que atuam ou querem atuar na área de desenvolvimento de produtos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "História do Design",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Design Sustentável",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Percepção Visual",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Linguagem Fotográfica",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Design Gráfico",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Design Thinking",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Prototipação e Storytelling",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Desenho Técnico",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "governança-em-ti-360",
+        "id": "4013",
+        "image": "não disponível",
+        "titulo": "GOVERNANÇA EM TI (360H)",
+        "conteudo": {
+          "objetivos": "O curso de pós-graduação em Governança em T.I, visa preparar o profissional para a atuar nas diversas dimensões da gestão relacionadas com a Tecnologia da Informação e Comunicação (TIC).",
+          "publico_alvo": "A pós-graduação em Governança em T.I, destina-se a graduados de cursos superiores que atuam na área de gestão de tecnologias de informação e que necessitam aprimorar seus conhecimentos sobre a governança e gestão de TI.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Arquitetura Corporativa",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Auditoria de TI",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Big Data e Gestão de Dados",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gerenciamento de Projetos de TI",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Governança em TI",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Planejamento Estratégico e Portfolios de TI",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "informática-na-educação-360",
+        "id": "4398",
+        "image": "não disponível",
+        "titulo": "INFORMÁTICA NA EDUCAÇÃO (360H)",
+        "conteudo": {
+          "objetivos": "O curso de pós-graduação em Informática na Educação, visa capacitar profissionais da educação a conceber e utilizar projetos educacionais incorporando as Tecnologias de Informação e Comunicação, bem como ferramentas computacionais que auxiliam o professor no desenvolvimento do trabalho pedagógico.",
+          "publico_alvo": "A pós-graduação em Informática na Educação é destinado aos profissionais da educação, dentre professores licenciados em pedagogia, professores da educação básica, professores de educação especial, professores de ensino superior, gestores escolares, que procuram se inserir melhor no universo educacional de seus alunos e elaborar estratégias eficientes para o desenvolvimento dos mesmos. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Introdução ao Estudo da Informática",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Educação a Distância: Métodos e Tecnologias",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Informática na Educação: Conceitos Básicos",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Informática e o Processo de Ensino e Aprendizagem",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Ambientes Virtuais de Aprendizagem",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Aspectos Éticos Socioeconômicos do Uso das Novas Tecnologias na Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "informática-na-educação-e-docência-do-ensino-superior-360",
+        "id": "8609",
+        "image": "não disponível",
+        "titulo": "INFORMÁTICA NA EDUCAÇÃO E DOCÊNCIA DO ENSINO SUPERIOR (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Informática na Educação e Docência do Ensino Superior,  tem como objetivo a capacitação de profissionais da educação a conceber e utilizar projetos educacionais incorporando as Tecnologias de Informação e Comunicação, bem como ferramentas computacionais que auxiliam o professor no desenvolvimento do trabalho pedagógico e o curso objetiva desenvolver competências referentes às dimensões cognitivas e pedagógicas do professor do ensino superior a partir da reflexão sobre o docente do século 21, do debate sobre experiências profissionais da pesquisa, da atualização de conteúdos e da vivência de práticas educacionais próprias para o ensino superior.",
+          "publico_alvo": "O Curso de Pós-graduação Informática na Educação e Docência do Ensino Superior, é destinado a profissionais da área Educacional. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Planejamento Educacional e Currículo",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Administração da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "As TIC´s Aplicadas ao Ensino Superior",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Avaliação Escolar e Concepções Pedagógicas de Ensino",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Novas Tecnologias e Mediação do Pedagógica",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Planejamento Estratégico em Educação",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalhando com o PowerPoint",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "inteligência-artificial-360",
+        "id": "8095",
+        "image": "não disponível",
+        "titulo": "INTELIGÊNCIA ARTIFICIAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Inteligência Artificial, tem como objetivo preencher a lacuna existente hoje no mercado Brasileiro: por um lado as empresas têm necessidade de profissionais capacitados, por outro, há poucos cursos que realmente ensinem a inteligência artificial como é necessário para estas empresas, já que vemos muitos problemas e técnicas de pontas que resolvem problemas muito mais acadêmicos que reais. Assim sendo, o curso tem como objetivo apresentar a inteligência artificial real, como é necessária para o mercado.",
+          "publico_alvo": "O Curso de Pós-graduação Inteligência Artificial, destina-se a Profissionais de nível superior das áreas de computação, ciências exatas de base (como Física, Química e Matemática), economia e engenharias. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "Classificação e Predição",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Deep Learning",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Engenharia de Software para Inteligência Artificial",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Levando IA para Produção",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Matemática para Inteligência Artificial",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Reinforcement Learning",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "perícia-cibernética-360",
+        "id": "4571",
+        "image": "não disponível",
+        "titulo": "PERÍCIA CIBERNÉTICA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Perícia Cibernética, tem como objetivo preparar o aluno para atuar como perito, especialista, consultor e assessor em segurança da informação e cibernética. Capacitando para atuar em perícia forense, segurança cibernética, ethical hacking, governança e gestão de vulnerabilidades de sistemas de informação, computação forense e projetos de defesa cibernética em organizações governamentais, privadas e jurídicas. Instrumentalizar a aplicação da computação forense como ferramenta de apoio nas investigações pré e pós-litígio de crimes cibernéticos.",
+          "publico_alvo": "O Curso de Pós-graduação em Perícia Cibernética, destina-se a profissionais com nível superior, sejam eles civis, militares, T.I, servidores públicos ou privados, que atuem em áreas como computação, administração, segurança e perícia. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "A defesa cibernética no contexto atual",
+                "ch": "60 h"
+              },
+              {
+                "n": "03",
+                "nome": "Auditoria em Ambientes Cibernéticos",
+                "ch": "60 h"
+              },
+              {
+                "n": "04",
+                "nome": "Criminalística e Legislação Cibernética",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Ethical Hacker e Inteligência Cibernética",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Perícia Forense Computacional",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Sistemas Criptográficos, Biométricos, Direito Digital e Responsabilidade Civil na Questão da Monitoração Eletrônica",
+                "ch": "30 h"
+              },
+
+              {
+                "n": "08",
+                "nome": "Procedimentos e Recursos Humanos e Tecnológicos Empregados na Detecção e Investigação de Ilícitos",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "perícia-forense-aplicada-a-informática-360",
+        "id": "7527",
+        "image": "não disponível",
+        "titulo": "PERÍCIA FORENSE APLICADA A INFORMÁTICA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Perícia Forense Aplicada a Informática, tem como objetivo, formar profissionais com competências para gerir as atividades relacionadas à Perícia Forense Aplicada à Informática, possibilitando uma visão global de sua gestão e formação de agentes multiplicadores da educação.",
+          "publico_alvo": "O Curso de Pós-graduação Perícia Forense Aplicada a Informática, destina-se a profissionais com nível de escolaridade superior, interessados em especializar-se no curso de Perícia Forense Aplicada à Informática. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Aspectos Legais da Computação Forense",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gestão de Serviços e Tecnologia da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Auditoria de Sistemas e Segurança de Software",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Gerenciamento Estratégico de Sistema de Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Gestão de Redes e Ligação Inter-Redes",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Segurança da Informação e Comércio Eletrônico",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Analise Forense em Sistemas Operacionais",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Laudo Pericial e Parecer Técnico",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Análise Forense em Redes de Computação",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Vulnerabilidade de Sistemas Operacionais e Redes de Computadores",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "perícia-forense-computacional-360",
+        "id": "6493",
+        "image": "não disponível",
+        "titulo": "PERÍCIA FORENSE COMPUTACIONAL (360H)",
+        "conteudo": {
+          "objetivos": "",
+          "publico_alvo": "O Curso de Pós-graduação Perícia Forense Computacional, destina-se a profissionais graduados na área de Tecnologia da Informação, que desejam se especializar em Perícia Forense Computacional. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "Métodos e técnicas de investigação",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Análise forense em redes de computação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Análise forense em sistemas operacionais",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Aspectos legais da computação forense",
+                "ch": "60 h"
+              },
+              {
+                "n": "06",
+                "nome": "Perícia forense computacional",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Vulnerabilidade de sistemas operacionais e redes de computadores",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Laudo Pericial e Parecer Técnico",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de conclusão de curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "segurança-da-informação-360",
+        "id": "3176",
+        "image": "não disponível",
+        "titulo": "SEGURANÇA DA INFORMAÇÃO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Segurança da Informação, tem como objetivo formar profissionais especialistas em segurança da informação, de maneira que todos os participantes que concluírem essa pós-graduação sejam capazes de desenvolver metodologias para proteger redes de computadores e sistemas computacionais conectados às redes nas organizações, aplicando políticas de segurança e visando a melhora da confiabilidade e confidencialidade das informações que trafegam internamente e externamente nos computadores.",
+          "publico_alvo": "O Curso de Pós-graduação em Segurança da Informação destina-se a profissionais graduados nas áreas de Tecnologia da Informação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "60 h"
+              },
+              {
+                "n": "02",
+                "nome": "LGPD (Lei de proteção de dados)",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Forense Computacional e Criptografia",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Auditoria e Controle de Acesso",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Padrões e Normas e Política de Segurança da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Segurança em Cloud e Dispositivos Wireless",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Segurança em Redes de Computadores",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Tópicos em Segurança da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Gestão de Projetos em Tecnologia da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "segurança-de-redes-de-computadores-360",
+        "id": "4827",
+        "image": "não disponível",
+        "titulo": "SEGURANÇA DE REDES DE COMPUTADORES (360 )",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Segurança de Redes de Computadores, tem como objetivo os seguintes aspectos: Promover a formação de recursos humanos para atuar nas diferentes áreas do conhecimento humano, de modo a atender às demandas da sociedade, utilizando as modernas tecnologias; Possibilitar a compreensão e aplicabilidade das tecnologias na solução dos problemas das organizações; Promover atualização profissional de pessoal técnico atuante na área, de modo que possam ser melhoradas as suas condições de gestão em tecnologia da informação - Segurança de Redes de Computadores.",
+          "publico_alvo": "O Curso de Pós-graduação Segurança de Redes de Computadores, destina-se a profissionais graduados na área de Tecnologia da Informação, interessados em atualização profissional na área de Segurança de Redes de Computadores. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Administração de Segurança da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gestão da Tecnologia da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gestão de Projetos Aplicada",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Governança de Tecnologia da Informação",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Mecanismos de Criptografia",
+                "ch": "60 h"
+              },
+              {
+                "n": "07",
+                "nome": "Mecanismos de Segurança de Redes",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Segurança em Sistemas Web",
+                "ch": "60 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "30 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "sistema-de-informação-360",
+        "id": "7957",
+        "image": "não disponível",
+        "titulo": "SISTEMA DE INFORMAÇÃO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Sistema de Informação, tem como objetivo possibilitar a compreensão e aplicabilidade das tecnologias na solução dos problemas das organizações; e promover atualização profissional de pessoal técnico atuante na área, de modo que possam ser melhoradas as suas condições de gestão em tecnologia da informação.",
+          "publico_alvo": "O Curso de Pós-graduação em Sistema de Informação, destina-se a graduados nas áreas da Tecnologia da Informação.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Análises de Sistemas",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Tecnologia da Informação: Conceitos e Fundamentos",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Engenharia e Qualidade do Software",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Algoritmos e Programação de Computadores",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Segurança e Auditoria de Sistemas",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Direito Aplicado a Informática",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "tecnologia-da-informação-360",
+        "id": "5814",
+        "image": "não disponível",
+        "titulo": "TECNOLOGIA DA INFORMAÇÃO (360H)",
+        "conteudo": {
+          "objetivos": "O curso de pós-graduação em Tecnologia da Informação, qualifica profissionais para a gestão da informação e processos de comunicação mediados por sistemas e computadores em rede. Além de aprofundar conhecimentos e especializá-los para atuação gerencial em projetos orientados para redes de comunicação com segurança na informação e capacidade de interatividade com o usuário.",
+          "publico_alvo": "A pós-graduação em Tecnologia da Informação destina-se a profissionais com formação superior nos cursos de Ciência da Computação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Gestão de Projetos em Tecnologia da Informação",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Padrões, Normas e Política de Segurança da Informação",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Infraestrutura e Computação em Nuvem",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Engenharia de Software",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Segurança da Informação",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Metodologias de Desenvolvimento de Software",
+                "ch": "60 h"
+              },
+              {
+                "n": "08",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "tecnologias-digitais-e-inovação-na-educação-360",
+        "id": "2366",
+        "image": "não disponível",
+        "titulo": "TECNOLOGIAS DIGITAIS E INOVAÇÃO NA EDUCAÇÃO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Tecnologias Digitais e Inovação na Educação, tem como objetivo especializar profissionais dos setores público, privado, educacional, terceiro setor, dentre outros, para lidarem com as características multidisciplinares do uso das tecnologias digitais na educação e a inovação como forma de promoção contínua do acompanhamento da evolução científico e tecnológica e seus usos e aplicações na educação. Estudar e analisar as diversas estratégias didáticas para uso das tecnologias digitais na educação. Desenvolver conhecimentos e habilidades para o planejamento e a execução de projetos educacionais de implantação e uso da tecnologia no contexto institucional e de aprendizagem, dentro e fora da sala de aula, no contexto formal e informal. Promover o processo de inovação como forma de acompanhamento das mudanças tecnológicas, sociais e culturais.",
+          "publico_alvo": "O Curso de Pós-graduação Tecnologias Digitais e Inovação na Educação, destina-se a profissionais da Educação, Pedagogia e professores da educação básica. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Recursos digitais: Software educacionais",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Teorias de Ensino e Aprendizagem no Contexto das Tecnologias Digitais",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Ambientes virtuais de aprendizagem",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Teorias da Aprendizagem",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Tecnologias e aprendizado em dispositivos móveis (m-learning)",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Sistemas Adaptativos e Personalização",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Novas Tecnologias Educacionais",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "tecnologias-digitais-para-sala-de-aula-360",
+        "id": "8034",
+        "image": "não disponível",
+        "titulo": "TECNOLOGIAS DIGITAIS PARA SALA DE AULA (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Tecnologias Digitais Para Sala de Aula, tem como objetivo favorecer a formação crítica e criativa do aluno pós-graduando, destacando seu papel profissional como educador; Desenvolver atividades de pesquisa e extensão apresentando autonomia intelectual e espírito investigativo; Analisar os fundamentos das tecnologias digitais para sala de aula refletindo sobre o contexto sócio-histórico-econômico-cultural que os consolidaram, relacionando-os às novas necessidades educacionais; Aprofundar os conhecimentos sobre tecnologias digitais para sala de aula a partir das diversas concepções, reconhecendo suas implicações teóricas e metodológicas para utilização no mercado de trabalho.",
+          "publico_alvo": "O Curso de Pós-graduação Tecnologias Digitais Para Sala de Aula, destina-se aos pedagogos, que desejam aprofundar seus conhecimentos nas tecnologias digitais e inovação na educação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "Computação e Animação Gráfica",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Designer Instrucional",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gestão de Projetos",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Teorias da Aprendizagem",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Integração de Mídias na Prática Pedagógica",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Métodos e Técnicas no Uso das Novas Tecnologias",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Produção e Avaliação de Materiais Educacionais",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Softwares Educacionais",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso – TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "tecnologias-digitais-para-sala-de-aula-user-experience-ux-e-user-interface-ui-360",
+        "id": "8041",
+        "image": "não disponível",
+        "titulo": "TECNOLOGIAS DIGITAIS PARA SALA DE AULA USER EXPERIENCE (UX) E USER INTERFACE (UI) (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Tecnologias Digitais para Sala de Aula User Experience (UX) e User Interface (UI), tem como objetivo os seguintes aspectos: Ampliar a oferta de formação acadêmica e profissional na área do design de comunicação com a ênfase no UX/UI, que é um mercado em alta na área de TI e afins; Apresentar as diferentes possibilidades de trabalho de um profissional de UX, bem como técnicas e melhores ferramentas para sua aplicação em diferentes tipos de projeto;  Apresentar os conceitos, etapas e ferramentas utilizados no processo de concepção e construção de uma experiência do usuário adequada para plataformas digitais e capacitar os participantes para atuação colaborativa para concepção de produtos e serviços digitais; Atender à demanda por mão de obra qualificada em UX/UI, permitindo ao aluno traduzir estratégias empresariais diversas para esses ambientes digitais; Considerar os princípios de UX/UI refletindo sobre o contexto sócio-histórico-econômico-cultural que os consolidaram, relacionando-os às novas necessidades educacionais; Dotar os alunos nas competências necessárias para trabalhar na área web, desktop e mobile, dando principal enfoque às áreas da usabilidade e da experiência do usuário; Favorecer a formação crítica e criativa do aluno pós-graduando, destacando seu papel profissional; Preparar os alunos com ferramentas tecnológicas, teóricas e projetuais para avaliar uma solicitação profissional na área de UX/UI.",
+          "publico_alvo": "O Curso de Pós-graduação Tecnologias Digitais para Sala de Aula User Experience (UX) e User Interface (UI), destina-se a Designers e profissionais da área de Tecnologia da Informação. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Integração de Mídias na Prática Pedagógica",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gamificação",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Computação e Animação Gráfica",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Inovação Através do Design Thinking",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Design de Interação",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Design de Interfaces",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Novas Tecnologias Educacionais",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "user-experience-ux-e-user-interface-ui-360",
+        "id": "6529",
+        "image": "não disponível",
+        "titulo": "USER EXPERIENCE (UX) E USER INTERFACE (UI) (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em User Experience (UX) e User Interface (UI), tem como objetivo ampliar a oferta de formação acadêmica e profissional na área do design de comunicação com a ênfase no UX/UI, que é um mercado em alta na área de TI e afins; Apresentar as diferentes possibilidades de trabalho de um profissional de UX, bem como técnicas e melhores ferramentas para sua aplicação em diferentes tipos de projeto; Apresentar os conceitos, etapas e ferramentas utilizados no processo de concepção e construção de uma experiência do usuário adequada para plataformas digitais e capacitar os participantes para atuação colaborativa para concepção de produtos e serviços digitais; Atender à demanda por mão de obra qualificada em UX/UI, permitindo ao aluno traduzir estratégias empresariais diversas para esses ambientes digitais.",
+          "publico_alvo": "O Curso de Pós-graduação User Experience (UX) e User Interface (UI), é destinado a designers, ergonomistas, arquitetos de informação, web designers, profissionais de informática, profissionais da área de comunicação, jornalistas, pesquisadores, publicitários. O Curso também pode ser feito por outros profissionais da área de TI que tenham afinidade e/ou interesse em compreender melhor o mundo do UX/UI. Carga Horária A grade acima é da FACUMINAS. Não consta registro no E-MEC. Enviar para registro.",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Princípios de UX",
+                "ch": "40 h"
+              },
+              {
+                "n": "03",
+                "nome": "Gamificação",
+                "ch": "40 h"
+              },
+              {
+                "n": "04",
+                "nome": "Princípios de UI",
+                "ch": "40 h"
+              },
+              {
+                "n": "05",
+                "nome": "Design Thinking",
+                "ch": "40 h"
+              },
+              {
+                "n": "06",
+                "nome": "Design de Interação",
+                "ch": "40 h"
+              },
+              {
+                "n": "07",
+                "nome": "Design de Interfaces",
+                "ch": "40 h"
+              },
+              {
+                "n": "08",
+                "nome": "Arquitetura da Informação",
+                "ch": "40 h"
+              },
+              {
+                "n": "09",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "tecnologia-da-informacao",
+        "categoria": "pos-graduacao"
       }
     ]
   }
