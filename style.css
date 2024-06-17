@@ -988,10 +988,10 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
     justify-content: center;
 }
 .workload-720{
-    padding-right: 10px;
+    padding-left: 10px;
 }
 .workload-360{
-    padding-left: 10px;
+    padding-right: 10px;
 }
 .button-workload {
     border: none;
@@ -999,8 +999,18 @@ label[for="name"],label[for="email"], label[for="phone"], label[for="graduation"
     font-family: 'Lufga', sans-serif;
     font-size: 20px;
     font-weight: 600;
-    background: #A8F83E;
+    background: #b6ff56;
     color: #274829;
+    padding: 5px 15px;
+}
+.workload360 {
+    border: none;
+    border-radius: 5px;
+    font-family: 'Lufga', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    background: #FF7A00;
+    color: #fff;
     padding: 5px 15px;
 }
 .main__card--courses {

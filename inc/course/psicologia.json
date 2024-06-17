@@ -16264,6 +16264,149 @@
         "categoria": "pos-graduacao"
       },
       {
+        "url": "sexologia-360",
+        "id": "5221",
+        "image": "não disponível",
+        "titulo": "SEXOLOGIA (360H)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Sexologia, tem como objetivo deste curso é preparar profissionais que lidam com a questão da sexualidade no cotidiano de seu trabalho para uma atuação embasada e consciente, através da desmistificação de tabus, crenças e preconceitos baseada em conceitos científicos. As disfunções sexuais serão reconhecidas e discutidas, assim como suas causas e novas propostas para tratamentos específicos.",
+          "publico_alvo": "O curso de Pós-graduação em Sexologia destina-se a profissionais graduados em Psicologia e na área da Saúde.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "História da Sexualidade, Corporeidade e Gênero",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Disfunções Sexuais",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gêneros e Sexualidade- Diálogos Contemporâneos",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Doenças Virais Sexualmente Transmissíveis",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Sexologia e Anatomia Humana",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Sexologia na Terceira Idade",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sexualidade - Normal e Patológica",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Sexualidade na Gravidez",
+                "ch": "60 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "psicologia",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "sexologia-clínica-360",
+        "id": "6114",
+        "image": "não disponível",
+        "titulo": "SEXOLOGIA CLÍNICA (360h)",
+        "conteudo": {
+          "objetivos": "O curso de Pós-graduação em Sexologia Clínica, tem como objetivo deste curso é preparar profissionais que lidam com a questão da sexualidade no cotidiano de seu trabalho para uma atuação embasada e consciente, através da desmistificação de tabus, crenças e preconceitos baseada em conceitos científicos. As disfunções sexuais serão reconhecidas e discutidas, assim como suas causas e novas propostas para tratamentos específicos, identificando possibilidades terapêuticas que promovam a melhora da qualidade de vida dos pacientes, através do domínio de patologias referentes à sexualidade e aos fenômenos psicossomáticos capazes de desencadear doenças.",
+          "publico_alvo": "O curso de Pós-graduação em Sexologia Clínica destina-se a profissionais graduados em Psicologia e na área da Saúde.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "30 h"
+              },
+              {
+                "n": "02",
+                "nome": "História da Sexualidade, Corporeidade e Gênero",
+                "ch": "30 h"
+              },
+              {
+                "n": "03",
+                "nome": "Disfunções Sexuais",
+                "ch": "30 h"
+              },
+              {
+                "n": "04",
+                "nome": "Gêneros e Sexualidade- Diálogos Contemporâneos",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Doenças Virais Sexualmente Transmissíveis",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Sexologia e Anatomia Humana",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Sexologia na Terceira Idade",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Sexualidade - Normal e Patológica",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Sexualidade na Gravidez",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Terapia Aplicada a Sexualidade",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "60 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "psicologia",
+        "categoria": "pos-graduacao"
+      },
+      {
         "url": "tdah-transtorno-do-déficit-de-atenção-e-hiperatividade-360",
         "id": "1498",
         "image": "não disponível",

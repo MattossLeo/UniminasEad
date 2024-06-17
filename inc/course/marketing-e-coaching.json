@@ -2465,6 +2465,233 @@
         "price": "43,90",
         "area": "marketing-e-coaching",
         "categoria": "pos-graduacao"
+      },
+      {
+        "url": "design-gráfico-360",
+        "id": "6811",
+        "image": "não disponível",
+        "titulo": "DESIGN GRÁFICO (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Design Gráfico, tem como objetivo formar profissionais competentes para atuar na área de Designer Gráfico, compreendendo o desenvolvimento das estratégias do marketing visual, o planejamento, criação e execução de projetos gráficos de editoração, bem como a utilização de infográficos e o desenvolvimento de projetos de interface.",
+          "publico_alvo": "O Curso de Pós-graduação Design Gráfico, destina-se a graduados em Arquitetura, Artes Visuais, Marketing, Comunicação, Computação e profissionais com formação superior em outras áreas e que atuam no campo do design.  Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "História Do Design",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Design Gráfico",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Design De Interfaces",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Branding E Design Estratégico",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Design Digital",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Tipografia",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gerenciamento De Projetos",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Fundamentos Da Linguagem Visual E Teoria Da Cor",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho De Conclusão De Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "design-instrucional-360",
+        "id": "9787",
+        "image": "não disponível",
+        "titulo": "DESIGN INSTRUCIONAL (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Design Instrucional, tem como objetivo os seguintes aspectos: Desenvolver competências relacionadas a todo o processo de desenvolvimento de cursos na modalidade a distância, desde o planejamento, concepção até a gestão. Compreender a importância e atribuições do profissional Designer Instrucional; Conhecer as diferentes teorias pedagógicas, com ênfase nas metodologias ativas de ensino aprendizagem e sua aplicabilidade na concepção de um curso; Conhecer a história da Educação a Distância e sua importância na sociedade atual, suas potencialidades; Conhecer os recursos de Design Instrucional e sua aplicabilidade na potencialização do aprendizado.",
+          "publico_alvo": "O Curso de Pós-graduação Design Instrucional, destina-se a graduados que atuam ou desejam atuar no ensino e na produção de material didático desde sua concepção, planejamento, escolha dos referenciais metodológicos, elaboração de atividades e objetos de aprendizagem, utilização dos recursos de design instrucional, indicando mídias e ferramentas para que o conteúdo seja didático e eficaz em seu propósito. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "40 h"
+              },
+              {
+                "n": "02",
+                "nome": "Planejamento Didático em Design Instrucional",
+                "ch": "35 h"
+              },
+              {
+                "n": "03",
+                "nome": "Recursos do design instrucional, storyboards e design thinking",
+                "ch": "35 h"
+              },
+              {
+                "n": "04",
+                "nome": "Conceitos e Inovações no Design Instrucional",
+                "ch": "35 h"
+              },
+              {
+                "n": "05",
+                "nome": "Design instrucional e a elaboração de conteúdos",
+                "ch": "35 h"
+              },
+              {
+                "n": "06",
+                "nome": "Ferramentas Digitais e Dinâmicas Virtuais",
+                "ch": "35 h"
+              },
+              {
+                "n": "07",
+                "nome": "Transmídias e Interfaces Digitais na Educação",
+                "ch": "35 h"
+              },
+              {
+                "n": "08",
+                "nome": "Gestão, Avaliação e Validação de Projetos Educacionais",
+                "ch": "35 h"
+              },
+              {
+                "n": "09",
+                "nome": "Acessibilidade e Tecnologias Assistivas na Educação a Distância",
+                "ch": "35 h"
+              },
+              {
+                "n": "10",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "40 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
+      },
+      {
+        "url": "neuromarketing-360",
+        "id": "6768",
+        "image": "não disponível",
+        "titulo": "NEUROMARKETING (360H)",
+        "conteudo": {
+          "objetivos": "O Curso de Pós-graduação em Neuromarketing, tem como objetivo proporcionar a análise das reações cerebrais do consumidor e ajustar a abordagem e a mídia para maior impacto e conversão dos clientes.",
+          "publico_alvo": "O Curso de Pós-graduação Neuromarketing, destina-se a profissionais de publicidade e propaganda, consultores e professores da área de Marketing, administradores e gestores. Carga Horária",
+          "carga_horaria": {
+            "disciplinas": [
+              {
+                "n": "01",
+                "nome": "Metodologia Científica",
+                "ch": "20 h"
+              },
+              {
+                "n": "02",
+                "nome": "Fundamentos da Neurociência",
+                "ch": "20 h"
+              },
+              {
+                "n": "03",
+                "nome": "Design Thinking",
+                "ch": "20 h"
+              },
+              {
+                "n": "04",
+                "nome": "Mentes Geniais",
+                "ch": "30 h"
+              },
+              {
+                "n": "05",
+                "nome": "Inteligências Múltiplas",
+                "ch": "30 h"
+              },
+              {
+                "n": "06",
+                "nome": "Inteligência Emocional",
+                "ch": "30 h"
+              },
+              {
+                "n": "07",
+                "nome": "Inteligência e Estratégia Competitiva",
+                "ch": "30 h"
+              },
+              {
+                "n": "08",
+                "nome": "Marketing: Branding Position",
+                "ch": "30 h"
+              },
+              {
+                "n": "09",
+                "nome": "Marketing Digital",
+                "ch": "30 h"
+              },
+              {
+                "n": "10",
+                "nome": "Neurociência e Neuromarketing",
+                "ch": "30 h"
+              },
+              {
+                "n": "11",
+                "nome": "Neurovendas Aplicada",
+                "ch": "30 h"
+              },
+              {
+                "n": "12",
+                "nome": "Comportamento do Consumidor",
+                "ch": "20 h"
+              },
+              {
+                "n": "13",
+                "nome": "Técnicas de Negociação",
+                "ch": "20 h"
+              },
+              {
+                "n": "14",
+                "nome": "Trabalho de Conclusão de Curso - TCC",
+                "ch": "20 h"
+              }
+            ],
+            "carga_horaria_total": "360 h"
+          }
+        },
+        "fakePrice": "51,90",
+        "price": "43,90",
+        "area": "marketing-e-coaching",
+        "categoria": "pos-graduacao"
       }
     ]
   }
